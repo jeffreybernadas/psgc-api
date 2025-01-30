@@ -37,7 +37,7 @@ paths:
           content:
             application/json:
               schema:
-                $ref: "#/components/schemas/ResponseSchemaRegion"
+                $ref: '#/components/schemas/ResponseSchemaRegion'
   /api/v1/region/{regionCode}:
     get:
       tags:
@@ -56,13 +56,13 @@ paths:
           content:
             application/json:
               schema:
-                $ref: "#/components/schemas/ResponseSchemaRegion"
+                $ref: '#/components/schemas/ResponseSchemaRegion'
         404:
           description: Region not found.
           content:
             application/json:
               schema:
-                $ref: "#/components/schemas/ResponseSchemaError"
+                $ref: '#/components/schemas/ResponseSchemaError'
 components:
   schemas:
     ResponseSchemaRegion:
@@ -81,7 +81,7 @@ components:
           type: array
           description: The data of the response.
           items:
-            $ref: "#/components/schemas/RegionSchema"
+            $ref: '#/components/schemas/RegionSchema'
     ResponseSchemaError:
       type: object
       properties:
