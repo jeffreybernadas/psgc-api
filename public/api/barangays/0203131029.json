@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203131029",
+    "name": "Zone III  (Pob.)",
+    "code": "023131029",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3722,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203131000"
+  }
+]

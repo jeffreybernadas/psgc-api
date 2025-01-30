@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0102820015",
+    "name": "San Marcos",
+    "code": "012820015",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3006,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0102800000",
+    "cityMunicipalityCode": "0102820000"
+  }
+]

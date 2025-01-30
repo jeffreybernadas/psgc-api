@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1004209009",
+    "name": "Clarin Settlement",
+    "code": "104209009",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 490,
+    "isCapital": false,
+    "regionCode": "1000000000",
+    "provinceCode": "1004200000",
+    "cityMunicipalityCode": "1004209000"
+  }
+]

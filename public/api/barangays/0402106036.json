@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402106036",
+    "name": "San Miguel",
+    "code": "042106036",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 4118,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402106000"
+  }
+]

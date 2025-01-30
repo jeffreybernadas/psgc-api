@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203122006",
+    "name": "Estrada",
+    "code": "023122006",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 839,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203122000"
+  }
+]

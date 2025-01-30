@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103301017",
+    "name": "San Joaquin Norte",
+    "code": "013301017",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1497,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103301000"
+  }
+]

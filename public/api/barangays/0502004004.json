@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0502004004",
+    "name": "Buenavista",
+    "code": "052004004",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 630,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0502000000",
+    "cityMunicipalityCode": "0502004000"
+  }
+]

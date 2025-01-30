@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1600306029",
+    "name": "San Salvador",
+    "code": "160306029",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1642,
+    "isCapital": false,
+    "regionCode": "1600000000",
+    "provinceCode": "1600300000",
+    "cityMunicipalityCode": "1600306000"
+  }
+]

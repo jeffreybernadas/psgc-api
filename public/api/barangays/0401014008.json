@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401014008",
+    "name": "San Sebastian",
+    "code": "041014008",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 3647,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401014000"
+  }
+]

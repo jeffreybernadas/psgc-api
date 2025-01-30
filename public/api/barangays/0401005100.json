@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401005100",
+    "name": "Santo Niño",
+    "code": "041005100",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2468,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401005000"
+  }
+]

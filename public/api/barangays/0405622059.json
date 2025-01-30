@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0405622059",
+    "name": "Roma",
+    "code": "045622059",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 229,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0405600000",
+    "cityMunicipalityCode": "0405622000"
+  }
+]

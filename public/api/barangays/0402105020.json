@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402105020",
+    "name": "Barangay 27",
+    "code": "042105020",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 454,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402105000"
+  }
+]

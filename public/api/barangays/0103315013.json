@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103315013",
+    "name": "Lipay Este",
+    "code": "013315013",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 537,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103315000"
+  }
+]

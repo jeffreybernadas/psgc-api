@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0806008018",
+    "name": "Cabang",
+    "code": "086008018",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 344,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0806000000",
+    "cityMunicipalityCode": "0806008000"
+  }
+]

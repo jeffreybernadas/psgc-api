@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0405813005",
+    "name": "Santa Ana",
+    "code": "045813005",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 107415,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0405800000",
+    "cityMunicipalityCode": "0405813000"
+  }
+]

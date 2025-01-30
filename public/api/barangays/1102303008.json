@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1102303008",
+    "name": "La Paz",
+    "code": "112303008",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2757,
+    "isCapital": false,
+    "regionCode": "1100000000",
+    "provinceCode": "1102300000",
+    "cityMunicipalityCode": "1102303000"
+  }
+]

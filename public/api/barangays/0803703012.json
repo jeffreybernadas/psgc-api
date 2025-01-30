@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0803703012",
+    "name": "San Pedro",
+    "code": "083703012",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3968,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0803700000",
+    "cityMunicipalityCode": "0803703000"
+  }
+]

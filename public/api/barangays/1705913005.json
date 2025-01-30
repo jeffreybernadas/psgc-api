@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1705913005",
+    "name": "España",
+    "code": "175913005",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2345,
+    "isCapital": false,
+    "regionCode": "1700000000",
+    "provinceCode": "1705900000",
+    "cityMunicipalityCode": "1705913000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0502009017",
+    "name": "Paraiso",
+    "code": "052009017",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1111,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0502000000",
+    "cityMunicipalityCode": "0502009000"
+  }
+]

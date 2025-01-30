@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1400116011",
+    "name": "San Ramon East",
+    "code": "140116011",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2843,
+    "isCapital": false,
+    "regionCode": "1400000000",
+    "provinceCode": "1400100000",
+    "cityMunicipalityCode": "1400116000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402105073",
+    "name": "Barangay 45-A",
+    "code": "042105073",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 777,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402105000"
+  }
+]

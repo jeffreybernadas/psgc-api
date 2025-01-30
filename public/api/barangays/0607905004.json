@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0607905004",
+    "name": "Concordia Norte",
+    "code": "067905004",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1005,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0607900000",
+    "cityMunicipalityCode": "0607905000"
+  }
+]

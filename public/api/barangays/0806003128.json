@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0806003128",
+    "name": "Rizal I",
+    "code": "086003128",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1896,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0806000000",
+    "cityMunicipalityCode": "0806003000"
+  }
+]

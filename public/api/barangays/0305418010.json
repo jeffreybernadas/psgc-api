@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0305418010",
+    "name": "San Pablo Proper",
+    "code": "035418010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 6482,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0305400000",
+    "cityMunicipalityCode": "0305418000"
+  }
+]

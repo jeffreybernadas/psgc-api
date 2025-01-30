@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1001315002",
+    "name": "Base Camp",
+    "code": "101315002",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 8743,
+    "isCapital": false,
+    "regionCode": "1000000000",
+    "provinceCode": "1001300000",
+    "cityMunicipalityCode": "1001315000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0405646045",
+    "name": "Victoria",
+    "code": "045646045",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 276,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0405600000",
+    "cityMunicipalityCode": "0405646000"
+  }
+]

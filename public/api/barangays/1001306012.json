@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1001306012",
+    "name": "Pay-as",
+    "code": "101306012",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2100,
+    "isCapital": false,
+    "regionCode": "1000000000",
+    "provinceCode": "1001300000",
+    "cityMunicipalityCode": "1001306000"
+  }
+]

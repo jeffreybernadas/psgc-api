@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0105514031",
+    "name": "Zaragoza",
+    "code": "015514031",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 3341,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0105500000",
+    "cityMunicipalityCode": "0105514000"
+  }
+]

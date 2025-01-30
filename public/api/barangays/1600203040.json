@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1600203040",
+    "name": "Tolosa",
+    "code": "160203040",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 5998,
+    "isCapital": false,
+    "regionCode": "1600000000",
+    "provinceCode": "1600200000",
+    "cityMunicipalityCode": "1600203000"
+  }
+]

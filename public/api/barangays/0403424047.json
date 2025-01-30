@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0403424047",
+    "name": "San Francisco",
+    "code": "043424047",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 14916,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0403400000",
+    "cityMunicipalityCode": "0403424000"
+  }
+]

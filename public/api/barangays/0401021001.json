@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401021001",
+    "name": "Alupay",
+    "code": "041021001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 4306,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401021000"
+  }
+]

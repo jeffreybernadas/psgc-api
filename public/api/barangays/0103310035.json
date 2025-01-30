@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103310035",
+    "name": "Santo Domingo Sur",
+    "code": "013310035",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 999,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103310000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402121002",
+    "name": "Poblacion II",
+    "code": "042121002",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2005,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402121000"
+  }
+]

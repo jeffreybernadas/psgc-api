@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0102823015",
+    "name": "Columbia",
+    "code": "012823015",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 821,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0102800000",
+    "cityMunicipalityCode": "0102823000"
+  }
+]

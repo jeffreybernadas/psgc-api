@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203135001",
+    "name": "Abra",
+    "code": "023135001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1946,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203135000"
+  }
+]

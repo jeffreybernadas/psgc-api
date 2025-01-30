@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203128017",
+    "name": "San Francisco Sur",
+    "code": "023128017",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 407,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203128000"
+  }
+]

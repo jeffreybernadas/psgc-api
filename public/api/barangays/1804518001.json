@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1804518001",
+    "name": "Chambery",
+    "code": "064518001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2999,
+    "isCapital": false,
+    "regionCode": "1800000000",
+    "provinceCode": "1804500000",
+    "cityMunicipalityCode": "1804518000"
+  }
+]

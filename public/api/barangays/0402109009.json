@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402109009",
+    "name": "Poblacion IV-A  (Pob.)",
+    "code": "042109009",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1427,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402109000"
+  }
+]

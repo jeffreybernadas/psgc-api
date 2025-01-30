@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0205011005",
+    "name": "Calaocan",
+    "code": "025011005",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 942,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0205000000",
+    "cityMunicipalityCode": "0205011000"
+  }
+]

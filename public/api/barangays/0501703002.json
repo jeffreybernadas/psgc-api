@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0501703002",
+    "name": "Bacolod",
+    "code": "051703002",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1129,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0501700000",
+    "cityMunicipalityCode": "0501703000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401017015",
+    "name": "San Isidro East",
+    "code": "041017015",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2033,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401017000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0501710016",
+    "name": "San Jose West",
+    "code": "051710016",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 563,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0501700000",
+    "cityMunicipalityCode": "0501710000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1705212011",
+    "name": "San Aquilino",
+    "code": "175212011",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3581,
+    "isCapital": false,
+    "regionCode": "1700000000",
+    "provinceCode": "1705200000",
+    "cityMunicipalityCode": "1705212000"
+  }
+]

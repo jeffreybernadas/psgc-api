@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0701234005",
+    "name": "Buenasuerte",
+    "code": "071234005",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2105,
+    "isCapital": false,
+    "regionCode": "0700000000",
+    "provinceCode": "0701200000",
+    "cityMunicipalityCode": "0701234000"
+  }
+]

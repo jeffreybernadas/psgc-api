@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103311004",
+    "name": "Ambaracao Norte",
+    "code": "013311004",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1835,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103311000"
+  }
+]

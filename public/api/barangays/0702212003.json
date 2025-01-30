@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0702212003",
+    "name": "Granada",
+    "code": "072212003",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1484,
+    "isCapital": false,
+    "regionCode": "0700000000",
+    "provinceCode": "0702200000",
+    "cityMunicipalityCode": "0702212000"
+  }
+]

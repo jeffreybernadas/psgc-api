@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0601901018",
+    "name": "Poblacion Ilaya",
+    "code": "061901018",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1027,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0601900000",
+    "cityMunicipalityCode": "0601901000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0603012051",
+    "name": "Zone VI Pob.",
+    "code": "063012051",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 456,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0603000000",
+    "cityMunicipalityCode": "0603012000"
+  }
+]

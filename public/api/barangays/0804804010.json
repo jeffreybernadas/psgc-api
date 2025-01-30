@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0804804010",
+    "name": "Poblacion Barangay 5",
+    "code": "084804010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2726,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0804800000",
+    "cityMunicipalityCode": "0804804000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1004303010",
+    "name": "San Alonzo",
+    "code": "104303010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1665,
+    "isCapital": false,
+    "regionCode": "1000000000",
+    "provinceCode": "1004300000",
+    "cityMunicipalityCode": "1004303000"
+  }
+]

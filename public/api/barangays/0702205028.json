@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0702205028",
+    "name": "Lapay",
+    "code": "072205028",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 605,
+    "isCapital": false,
+    "regionCode": "0700000000",
+    "provinceCode": "0702200000",
+    "cityMunicipalityCode": "0702205000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203114100",
+    "name": "Centro Poblacion",
+    "code": "023114100",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 568,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203114000"
+  }
+]

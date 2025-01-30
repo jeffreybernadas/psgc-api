@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203123004",
+    "name": "Dolores",
+    "code": "023123004",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1315,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203123000"
+  }
+]

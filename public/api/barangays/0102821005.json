@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0102821005",
+    "name": "San Cristobal",
+    "code": "012821005",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1668,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0102800000",
+    "cityMunicipalityCode": "0102821000"
+  }
+]

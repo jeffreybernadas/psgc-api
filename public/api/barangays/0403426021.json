@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0403426021",
+    "name": "San Pablo Norte",
+    "code": "043426021",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2751,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0403400000",
+    "cityMunicipalityCode": "0403426000"
+  }
+]

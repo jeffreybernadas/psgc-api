@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203137040",
+    "name": "Barangay District 4  (Pob.)",
+    "code": "023137040",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 895,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203137000"
+  }
+]

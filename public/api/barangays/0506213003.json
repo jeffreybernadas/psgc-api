@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0506213003",
+    "name": "Bantayan",
+    "code": "056213003",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1901,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0506200000",
+    "cityMunicipalityCode": "0506213000"
+  }
+]

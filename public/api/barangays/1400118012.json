@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1400118012",
+    "name": "Poblacion East",
+    "code": "140118012",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1683,
+    "isCapital": false,
+    "regionCode": "1400000000",
+    "provinceCode": "1400100000",
+    "cityMunicipalityCode": "1400118000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1908820008",
+    "name": "Poblacion I",
+    "code": "153808046",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3303,
+    "isCapital": false,
+    "regionCode": "1900000000",
+    "provinceCode": "1908800000",
+    "cityMunicipalityCode": "1908820000"
+  }
+]

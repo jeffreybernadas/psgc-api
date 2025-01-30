@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1600303007",
+    "name": "Concordia",
+    "code": "160303007",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 811,
+    "isCapital": false,
+    "regionCode": "1600000000",
+    "provinceCode": "1600300000",
+    "cityMunicipalityCode": "1600303000"
+  }
+]

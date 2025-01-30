@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0305405024",
+    "name": "Pasig",
+    "code": "035405024",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 5591,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0305400000",
+    "cityMunicipalityCode": "0305405000"
+  }
+]

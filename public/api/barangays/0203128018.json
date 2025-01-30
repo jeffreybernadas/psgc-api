@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203128018",
+    "name": "San Mariano Norte",
+    "code": "023128018",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 266,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203128000"
+  }
+]

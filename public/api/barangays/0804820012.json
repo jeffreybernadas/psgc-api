@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0804820012",
+    "name": "Zone 2  (Pob.)",
+    "code": "084820012",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 982,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0804800000",
+    "cityMunicipalityCode": "0804820000"
+  }
+]

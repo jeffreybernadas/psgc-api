@@ -1,0 +1,29 @@
+openapi: 3.0.0
+info:
+  title: PSGC API
+  version: 0.0.1
+  description: API for listing all the regions, provinces, cities, municipalities, and barangays of the Philippines. <br/><br/>Current data is as of September 30, 2024 and is based from https://psa.gov.ph/classification/psgc. <br/><br/> For issues, features, and contributions, please visit the [GitHub repository](https://github.com/jeffreybernadas/psgc-api).
+  contact:
+    name: Jeffrey Bernadas
+    email: 'jeffrey.bernadas0@gmail.com'
+externalDocs:
+  description: 'Swagger JSON'
+  url: '/swagger.json'
+servers:
+  - url: https://psgc.thecodebit.digital/
+    description: 'PSGC API'
+  - url: http://localhost:4000
+    description: 'PSGC API: Local'
+tags:
+  - name: Health Check
+    description: API health check endpoint
+paths:
+  /health:
+    get:
+      tags:
+        - Health Check
+      security: []
+      summary: Check the health of the PSGC API.
+      responses:
+        200:
+          description: PSGC API is healthy.

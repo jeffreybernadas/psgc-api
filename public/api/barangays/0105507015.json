@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0105507015",
+    "name": "San Joaquin",
+    "code": "015507015",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1581,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0105500000",
+    "cityMunicipalityCode": "0105507000"
+  }
+]

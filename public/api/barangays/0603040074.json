@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0603040074",
+    "name": "San Mateo Sur",
+    "code": "063040074",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 164,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0603000000",
+    "cityMunicipalityCode": "0603040000"
+  }
+]

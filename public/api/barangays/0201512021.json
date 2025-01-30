@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0201512021",
+    "name": "Barangay III-A",
+    "code": "021512021",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2604,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0201500000",
+    "cityMunicipalityCode": "0201512000"
+  }
+]

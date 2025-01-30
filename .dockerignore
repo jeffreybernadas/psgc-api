@@ -1,0 +1,7 @@
+.husky
+collections
+coverage
+dist
+logs
+node_modules
+*.env

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103301037",
+    "name": "San Roque East",
+    "code": "013301037",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 976,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103301000"
+  }
+]

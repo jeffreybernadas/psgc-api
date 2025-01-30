@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0607903021",
+    "name": "Santo Domingo",
+    "code": "067903021",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1127,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0607900000",
+    "cityMunicipalityCode": "0607903000"
+  }
+]

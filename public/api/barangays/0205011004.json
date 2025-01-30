@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0205011004",
+    "name": "Bonifacio",
+    "code": "025011004",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 920,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0205000000",
+    "cityMunicipalityCode": "0205011000"
+  }
+]

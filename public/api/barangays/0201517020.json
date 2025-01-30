@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0201517020",
+    "name": "Peru",
+    "code": "021517020",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1869,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0201500000",
+    "cityMunicipalityCode": "0201517000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0205007002",
+    "name": "Belance",
+    "code": "025007002",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3526,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0205000000",
+    "cityMunicipalityCode": "0205007000"
+  }
+]

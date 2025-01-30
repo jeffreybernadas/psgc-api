@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203103013",
+    "name": "Esperanza East",
+    "code": "023103013",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1123,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203103000"
+  }
+]

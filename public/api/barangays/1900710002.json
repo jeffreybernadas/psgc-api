@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1900710002",
+    "name": "Buton",
+    "code": "150710002",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 4521,
+    "isCapital": false,
+    "regionCode": "1900000000",
+    "provinceCode": "1900700000",
+    "cityMunicipalityCode": "1900710000"
+  }
+]

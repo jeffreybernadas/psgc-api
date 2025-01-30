@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0804805060",
+    "name": "UEP II",
+    "code": "084805060",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1316,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0804800000",
+    "cityMunicipalityCode": "0804805000"
+  }
+]

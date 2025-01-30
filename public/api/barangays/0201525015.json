@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0201525015",
+    "name": "Centro West",
+    "code": "021525015",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1697,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0201500000",
+    "cityMunicipalityCode": "0201525000"
+  }
+]

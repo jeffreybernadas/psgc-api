@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0500512042",
+    "name": "San Agustin",
+    "code": "050512042",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1187,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0500500000",
+    "cityMunicipalityCode": "0500512000"
+  }
+]

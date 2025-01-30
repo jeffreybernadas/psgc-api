@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0506203005",
+    "name": "Zone I Pob.",
+    "code": "056203005",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 668,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0506200000",
+    "cityMunicipalityCode": "0506203000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401014042",
+    "name": "Poblacion Barangay 11",
+    "code": "041014042",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 379,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401014000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0506210020",
+    "name": "South Poblacion",
+    "code": "056210020",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1362,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0506200000",
+    "cityMunicipalityCode": "0506210000"
+  }
+]

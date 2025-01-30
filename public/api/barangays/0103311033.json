@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103311033",
+    "name": "San Antonio",
+    "code": "013311033",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 932,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103311000"
+  }
+]

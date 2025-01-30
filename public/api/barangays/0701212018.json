@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0701212018",
+    "name": "Montevideo",
+    "code": "071212018",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1037,
+    "isCapital": false,
+    "regionCode": "0700000000",
+    "provinceCode": "0701200000",
+    "cityMunicipalityCode": "0701212000"
+  }
+]

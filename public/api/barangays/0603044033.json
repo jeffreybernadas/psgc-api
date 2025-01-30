@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0603044033",
+    "name": "Poblacion Ilawod",
+    "code": "063044033",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 1764,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0603000000",
+    "cityMunicipalityCode": "0603044000"
+  }
+]

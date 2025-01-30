@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0403405054",
+    "name": "San Jose",
+    "code": "043405054",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 4061,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0403400000",
+    "cityMunicipalityCode": "0403405000"
+  }
+]

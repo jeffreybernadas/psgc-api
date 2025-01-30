@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0201515021",
+    "name": "San Lorenzo",
+    "code": "021515021",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 469,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0201500000",
+    "cityMunicipalityCode": "0201515000"
+  }
+]

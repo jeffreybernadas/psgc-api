@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0804818010",
+    "name": "Poblacion Norte",
+    "code": "084818010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 2220,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0804800000",
+    "cityMunicipalityCode": "0804818000"
+  }
+]

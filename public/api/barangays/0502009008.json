@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0502009008",
+    "name": "Poblacion District III",
+    "code": "052009008",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1069,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0502000000",
+    "cityMunicipalityCode": "0502009000"
+  }
+]

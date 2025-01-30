@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0990101041",
+    "name": "Riverside",
+    "code": "099701041",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1883,
+    "isCapital": false,
+    "regionCode": "0900000000",
+    "provinceCode": "0990100000",
+    "cityMunicipalityCode": "0990101000"
+  }
+]

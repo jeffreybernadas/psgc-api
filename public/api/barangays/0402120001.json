@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402120001",
+    "name": "Amaya I",
+    "code": "042120001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 13434,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402120000"
+  }
+]

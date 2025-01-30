@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0502002017",
+    "name": "P. Teston",
+    "code": "052002017",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 83,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0502000000",
+    "cityMunicipalityCode": "0502002000"
+  }
+]

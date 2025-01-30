@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0803740030",
+    "name": "Central 1  (Pob.)",
+    "code": "083740030",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 585,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0803700000",
+    "cityMunicipalityCode": "0803740000"
+  }
+]

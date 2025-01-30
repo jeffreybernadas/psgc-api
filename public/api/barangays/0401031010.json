@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401031010",
+    "name": "Banjo East",
+    "code": "041031010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 3482,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401031000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402105027",
+    "name": "Barangay 33",
+    "code": "042105027",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 706,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402105000"
+  }
+]

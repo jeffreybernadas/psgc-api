@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203101024",
+    "name": "San Fernando",
+    "code": "023101024",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1674,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203101000"
+  }
+]

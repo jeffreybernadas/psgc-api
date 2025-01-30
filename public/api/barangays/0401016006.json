@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401016006",
+    "name": "Estrella",
+    "code": "041016006",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 757,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401016000"
+  }
+]

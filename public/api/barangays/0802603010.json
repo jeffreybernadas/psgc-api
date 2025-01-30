@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0802603010",
+    "name": "General Malvar",
+    "code": "082603010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 105,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0802600000",
+    "cityMunicipalityCode": "0802603000"
+  }
+]

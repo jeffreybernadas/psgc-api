@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0306901016",
+    "name": "San Francisco East",
+    "code": "036901016",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 641,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0306900000",
+    "cityMunicipalityCode": "0306901000"
+  }
+]

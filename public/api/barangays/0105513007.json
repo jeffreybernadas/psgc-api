@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0105513007",
+    "name": "Biec",
+    "code": "015513007",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3333,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0105500000",
+    "cityMunicipalityCode": "0105513000"
+  }
+]

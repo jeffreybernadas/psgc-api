@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0102809026",
+    "name": "San Esteban",
+    "code": "012809026",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 831,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0102800000",
+    "cityMunicipalityCode": "0102809000"
+  }
+]

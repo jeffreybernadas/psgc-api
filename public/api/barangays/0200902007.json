@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0200902007",
+    "name": "San Rafael",
+    "code": "020902007",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 897,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0200900000",
+    "cityMunicipalityCode": "0200902000"
+  }
+]

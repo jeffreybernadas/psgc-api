@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0803710021",
+    "name": "Poblacion District IV",
+    "code": "083710021",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2021,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0803700000",
+    "cityMunicipalityCode": "0803710000"
+  }
+]

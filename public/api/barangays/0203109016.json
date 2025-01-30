@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203109016",
+    "name": "Sagat",
+    "code": "023109016",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1955,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203109000"
+  }
+]

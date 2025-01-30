@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402109087",
+    "name": "Poblacion I-B",
+    "code": "042109087",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 312,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402109000"
+  }
+]

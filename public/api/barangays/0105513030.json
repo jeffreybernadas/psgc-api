@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0105513030",
+    "name": "San Isidro Norte",
+    "code": "015513030",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 2656,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0105500000",
+    "cityMunicipalityCode": "0105513000"
+  }
+]

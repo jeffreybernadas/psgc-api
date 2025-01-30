@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103314043",
+    "name": "Pao Norte",
+    "code": "013314043",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 626,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103314000"
+  }
+]

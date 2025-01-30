@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402105005",
+    "name": "Barangay 12",
+    "code": "042105005",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 380,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402105000"
+  }
+]

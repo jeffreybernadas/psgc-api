@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401031038",
+    "name": "Poblacion Barangay 7",
+    "code": "041031038",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 5222,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401031000"
+  }
+]

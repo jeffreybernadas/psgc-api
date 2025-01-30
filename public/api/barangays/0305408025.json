@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0305408025",
+    "name": "San Pablo 2nd",
+    "code": "035408025",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 4340,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0305400000",
+    "cityMunicipalityCode": "0305408000"
+  }
+]

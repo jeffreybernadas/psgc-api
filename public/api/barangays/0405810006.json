@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0405810006",
+    "name": "Malaya",
+    "code": "045810006",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 7550,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0405800000",
+    "cityMunicipalityCode": "0405810000"
+  }
+]

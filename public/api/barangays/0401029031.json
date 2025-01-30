@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401029031",
+    "name": "Poblacion 7",
+    "code": "041029031",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 166,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401029000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1102504007",
+    "name": "Mercedes",
+    "code": "112504007",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1190,
+    "isCapital": false,
+    "regionCode": "1100000000",
+    "provinceCode": "1102500000",
+    "cityMunicipalityCode": "1102504000"
+  }
+]

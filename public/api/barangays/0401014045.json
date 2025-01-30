@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401014045",
+    "name": "Poblacion Barangay 4",
+    "code": "041014045",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 508,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401014000"
+  }
+]

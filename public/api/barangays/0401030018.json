@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401030018",
+    "name": "Poblacion Barangay 8",
+    "code": "041030018",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 755,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401030000"
+  }
+]

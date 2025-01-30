@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0701205003",
+    "name": "Buenaventura",
+    "code": "071205003",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 420,
+    "isCapital": false,
+    "regionCode": "0700000000",
+    "provinceCode": "0701200000",
+    "cityMunicipalityCode": "0701205000"
+  }
+]

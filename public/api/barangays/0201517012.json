@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0201517012",
+    "name": "Gabun",
+    "code": "021517012",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1347,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0201500000",
+    "cityMunicipalityCode": "0201517000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401020001",
+    "name": "Banaba",
+    "code": "041020001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3835,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401020000"
+  }
+]

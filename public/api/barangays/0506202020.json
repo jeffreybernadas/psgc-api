@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0506202020",
+    "name": "Poblacion Sur",
+    "code": "056202020",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1247,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0506200000",
+    "cityMunicipalityCode": "0506202000"
+  }
+]

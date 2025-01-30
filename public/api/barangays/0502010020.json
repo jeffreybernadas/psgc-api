@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0502010020",
+    "name": "Sagrada",
+    "code": "052010020",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 690,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0502000000",
+    "cityMunicipalityCode": "0502010000"
+  }
+]

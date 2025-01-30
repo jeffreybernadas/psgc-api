@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401003011",
+    "name": "Barangay 6  (Pob.)",
+    "code": "041003011",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 1131,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401003000"
+  }
+]

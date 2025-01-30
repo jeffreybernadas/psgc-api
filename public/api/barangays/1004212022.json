@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1004212022",
+    "name": "New Cartagena",
+    "code": "104212022",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 364,
+    "isCapital": false,
+    "regionCode": "1000000000",
+    "provinceCode": "1004200000",
+    "cityMunicipalityCode": "1004212000"
+  }
+]

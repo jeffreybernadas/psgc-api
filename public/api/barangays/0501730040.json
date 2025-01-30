@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0501730040",
+    "name": "Upper Santa Cruz",
+    "code": "051730040",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1136,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0501700000",
+    "cityMunicipalityCode": "0501730000"
+  }
+]

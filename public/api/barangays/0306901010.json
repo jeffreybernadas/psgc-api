@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0306901010",
+    "name": "Don Ramon",
+    "code": "036901010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 445,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0306900000",
+    "cityMunicipalityCode": "0306901000"
+  }
+]

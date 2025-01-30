@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0500510012",
+    "name": "Estancia",
+    "code": "050510012",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 4758,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0500500000",
+    "cityMunicipalityCode": "0500510000"
+  }
+]

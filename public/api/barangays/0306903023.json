@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0306903023",
+    "name": "Florida",
+    "code": "036903023",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1040,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0306900000",
+    "cityMunicipalityCode": "0306903000"
+  }
+]

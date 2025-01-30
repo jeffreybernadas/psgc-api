@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203119012",
+    "name": "San Jose Sur",
+    "code": "023119012",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1910,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203119000"
+  }
+]

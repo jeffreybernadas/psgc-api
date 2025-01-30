@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0701219001",
+    "name": "Biking",
+    "code": "071219001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3870,
+    "isCapital": false,
+    "regionCode": "0700000000",
+    "provinceCode": "0701200000",
+    "cityMunicipalityCode": "0701219000"
+  }
+]

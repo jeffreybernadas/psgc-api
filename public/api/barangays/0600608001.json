@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0600608001",
+    "name": "Apdo",
+    "code": "060608001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 747,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0600600000",
+    "cityMunicipalityCode": "0600608000"
+  }
+]

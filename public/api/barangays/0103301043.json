@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103301043",
+    "name": "Santa Maria",
+    "code": "013301043",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 978,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103301000"
+  }
+]

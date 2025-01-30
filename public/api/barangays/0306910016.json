@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0306910016",
+    "name": "Estacion",
+    "code": "036910016",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 4755,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0306900000",
+    "cityMunicipalityCode": "0306910000"
+  }
+]

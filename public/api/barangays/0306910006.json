@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0306910006",
+    "name": "Barang",
+    "code": "036910006",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1309,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0306900000",
+    "cityMunicipalityCode": "0306910000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0300809025",
+    "name": "Apollo",
+    "code": "030809025",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1865,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0300800000",
+    "cityMunicipalityCode": "0300809000"
+  }
+]

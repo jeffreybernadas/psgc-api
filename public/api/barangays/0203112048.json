@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203112048",
+    "name": "San Manuel",
+    "code": "023112048",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1344,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203112000"
+  }
+]

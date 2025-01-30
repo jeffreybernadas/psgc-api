@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0405801007",
+    "name": "Poblacion Ibaba",
+    "code": "045801007",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3627,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0405800000",
+    "cityMunicipalityCode": "0405801000"
+  }
+]

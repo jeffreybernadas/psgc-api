@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0105535001",
+    "name": "San Antonio-Arzadon",
+    "code": "015535001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2816,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0105500000",
+    "cityMunicipalityCode": "0105535000"
+  }
+]

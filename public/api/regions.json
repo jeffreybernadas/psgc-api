@@ -1,0 +1,146 @@
+[
+  {
+    "psgc10DigitCode": "1300000000",
+    "name": "NCR",
+    "code": "130000000",
+    "geographicLevel": "Reg",
+    "population2020": 13484462,
+    "regionName": "National Capital Region"
+  },
+  {
+    "psgc10DigitCode": "1400000000",
+    "name": "CAR",
+    "code": "140000000",
+    "geographicLevel": "Reg",
+    "population2020": 1797660,
+    "regionName": "Cordillera Administrative Region"
+  },
+  {
+    "psgc10DigitCode": "0100000000",
+    "name": "Ilocos Region",
+    "code": "010000000",
+    "geographicLevel": "Reg",
+    "population2020": 5301139,
+    "regionName": "Region I"
+  },
+  {
+    "psgc10DigitCode": "0200000000",
+    "name": "Cagayan Valley",
+    "code": "020000000",
+    "geographicLevel": "Reg",
+    "population2020": 3685744,
+    "regionName": "Region II"
+  },
+  {
+    "psgc10DigitCode": "0300000000",
+    "name": "Central Luzon",
+    "code": "030000000",
+    "geographicLevel": "Reg",
+    "population2020": 12422172,
+    "regionName": "Region III"
+  },
+  {
+    "psgc10DigitCode": "0400000000",
+    "name": "CALABARZON",
+    "code": "040000000",
+    "geographicLevel": "Reg",
+    "population2020": 16195042,
+    "regionName": "Region IV-A"
+  },
+  {
+    "psgc10DigitCode": "1700000000",
+    "name": "MIMAROPA Region",
+    "code": "170000000",
+    "geographicLevel": "Reg",
+    "urbanRural": "",
+    "population2020": 3228558
+  },
+  {
+    "psgc10DigitCode": "0500000000",
+    "name": "Bicol Region",
+    "code": "050000000",
+    "geographicLevel": "Reg",
+    "population2020": 6082165,
+    "regionName": "Region V"
+  },
+  {
+    "psgc10DigitCode": "0600000000",
+    "name": "Western Visayas",
+    "code": "060000000",
+    "geographicLevel": "Reg",
+    "population2020": 7954723,
+    "regionName": "Region VI"
+  },
+  {
+    "psgc10DigitCode": "1800000000",
+    "name": "NIR",
+    "code": "",
+    "geographicLevel": "Reg",
+    "population2020": 4760340,
+    "regionName": "Negros Island Region"
+  },
+  {
+    "psgc10DigitCode": "0700000000",
+    "name": "Central Visayas",
+    "code": "070000000",
+    "geographicLevel": "Reg",
+    "population2020": 8081988,
+    "regionName": "Region VII"
+  },
+  {
+    "psgc10DigitCode": "0800000000",
+    "name": "Eastern Visayas",
+    "code": "080000000",
+    "geographicLevel": "Reg",
+    "population2020": 4547150,
+    "regionName": "Region VIII"
+  },
+  {
+    "psgc10DigitCode": "0900000000",
+    "name": "Zamboanga Peninsula",
+    "code": "090000000",
+    "geographicLevel": "Reg",
+    "population2020": 3875576,
+    "regionName": "Region IX"
+  },
+  {
+    "psgc10DigitCode": "1000000000",
+    "name": "Northern Mindanao",
+    "code": "100000000",
+    "geographicLevel": "Reg",
+    "population2020": 5022768,
+    "regionName": "Region X"
+  },
+  {
+    "psgc10DigitCode": "1100000000",
+    "name": "Davao Region",
+    "code": "110000000",
+    "geographicLevel": "Reg",
+    "population2020": 5243536,
+    "regionName": "Region XI"
+  },
+  {
+    "psgc10DigitCode": "1200000000",
+    "name": "SOCCSKSARGEN",
+    "code": "120000000",
+    "geographicLevel": "Reg",
+    "population2020": 4360974,
+    "regionName": "Region XII"
+  },
+  {
+    "psgc10DigitCode": "1600000000",
+    "name": "Caraga",
+    "code": "160000000",
+    "geographicLevel": "Reg",
+    "population2020": 2804788,
+    "regionName": "Region XIII"
+  },
+  {
+    "psgc10DigitCode": "1900000000",
+    "name": "BARMM",
+    "code": "150000000",
+    "geographicLevel": "Reg",
+    "population2020": 4944800,
+    "regionName": "Bangsamoro Autonomous Region In Muslim Mindanao"
+  }
+]

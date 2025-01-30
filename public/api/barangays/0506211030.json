@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0506211030",
+    "name": "Santa Elena",
+    "code": "056211030",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1170,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0506200000",
+    "cityMunicipalityCode": "0506211000"
+  }
+]

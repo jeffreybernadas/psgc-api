@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0205704017",
+    "name": "Poblacion Norte",
+    "code": "025704017",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 3007,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0205700000",
+    "cityMunicipalityCode": "0205704000"
+  }
+]

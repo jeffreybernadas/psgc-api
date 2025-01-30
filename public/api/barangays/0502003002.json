@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0502003002",
+    "name": "Bagumbayan",
+    "code": "052003002",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 394,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0502000000",
+    "cityMunicipalityCode": "0502003000"
+  }
+]

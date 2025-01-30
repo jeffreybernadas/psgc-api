@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402105066",
+    "name": "Barangay 29-A",
+    "code": "042105066",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1045,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402105000"
+  }
+]

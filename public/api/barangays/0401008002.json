@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401008002",
+    "name": "Baha",
+    "code": "041008002",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 6,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401008000"
+  }
+]

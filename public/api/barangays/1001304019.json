@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1001304019",
+    "name": "New Visayas",
+    "code": "101304019",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1009,
+    "isCapital": false,
+    "regionCode": "1000000000",
+    "provinceCode": "1001300000",
+    "cityMunicipalityCode": "1001304000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0307108008",
+    "name": "Lipay",
+    "code": "037108008",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 2906,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0307100000",
+    "cityMunicipalityCode": "0307108000"
+  }
+]

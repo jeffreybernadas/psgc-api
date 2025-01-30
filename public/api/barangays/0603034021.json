@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0603034021",
+    "name": "Poblacion North",
+    "code": "063034021",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1322,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0603000000",
+    "cityMunicipalityCode": "0603034000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0504111010",
+    "name": "Bolo",
+    "code": "054111010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3107,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0504100000",
+    "cityMunicipalityCode": "0504111000"
+  }
+]

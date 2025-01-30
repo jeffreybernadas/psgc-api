@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0501609007",
+    "name": "Poblacion District I",
+    "code": "051609007",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 663,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0501600000",
+    "cityMunicipalityCode": "0501609000"
+  }
+]

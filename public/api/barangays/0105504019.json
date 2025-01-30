@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0105504019",
+    "name": "San Pedro Apartado",
+    "code": "015504019",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3924,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0105500000",
+    "cityMunicipalityCode": "0105504000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1900702020",
+    "name": "Colonia",
+    "code": "150702020",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3293,
+    "isCapital": false,
+    "regionCode": "1900000000",
+    "provinceCode": "1900700000",
+    "cityMunicipalityCode": "1900702000"
+  }
+]

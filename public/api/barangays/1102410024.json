@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1102410024",
+    "name": "New Murcia",
+    "code": "112410024",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1340,
+    "isCapital": false,
+    "regionCode": "1100000000",
+    "provinceCode": "1102400000",
+    "cityMunicipalityCode": "1102410000"
+  }
+]

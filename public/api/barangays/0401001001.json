@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401001001",
+    "name": "Adia",
+    "code": "041001001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 918,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401001000"
+  }
+]

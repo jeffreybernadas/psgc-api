@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203109012",
+    "name": "Quezon",
+    "code": "023109012",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1041,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203109000"
+  }
+]

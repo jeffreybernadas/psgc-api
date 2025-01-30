@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1400116005",
+    "name": "San Jose Norte",
+    "code": "140116005",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 556,
+    "isCapital": false,
+    "regionCode": "1400000000",
+    "provinceCode": "1400100000",
+    "cityMunicipalityCode": "1400116000"
+  }
+]

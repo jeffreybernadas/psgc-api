@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0105508007",
+    "name": "Centro Toma",
+    "code": "015508007",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2231,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0105500000",
+    "cityMunicipalityCode": "0105508000"
+  }
+]

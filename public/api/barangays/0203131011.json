@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203131011",
+    "name": "Del Pilar",
+    "code": "023131011",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1764,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203131000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0201512026",
+    "name": "Roma Sur",
+    "code": "021512026",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1353,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0201500000",
+    "cityMunicipalityCode": "0201512000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1900702045",
+    "name": "Santa Clara",
+    "code": "150702045",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 6106,
+    "isCapital": false,
+    "regionCode": "1900000000",
+    "provinceCode": "1900700000",
+    "cityMunicipalityCode": "1900702000"
+  }
+]

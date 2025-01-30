@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103303039",
+    "name": "Santa Cruz",
+    "code": "013303039",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1300,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103303000"
+  }
+]

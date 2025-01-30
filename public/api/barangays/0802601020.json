@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0802601020",
+    "name": "Macarthur",
+    "code": "082601020",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 467,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0802600000",
+    "cityMunicipalityCode": "0802601000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401031034",
+    "name": "Poblacion Barangay 3",
+    "code": "041031034",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 5132,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401031000"
+  }
+]

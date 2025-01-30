@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0105518023",
+    "name": "Poblacion Oeste",
+    "code": "015518023",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 4234,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0105500000",
+    "cityMunicipalityCode": "0105518000"
+  }
+]

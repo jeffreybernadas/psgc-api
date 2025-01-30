@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103313009",
+    "name": "Camp One",
+    "code": "013313009",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 3244,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103313000"
+  }
+]

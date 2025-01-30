@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1003512002",
+    "name": "Camp 1",
+    "code": "103512002",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 599,
+    "isCapital": false,
+    "regionCode": "1000000000",
+    "provinceCode": "1003500000",
+    "cityMunicipalityCode": "1003512000"
+  }
+]

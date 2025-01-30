@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0201512010",
+    "name": "Lemu Norte",
+    "code": "021512010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1092,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0201500000",
+    "cityMunicipalityCode": "0201512000"
+  }
+]

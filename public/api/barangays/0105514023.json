@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0105514023",
+    "name": "Salud",
+    "code": "015514023",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2576,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0105500000",
+    "cityMunicipalityCode": "0105514000"
+  }
+]

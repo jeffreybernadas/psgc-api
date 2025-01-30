@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0403426006",
+    "name": "Gatid",
+    "code": "043426006",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 10000,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0403400000",
+    "cityMunicipalityCode": "0403426000"
+  }
+]

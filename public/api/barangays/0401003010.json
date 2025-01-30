@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401003010",
+    "name": "Barangay 5  (Pob.)",
+    "code": "041003010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 1837,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401003000"
+  }
+]

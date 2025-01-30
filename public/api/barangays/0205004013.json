@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0205004013",
+    "name": "Indiana",
+    "code": "025004013",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2449,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0205000000",
+    "cityMunicipalityCode": "0205004000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103310034",
+    "name": "Santo Domingo Norte",
+    "code": "013310034",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1468,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103310000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0603030020",
+    "name": "Buenavista Norte",
+    "code": "063030020",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 413,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0603000000",
+    "cityMunicipalityCode": "0603030000"
+  }
+]

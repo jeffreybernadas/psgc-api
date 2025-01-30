@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103309009",
+    "name": "San Carlos",
+    "code": "013309009",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1502,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103309000"
+  }
+]

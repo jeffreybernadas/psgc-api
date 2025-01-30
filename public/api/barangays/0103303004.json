@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103303004",
+    "name": "Bacsil",
+    "code": "013303004",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 895,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103303000"
+  }
+]

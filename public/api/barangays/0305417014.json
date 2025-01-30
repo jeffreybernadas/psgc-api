@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0305417014",
+    "name": "Santa Monica",
+    "code": "035417014",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3207,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0305400000",
+    "cityMunicipalityCode": "0305417000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203124004",
+    "name": "Bugallon Norte",
+    "code": "023124004",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 5760,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203124000"
+  }
+]

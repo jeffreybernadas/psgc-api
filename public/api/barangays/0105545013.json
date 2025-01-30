@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0105545013",
+    "name": "Malayo",
+    "code": "015545013",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2029,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0105500000",
+    "cityMunicipalityCode": "0105545000"
+  }
+]

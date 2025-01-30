@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0201511040",
+    "name": "Sto. Niño",
+    "code": "021511040",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 327,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0201500000",
+    "cityMunicipalityCode": "0201511000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0701207010",
+    "name": "Poblacion Vieja",
+    "code": "071207010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1097,
+    "isCapital": false,
+    "regionCode": "0700000000",
+    "provinceCode": "0701200000",
+    "cityMunicipalityCode": "0701207000"
+  }
+]

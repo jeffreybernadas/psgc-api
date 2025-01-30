@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203123020",
+    "name": "Villa Miguel",
+    "code": "023123020",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 821,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203123000"
+  }
+]

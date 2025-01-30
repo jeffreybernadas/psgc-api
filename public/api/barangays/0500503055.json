@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0500503055",
+    "name": "Villahermosa",
+    "code": "050503055",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2662,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0500500000",
+    "cityMunicipalityCode": "0500503000"
+  }
+]

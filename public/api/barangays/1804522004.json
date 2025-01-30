@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1804522004",
+    "name": "Barangay Zone 2  (Pob.)",
+    "code": "064522004",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2377,
+    "isCapital": false,
+    "regionCode": "1800000000",
+    "provinceCode": "1804500000",
+    "cityMunicipalityCode": "1804522000"
+  }
+]

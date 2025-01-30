@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402111022",
+    "name": "Tramo-Bantayan",
+    "code": "042111022",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 3385,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402111000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0701214018",
+    "name": "Poblacion Centro",
+    "code": "071214018",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1364,
+    "isCapital": false,
+    "regionCode": "0700000000",
+    "provinceCode": "0701200000",
+    "cityMunicipalityCode": "0701214000"
+  }
+]

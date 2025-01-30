@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0102909011",
+    "name": "Legaspi",
+    "code": "012909011",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 338,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0102900000",
+    "cityMunicipalityCode": "0102909000"
+  }
+]

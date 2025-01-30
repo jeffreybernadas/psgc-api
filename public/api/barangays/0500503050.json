@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0500503050",
+    "name": "San Vicente Pequeño",
+    "code": "050503050",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 477,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0500500000",
+    "cityMunicipalityCode": "0500503000"
+  }
+]

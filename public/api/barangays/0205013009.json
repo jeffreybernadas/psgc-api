@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0205013009",
+    "name": "Poblacion North",
+    "code": "025013009",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 976,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0205000000",
+    "cityMunicipalityCode": "0205013000"
+  }
+]

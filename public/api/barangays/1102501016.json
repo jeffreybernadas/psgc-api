@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1102501016",
+    "name": "San Victor",
+    "code": "112501016",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1425,
+    "isCapital": false,
+    "regionCode": "1100000000",
+    "provinceCode": "1102500000",
+    "cityMunicipalityCode": "1102501000"
+  }
+]

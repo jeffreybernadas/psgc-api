@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1606819017",
+    "name": "San Agustin Norte",
+    "code": "166819017",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2404,
+    "isCapital": false,
+    "regionCode": "1600000000",
+    "provinceCode": "1606800000",
+    "cityMunicipalityCode": "1606819000"
+  }
+]

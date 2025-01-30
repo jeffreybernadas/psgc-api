@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0702229010",
+    "name": "Mindanao",
+    "code": "072229010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 533,
+    "isCapital": false,
+    "regionCode": "0700000000",
+    "provinceCode": "0702200000",
+    "cityMunicipalityCode": "0702229000"
+  }
+]

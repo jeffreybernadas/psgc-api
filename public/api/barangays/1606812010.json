@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1606812010",
+    "name": "Palo Alto",
+    "code": "166812010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 945,
+    "isCapital": false,
+    "regionCode": "1600000000",
+    "provinceCode": "1606800000",
+    "cityMunicipalityCode": "1606812000"
+  }
+]

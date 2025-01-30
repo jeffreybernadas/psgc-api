@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0205007016",
+    "name": "Oyao",
+    "code": "025007016",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2222,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0205000000",
+    "cityMunicipalityCode": "0205007000"
+  }
+]

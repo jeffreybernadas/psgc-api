@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103301023",
+    "name": "San Julian East",
+    "code": "013301023",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1165,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103301000"
+  }
+]

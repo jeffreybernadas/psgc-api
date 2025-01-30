@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401010005",
+    "name": "Catandala",
+    "code": "041010005",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 941,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401010000"
+  }
+]

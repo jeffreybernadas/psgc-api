@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203115010",
+    "name": "Daligan",
+    "code": "023115010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 826,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203115000"
+  }
+]

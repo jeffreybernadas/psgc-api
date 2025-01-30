@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0405647051",
+    "name": "San Diego Zone III",
+    "code": "045647051",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 291,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0405600000",
+    "cityMunicipalityCode": "0405647000"
+  }
+]

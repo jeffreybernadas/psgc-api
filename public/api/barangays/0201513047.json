@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0201513047",
+    "name": "Sta. Ana",
+    "code": "021513047",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 368,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0201500000",
+    "cityMunicipalityCode": "0201513000"
+  }
+]

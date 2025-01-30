@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0403401010",
+    "name": "San Gregorio",
+    "code": "043401010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3504,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0403400000",
+    "cityMunicipalityCode": "0403401000"
+  }
+]

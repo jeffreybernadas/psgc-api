@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0405649035",
+    "name": "Tagumpay",
+    "code": "045649035",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 300,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0405600000",
+    "cityMunicipalityCode": "0405649000"
+  }
+]

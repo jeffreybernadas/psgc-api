@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0205703031",
+    "name": "Aklan Village",
+    "code": "025703031",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1014,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0205700000",
+    "cityMunicipalityCode": "0205703000"
+  }
+]

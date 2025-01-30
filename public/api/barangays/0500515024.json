@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0500515024",
+    "name": "Manila",
+    "code": "050515024",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1065,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0500500000",
+    "cityMunicipalityCode": "0500515000"
+  }
+]

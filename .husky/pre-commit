@@ -1,0 +1,26 @@
+#!/bin/bash - this line runs the script in bash (good for git)
+
+npm run lint ||
+    (
+        echo '❌ ESLint Check Failed. Make the required changes listed above. Add those changes and try to commit again.'
+        false
+    )
+
+npm run test -- --watchAll=false ||
+    (
+        echo '❌ Test Check Failed. Make the required changes listed above. Add those changes and try to commit again.'
+        false
+    )
+
+npm run check-types ||
+    (
+        echo '❌ TypeScript Check Failed. Make the required changes listed above. Add those changes and try to commit again.'
+        false
+    )
+
+npm run format
+
+echo '✅ All checks passed.'
+
+echo '✏ Commiting your changes.'
+

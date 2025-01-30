@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0501710015",
+    "name": "San Jose East",
+    "code": "051710015",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 481,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0501700000",
+    "cityMunicipalityCode": "0501710000"
+  }
+]

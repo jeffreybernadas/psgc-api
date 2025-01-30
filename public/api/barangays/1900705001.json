@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1900705001",
+    "name": "Bacung",
+    "code": "150705001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2016,
+    "isCapital": false,
+    "regionCode": "1900000000",
+    "provinceCode": "1900700000",
+    "cityMunicipalityCode": "1900705000"
+  }
+]

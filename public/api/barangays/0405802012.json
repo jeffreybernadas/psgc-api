@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0405802012",
+    "name": "Beverly Hills",
+    "code": "045802012",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1090,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0405800000",
+    "cityMunicipalityCode": "0405802000"
+  }
+]

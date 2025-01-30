@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0802616010",
+    "name": "Barangay 3 Poblacion",
+    "code": "082616010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 186,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0802600000",
+    "cityMunicipalityCode": "0802616000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0803708059",
+    "name": "Poblacion Zone 3",
+    "code": "083708059",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 331,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0803700000",
+    "cityMunicipalityCode": "0803708000"
+  }
+]

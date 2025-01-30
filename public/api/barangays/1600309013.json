@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1600309013",
+    "name": "Don Pedro",
+    "code": "160309013",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 234,
+    "isCapital": false,
+    "regionCode": "1600000000",
+    "provinceCode": "1600300000",
+    "cityMunicipalityCode": "1600309000"
+  }
+]

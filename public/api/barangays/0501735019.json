@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0501735019",
+    "name": "San Ramon",
+    "code": "051735019",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 886,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0501700000",
+    "cityMunicipalityCode": "0501735000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0603006012",
+    "name": "De La Paz",
+    "code": "063006012",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2769,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0603000000",
+    "cityMunicipalityCode": "0603006000"
+  }
+]

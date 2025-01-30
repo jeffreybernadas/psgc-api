@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0205005010",
+    "name": "Magsaysay",
+    "code": "025005010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 5496,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0205000000",
+    "cityMunicipalityCode": "0205005000"
+  }
+]

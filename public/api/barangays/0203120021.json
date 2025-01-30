@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203120021",
+    "name": "Sunlife",
+    "code": "023120021",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 603,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203120000"
+  }
+]

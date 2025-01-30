@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203125007",
+    "name": "District II  (Pob.)",
+    "code": "023125007",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2013,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203125000"
+  }
+]

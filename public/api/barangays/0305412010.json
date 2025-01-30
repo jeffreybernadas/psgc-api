@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0305412010",
+    "name": "Sta. Monica",
+    "code": "035412010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 856,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0305400000",
+    "cityMunicipalityCode": "0305412000"
+  }
+]

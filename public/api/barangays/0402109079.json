@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402109079",
+    "name": "Medicion II-F",
+    "code": "042109079",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1234,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402109000"
+  }
+]

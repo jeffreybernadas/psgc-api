@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0105536032",
+    "name": "Santa Maria East",
+    "code": "015536032",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2029,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0105500000",
+    "cityMunicipalityCode": "0105536000"
+  }
+]

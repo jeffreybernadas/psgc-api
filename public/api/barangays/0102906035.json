@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0102906035",
+    "name": "San Andres",
+    "code": "012906035",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 662,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0102900000",
+    "cityMunicipalityCode": "0102906000"
+  }
+]

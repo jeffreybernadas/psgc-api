@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0603044022",
+    "name": "Ferraris",
+    "code": "063044022",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1083,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0603000000",
+    "cityMunicipalityCode": "0603044000"
+  }
+]

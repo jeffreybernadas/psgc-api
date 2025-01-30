@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1600313010",
+    "name": "San Gabriel",
+    "code": "160313010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2461,
+    "isCapital": false,
+    "regionCode": "1600000000",
+    "provinceCode": "1600300000",
+    "cityMunicipalityCode": "1600313000"
+  }
+]

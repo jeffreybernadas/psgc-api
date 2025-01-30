@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0803724023",
+    "name": "Poblacion Zone 2",
+    "code": "083724023",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1301,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0803700000",
+    "cityMunicipalityCode": "0803724000"
+  }
+]

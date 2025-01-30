@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402105035",
+    "name": "Barangay 40",
+    "code": "042105035",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 413,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402105000"
+  }
+]

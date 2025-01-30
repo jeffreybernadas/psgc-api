@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0102924033",
+    "name": "Poblacion Weste",
+    "code": "012924033",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 446,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0102900000",
+    "cityMunicipalityCode": "0102924000"
+  }
+]

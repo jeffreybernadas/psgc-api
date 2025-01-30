@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0304911004",
+    "name": "Bagong Barrio",
+    "code": "034911004",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1239,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0304900000",
+    "cityMunicipalityCode": "0304911000"
+  }
+]

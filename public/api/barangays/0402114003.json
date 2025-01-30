@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402114003",
+    "name": "Galicia I",
+    "code": "042114003",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1918,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402114000"
+  }
+]

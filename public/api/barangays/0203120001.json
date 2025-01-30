@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203120001",
+    "name": "Aguinaldo",
+    "code": "023120001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 404,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203120000"
+  }
+]

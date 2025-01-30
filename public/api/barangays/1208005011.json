@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1208005011",
+    "name": "Old Poblacion",
+    "code": "128005011",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 4672,
+    "isCapital": false,
+    "regionCode": "1200000000",
+    "provinceCode": "1208000000",
+    "cityMunicipalityCode": "1208005000"
+  }
+]

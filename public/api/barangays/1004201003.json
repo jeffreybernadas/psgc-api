@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1004201003",
+    "name": "Burgos",
+    "code": "104201003",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 523,
+    "isCapital": false,
+    "regionCode": "1000000000",
+    "provinceCode": "1004200000",
+    "cityMunicipalityCode": "1004201000"
+  }
+]

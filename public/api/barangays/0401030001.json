@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401030001",
+    "name": "Aya",
+    "code": "041030001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 6703,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401030000"
+  }
+]

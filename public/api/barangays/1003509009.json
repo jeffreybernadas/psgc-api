@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1003509009",
+    "name": "El Salvador",
+    "code": "103509009",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1665,
+    "isCapital": false,
+    "regionCode": "1000000000",
+    "provinceCode": "1003500000",
+    "cityMunicipalityCode": "1003509000"
+  }
+]

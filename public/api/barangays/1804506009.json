@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1804506009",
+    "name": "Poblacion West",
+    "code": "064506009",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3822,
+    "isCapital": false,
+    "regionCode": "1800000000",
+    "provinceCode": "1804500000",
+    "cityMunicipalityCode": "1804506000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1102401025",
+    "name": "Poblacion Dos",
+    "code": "112401025",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 10532,
+    "isCapital": false,
+    "regionCode": "1100000000",
+    "provinceCode": "1102400000",
+    "cityMunicipalityCode": "1102401000"
+  }
+]

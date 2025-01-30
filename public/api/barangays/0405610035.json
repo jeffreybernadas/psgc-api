@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0405610035",
+    "name": "San Pablo",
+    "code": "045610035",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1391,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0405600000",
+    "cityMunicipalityCode": "0405610000"
+  }
+]

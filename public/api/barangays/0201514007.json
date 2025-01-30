@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0201514007",
+    "name": "Callao",
+    "code": "021514007",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 412,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0201500000",
+    "cityMunicipalityCode": "0201514000"
+  }
+]

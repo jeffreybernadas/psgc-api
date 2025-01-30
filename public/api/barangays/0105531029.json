@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0105531029",
+    "name": "Station District",
+    "code": "015531029",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2750,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0105500000",
+    "cityMunicipalityCode": "0105531000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203112063",
+    "name": "Villa Fermin",
+    "code": "023112063",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 921,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203112000"
+  }
+]

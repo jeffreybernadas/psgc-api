@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401020020",
+    "name": "Maugat West",
+    "code": "041020020",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 2332,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401020000"
+  }
+]

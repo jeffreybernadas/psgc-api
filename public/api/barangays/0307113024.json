@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0307113024",
+    "name": "Poblacion South",
+    "code": "037113024",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 3705,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0307100000",
+    "cityMunicipalityCode": "0307113000"
+  }
+]

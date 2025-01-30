@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0205005028",
+    "name": "Vista Alegre",
+    "code": "025005028",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 4347,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0205000000",
+    "cityMunicipalityCode": "0205005000"
+  }
+]

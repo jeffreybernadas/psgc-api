@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1600310010",
+    "name": "Concepcion",
+    "code": "160310010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 950,
+    "isCapital": false,
+    "regionCode": "1600000000",
+    "provinceCode": "1600300000",
+    "cityMunicipalityCode": "1600310000"
+  }
+]

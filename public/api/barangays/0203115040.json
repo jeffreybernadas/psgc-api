@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203115040",
+    "name": "Santa Isabel",
+    "code": "023115040",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 626,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203115000"
+  }
+]

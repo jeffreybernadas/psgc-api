@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402114012",
+    "name": "Poblacion VI",
+    "code": "042114012",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1270,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402114000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0405803007",
+    "name": "San Juan",
+    "code": "045803007",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 4838,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0405800000",
+    "cityMunicipalityCode": "0405803000"
+  }
+]

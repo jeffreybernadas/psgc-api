@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0306901019",
+    "name": "San Jose South",
+    "code": "036901019",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 462,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0306900000",
+    "cityMunicipalityCode": "0306901000"
+  }
+]

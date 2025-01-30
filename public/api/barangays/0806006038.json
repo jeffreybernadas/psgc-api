@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0806006038",
+    "name": "Poblacion 1",
+    "code": "086006038",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1132,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0806000000",
+    "cityMunicipalityCode": "0806006000"
+  }
+]

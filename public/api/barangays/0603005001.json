@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0603005001",
+    "name": "Aranjuez",
+    "code": "063005001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2067,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0603000000",
+    "cityMunicipalityCode": "0603005000"
+  }
+]

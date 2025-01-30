@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401016002",
+    "name": "Anilao East",
+    "code": "041016002",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1765,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401016000"
+  }
+]

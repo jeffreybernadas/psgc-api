@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401029028",
+    "name": "Poblacion 4",
+    "code": "041029028",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 301,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401029000"
+  }
+]

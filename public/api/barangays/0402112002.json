@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402112002",
+    "name": "Bendita I",
+    "code": "042112002",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1999,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402112000"
+  }
+]

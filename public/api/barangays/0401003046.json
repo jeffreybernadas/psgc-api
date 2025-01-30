@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401003046",
+    "name": "San Piro",
+    "code": "041003046",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3783,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401003000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0405801011",
+    "name": "San Roque",
+    "code": "045801011",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 12754,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0405800000",
+    "cityMunicipalityCode": "0405801000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0301420022",
+    "name": "Ciudad Real",
+    "code": "031420022",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1826,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0301400000",
+    "cityMunicipalityCode": "0301420000"
+  }
+]

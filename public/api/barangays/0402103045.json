@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402103045",
+    "name": "Molino II",
+    "code": "042103045",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 42395,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402103000"
+  }
+]

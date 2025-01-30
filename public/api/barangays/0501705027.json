@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0501705027",
+    "name": "San Jose Salay",
+    "code": "051705027",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1970,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0501700000",
+    "cityMunicipalityCode": "0501705000"
+  }
+]

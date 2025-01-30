@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203130001",
+    "name": "Agliam",
+    "code": "023130001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 430,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203130000"
+  }
+]

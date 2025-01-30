@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1001318032",
+    "name": "Sacramento Valley",
+    "code": "101318032",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2184,
+    "isCapital": false,
+    "regionCode": "1000000000",
+    "provinceCode": "1001300000",
+    "cityMunicipalityCode": "1001318000"
+  }
+]

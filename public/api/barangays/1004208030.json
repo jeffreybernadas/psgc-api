@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1004208030",
+    "name": "Western Poblacion",
+    "code": "104208030",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1802,
+    "isCapital": false,
+    "regionCode": "1000000000",
+    "provinceCode": "1004200000",
+    "cityMunicipalityCode": "1004208000"
+  }
+]

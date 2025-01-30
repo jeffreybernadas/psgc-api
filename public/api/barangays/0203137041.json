@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203137041",
+    "name": "San Mateo",
+    "code": "023137041",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2684,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203137000"
+  }
+]

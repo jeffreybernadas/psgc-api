@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0806020048",
+    "name": "Santa Cruz",
+    "code": "086020048",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 718,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0806000000",
+    "cityMunicipalityCode": "0806020000"
+  }
+]

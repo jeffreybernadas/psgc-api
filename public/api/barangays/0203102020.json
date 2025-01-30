@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203102020",
+    "name": "Consular",
+    "code": "023102020",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 652,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203102000"
+  }
+]

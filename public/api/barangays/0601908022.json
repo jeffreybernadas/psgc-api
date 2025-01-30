@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0601908022",
+    "name": "Poblacion Proper",
+    "code": "061908022",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 3145,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0601900000",
+    "cityMunicipalityCode": "0601908000"
+  }
+]

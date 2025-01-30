@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0907210003",
+    "name": "Bethlehem",
+    "code": "097210003",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 799,
+    "isCapital": false,
+    "regionCode": "0900000000",
+    "provinceCode": "0907200000",
+    "cityMunicipalityCode": "0907210000"
+  }
+]

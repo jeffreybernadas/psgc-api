@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0506215010",
+    "name": "San Eugenio",
+    "code": "056215010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1084,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0506200000",
+    "cityMunicipalityCode": "0506215000"
+  }
+]

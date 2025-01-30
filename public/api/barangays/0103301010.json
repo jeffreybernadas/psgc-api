@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103301010",
+    "name": "San Agustin East",
+    "code": "013301010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2479,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103301000"
+  }
+]

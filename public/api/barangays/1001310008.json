@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1001310008",
+    "name": "Capitan Juan",
+    "code": "101310008",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2147,
+    "isCapital": false,
+    "regionCode": "1000000000",
+    "provinceCode": "1001300000",
+    "cityMunicipalityCode": "1001310000"
+  }
+]

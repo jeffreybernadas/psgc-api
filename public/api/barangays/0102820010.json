@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0102820010",
+    "name": "San Guillermo",
+    "code": "012820010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 1678,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0102800000",
+    "cityMunicipalityCode": "0102820000"
+  }
+]

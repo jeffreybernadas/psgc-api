@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0405647004",
+    "name": "Angeles Zone II",
+    "code": "045647004",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 925,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0405600000",
+    "cityMunicipalityCode": "0405647000"
+  }
+]

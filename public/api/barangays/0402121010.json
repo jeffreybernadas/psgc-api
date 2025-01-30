@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402121010",
+    "name": "San Juan II",
+    "code": "042121010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1658,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402121000"
+  }
+]

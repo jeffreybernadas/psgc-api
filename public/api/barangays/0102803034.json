@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0102803034",
+    "name": "Santa Cruz Norte",
+    "code": "012803034",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 916,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0102800000",
+    "cityMunicipalityCode": "0102803000"
+  }
+]

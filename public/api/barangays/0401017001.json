@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401017001",
+    "name": "Bagong Pook",
+    "code": "041017001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 2472,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401017000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203123015",
+    "name": "Santiago",
+    "code": "023123015",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1847,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203123000"
+  }
+]

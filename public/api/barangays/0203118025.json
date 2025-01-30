@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203118025",
+    "name": "Sto. Rosario",
+    "code": "023118025",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 828,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203118000"
+  }
+]

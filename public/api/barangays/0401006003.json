@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401006003",
+    "name": "As-Is",
+    "code": "041006003",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 4040,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401006000"
+  }
+]

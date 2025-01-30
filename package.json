@@ -1,0 +1,62 @@
+{
+  "name": "psgc-api",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev --files src/index.ts index.d.ts",
+    "build": "tsc && cpy ./package.json ./dist",
+    "start": "node ./dist/index.js",
+    "lint": "eslint",
+    "lint:fix": "eslint --fix",
+    "format": "prettier --write .",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "prepare": "husky",
+    "check-types": "tsc --noEmit",
+    "checks": "npm run lint && npm run test && npm run check-types && npm run format",
+    "convert:psgc": "ts-node src/scripts/convert-psgc.ts",
+    "generate:api": "ts-node src/scripts/generate-api-data.ts"
+  },
+  "keywords": [],
+  "author": "Jeffrey Bernadas",
+  "homepage": "https://psgc.thecodebit.digital",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffreybernadas/psgc-api.git"
+  },
+  "license": "MIT",
+  "description": "API for listing all the regions, provinces, cities, municipalities, and barangays of the Philippines.",
+  "devDependencies": {
+    "@eslint/js": "^9.19.0",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/fs-extra": "^11.0.4",
+    "@types/jest": "^29.5.14",
+    "@types/swagger-jsdoc": "^6.0.4",
+    "@types/swagger-ui-express": "^4.1.7",
+    "@types/yamljs": "^0.2.34",
+    "cpy-cli": "^5.0.0",
+    "eslint": "^9.19.0",
+    "eslint-config-prettier": "^10.0.1",
+    "eslint-plugin-jest": "^28.11.0",
+    "fs-extra": "^11.3.0",
+    "globals": "^15.14.0",
+    "husky": "^9.1.7",
+    "jest": "^29.7.0",
+    "prettier": "^3.4.2",
+    "ts-jest": "^29.2.5",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.7.3",
+    "typescript-eslint": "^8.21.0",
+    "xlsx": "^0.18.5",
+    "yamljs": "^0.3.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "winston": "^3.17.0"
+  }
+}

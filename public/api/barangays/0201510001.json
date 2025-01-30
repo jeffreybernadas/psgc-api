@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0201510001",
+    "name": "Abagao",
+    "code": "021510001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 402,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0201500000",
+    "cityMunicipalityCode": "0201510000"
+  }
+]

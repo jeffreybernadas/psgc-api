@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0301420031",
+    "name": "Graceville",
+    "code": "031420031",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 42207,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0301400000",
+    "cityMunicipalityCode": "0301420000"
+  }
+]

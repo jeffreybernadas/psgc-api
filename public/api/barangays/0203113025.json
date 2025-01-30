@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203113025",
+    "name": "Upi",
+    "code": "023113025",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 5161,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203113000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1003506020",
+    "name": "Maguindanao",
+    "code": "103506020",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1802,
+    "isCapital": false,
+    "regionCode": "1000000000",
+    "provinceCode": "1003500000",
+    "cityMunicipalityCode": "1003506000"
+  }
+]

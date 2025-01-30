@@ -1,0 +1,6 @@
+dist
+dist10
+build
+coverage
+api-docs
+*.json

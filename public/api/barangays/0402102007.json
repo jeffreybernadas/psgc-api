@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402102007",
+    "name": "Maitim I",
+    "code": "042102007",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3225,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402102000"
+  }
+]

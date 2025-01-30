@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1903630012",
+    "name": "Extension Poblacion",
+    "code": "153630012",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2425,
+    "isCapital": false,
+    "regionCode": "1900000000",
+    "provinceCode": "1903600000",
+    "cityMunicipalityCode": "1903630000"
+  }
+]

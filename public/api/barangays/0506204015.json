@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0506204015",
+    "name": "San Bernardo",
+    "code": "056204015",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 888,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0506200000",
+    "cityMunicipalityCode": "0506204000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0405610032",
+    "name": "San Antonio Pala",
+    "code": "045610032",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2004,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0405600000",
+    "cityMunicipalityCode": "0405610000"
+  }
+]

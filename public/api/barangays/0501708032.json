@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0501708032",
+    "name": "San Bernardino",
+    "code": "051708032",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 448,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0501700000",
+    "cityMunicipalityCode": "0501708000"
+  }
+]

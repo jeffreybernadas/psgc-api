@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0802609033",
+    "name": "Poblacion Ward 1",
+    "code": "082609033",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 423,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0802600000",
+    "cityMunicipalityCode": "0802609000"
+  }
+]

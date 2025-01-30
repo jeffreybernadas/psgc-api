@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0601911024",
+    "name": "Santa Fe",
+    "code": "061911024",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2972,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0601900000",
+    "cityMunicipalityCode": "0601911000"
+  }
+]

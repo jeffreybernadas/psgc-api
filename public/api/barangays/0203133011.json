@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203133011",
+    "name": "Minanga Norte",
+    "code": "023133011",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1222,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203133000"
+  }
+]

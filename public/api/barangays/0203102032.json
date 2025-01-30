@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203102032",
+    "name": "La Suerte",
+    "code": "023102032",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2029,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203102000"
+  }
+]

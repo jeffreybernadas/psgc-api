@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103301027",
+    "name": "San Manuel Sur",
+    "code": "013301027",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 930,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103301000"
+  }
+]

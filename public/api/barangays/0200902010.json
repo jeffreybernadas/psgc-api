@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0200902010",
+    "name": "Santa Rosa",
+    "code": "020902010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 833,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0200900000",
+    "cityMunicipalityCode": "0200902000"
+  }
+]

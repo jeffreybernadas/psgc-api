@@ -1,0 +1,92 @@
+name: Auto Release
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'package.json'
+
+jobs:
+  checks:
+    name: Checks before creating a release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          cache: 'yarn'
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Run Linter
+        run: yarn lint
+
+      - name: Run Formatter
+        run: yarn format
+
+      - name: Check types
+        run: yarn check-types
+
+      - name: Test
+        run: yarn test
+
+  create-release:
+    name: Create Release
+    needs: [checks]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get versions and commits
+        id: versions
+        run: |
+          git fetch --prune --unshallow || true
+
+          # Get current version and commit
+          CURRENT_VERSION=$(jq -r .version package.json)
+          CURRENT_COMMIT=$(git rev-parse HEAD)
+          echo "current_version=$CURRENT_VERSION" >> $GITHUB_OUTPUT
+
+          # Find the last commit that changed package.json version
+          PREV_VERSION_COMMIT=$(git log -n 2 --pretty=format:"%H" -- package.json | tail -n 1)
+
+          # Get previous version
+          git checkout $PREV_VERSION_COMMIT
+          PREV_VERSION=$(jq -r .version package.json)
+          git checkout -
+
+          echo "prev_version=$PREV_VERSION" >> $GITHUB_OUTPUT
+
+          # Get all commit messages between the last version change and now
+          COMMITS=$(git log --pretty=format:"- %s" ${PREV_VERSION_COMMIT}..${CURRENT_COMMIT})
+          echo "commits<<EOF" >> $GITHUB_OUTPUT
+          echo "$COMMITS" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Create release
+        if: steps.versions.outputs.prev_version != steps.versions.outputs.current_version
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ steps.versions.outputs.current_version }}
+          release_name: v${{ steps.versions.outputs.current_version }}
+          body: |
+            # ${{ steps.versions.outputs.current_version }}
+
+            ### Changes:
+            - Version bump from v${{ steps.versions.outputs.prev_version }} to v${{ steps.versions.outputs.current_version }}
+            ${{ steps.versions.outputs.commits }}
+          draft: false
+          prerelease: false

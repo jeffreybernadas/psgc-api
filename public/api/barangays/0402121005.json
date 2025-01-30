@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0402121005",
+    "name": "Poblacion III",
+    "code": "042121005",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1757,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0402100000",
+    "cityMunicipalityCode": "0402121000"
+  }
+]

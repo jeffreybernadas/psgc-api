@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0102906004",
+    "name": "Ayudante",
+    "code": "012906004",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 1123,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0102900000",
+    "cityMunicipalityCode": "0102906000"
+  }
+]

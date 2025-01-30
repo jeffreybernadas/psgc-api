@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203123008",
+    "name": "San Isidro",
+    "code": "023123008",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 428,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203123000"
+  }
+]

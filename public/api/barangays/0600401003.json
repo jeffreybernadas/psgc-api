@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0600401003",
+    "name": "Catmon",
+    "code": "060401003",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1237,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0600400000",
+    "cityMunicipalityCode": "0600401000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0300804021",
+    "name": "New San Jose",
+    "code": "030804021",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 6646,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0300800000",
+    "cityMunicipalityCode": "0300804000"
+  }
+]

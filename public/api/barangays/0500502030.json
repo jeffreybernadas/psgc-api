@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0500502030",
+    "name": "Panoypoy",
+    "code": "050502030",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1337,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0500500000",
+    "cityMunicipalityCode": "0500502000"
+  }
+]

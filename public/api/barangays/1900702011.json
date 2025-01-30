@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1900702011",
+    "name": "Buahan",
+    "code": "150702011",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1300,
+    "isCapital": false,
+    "regionCode": "1900000000",
+    "provinceCode": "1900700000",
+    "cityMunicipalityCode": "1900702000"
+  }
+]

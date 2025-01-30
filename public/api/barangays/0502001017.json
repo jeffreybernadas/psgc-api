@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0502001017",
+    "name": "Santa Mesa",
+    "code": "052001017",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 259,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0502000000",
+    "cityMunicipalityCode": "0502001000"
+  }
+]

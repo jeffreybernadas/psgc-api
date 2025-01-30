@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0603008016",
+    "name": "Puerto Princesa",
+    "code": "063008016",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 1109,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0603000000",
+    "cityMunicipalityCode": "0603008000"
+  }
+]

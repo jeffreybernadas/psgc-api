@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0105531026",
+    "name": "San Pedro West",
+    "code": "015531026",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 4334,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0105500000",
+    "cityMunicipalityCode": "0105531000"
+  }
+]

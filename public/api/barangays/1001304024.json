@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1001304024",
+    "name": "San Antonio East",
+    "code": "101304024",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 935,
+    "isCapital": false,
+    "regionCode": "1000000000",
+    "provinceCode": "1001300000",
+    "cityMunicipalityCode": "1001304000"
+  }
+]

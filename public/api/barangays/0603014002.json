@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0603014002",
+    "name": "Alipata",
+    "code": "063014002",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1337,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0603000000",
+    "cityMunicipalityCode": "0603014000"
+  }
+]

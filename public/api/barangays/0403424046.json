@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0403424046",
+    "name": "San Diego",
+    "code": "043424046",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 5068,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0403400000",
+    "cityMunicipalityCode": "0403424000"
+  }
+]

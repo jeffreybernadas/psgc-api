@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0603027021",
+    "name": "Poblacion SE Zone",
+    "code": "063027021",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2811,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0603000000",
+    "cityMunicipalityCode": "0603027000"
+  }
+]

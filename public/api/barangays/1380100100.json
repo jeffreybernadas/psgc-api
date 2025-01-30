@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1380100100",
+    "name": "Barangay 100",
+    "code": "137501100",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 983,
+    "isCapital": false,
+    "regionCode": "1300000000",
+    "provinceCode": "1380100000",
+    "cityMunicipalityCode": "1380100000"
+  }
+]

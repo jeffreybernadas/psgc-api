@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0502007003",
+    "name": "Bagong Bayan",
+    "code": "052007003",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 256,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0502000000",
+    "cityMunicipalityCode": "0502007000"
+  }
+]

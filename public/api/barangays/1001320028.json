@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1001320028",
+    "name": "San Miguel",
+    "code": "101320028",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3391,
+    "isCapital": false,
+    "regionCode": "1000000000",
+    "provinceCode": "1001300000",
+    "cityMunicipalityCode": "1001320000"
+  }
+]

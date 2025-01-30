@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203137015",
+    "name": "Compania",
+    "code": "023137015",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1375,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203137000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0205004021",
+    "name": "San Antonio South",
+    "code": "025004021",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1598,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0205000000",
+    "cityMunicipalityCode": "0205004000"
+  }
+]

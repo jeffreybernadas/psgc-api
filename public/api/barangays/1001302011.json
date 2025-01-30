@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1001302011",
+    "name": "New Compostela",
+    "code": "101302011",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1240,
+    "isCapital": false,
+    "regionCode": "1000000000",
+    "provinceCode": "1001300000",
+    "cityMunicipalityCode": "1001302000"
+  }
+]

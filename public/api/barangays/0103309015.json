@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103309015",
+    "name": "Santiago Sur",
+    "code": "013309015",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2082,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103309000"
+  }
+]

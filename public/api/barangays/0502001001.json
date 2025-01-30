@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0502001001",
+    "name": "Antipolo",
+    "code": "052001001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 781,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0502000000",
+    "cityMunicipalityCode": "0502001000"
+  }
+]

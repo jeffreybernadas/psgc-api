@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203123012",
+    "name": "San Vicente",
+    "code": "023123012",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 819,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203123000"
+  }
+]

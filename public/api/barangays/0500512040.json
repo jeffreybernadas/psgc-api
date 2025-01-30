@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0500512040",
+    "name": "Rizal",
+    "code": "050512040",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 903,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0500500000",
+    "cityMunicipalityCode": "0500512000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0600606040",
+    "name": "San Pascual",
+    "code": "060606040",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 467,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0600600000",
+    "cityMunicipalityCode": "0600606000"
+  }
+]

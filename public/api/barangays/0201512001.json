@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0201512001",
+    "name": "Alibago",
+    "code": "021512001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2222,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0201500000",
+    "cityMunicipalityCode": "0201512000"
+  }
+]

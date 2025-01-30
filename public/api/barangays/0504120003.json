@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0504120003",
+    "name": "Busing",
+    "code": "054120003",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1886,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0504100000",
+    "cityMunicipalityCode": "0504120000"
+  }
+]

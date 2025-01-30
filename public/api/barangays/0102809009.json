@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0102809009",
+    "name": "Cali",
+    "code": "012809009",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1343,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0102800000",
+    "cityMunicipalityCode": "0102809000"
+  }
+]

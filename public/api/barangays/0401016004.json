@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401016004",
+    "name": "Bulacan",
+    "code": "041016004",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 1489,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401016000"
+  }
+]

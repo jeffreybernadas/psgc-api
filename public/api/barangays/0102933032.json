@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0102933032",
+    "name": "Pudoc East",
+    "code": "012933032",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2105,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0102900000",
+    "cityMunicipalityCode": "0102933000"
+  }
+]

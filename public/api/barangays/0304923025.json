@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0304923025",
+    "name": "Poblacion Central",
+    "code": "034923025",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 643,
+    "isCapital": false,
+    "regionCode": "0300000000",
+    "provinceCode": "0304900000",
+    "cityMunicipalityCode": "0304923000"
+  }
+]

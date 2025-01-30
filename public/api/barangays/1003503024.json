@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1003503024",
+    "name": "Village",
+    "code": "103503024",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1407,
+    "isCapital": false,
+    "regionCode": "1000000000",
+    "provinceCode": "1003500000",
+    "cityMunicipalityCode": "1003503000"
+  }
+]

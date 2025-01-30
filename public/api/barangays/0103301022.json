@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103301022",
+    "name": "San Julian Central",
+    "code": "013301022",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 610,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103301000"
+  }
+]

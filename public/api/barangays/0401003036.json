@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401003036",
+    "name": "Malalay",
+    "code": "041003036",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1024,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401003000"
+  }
+]

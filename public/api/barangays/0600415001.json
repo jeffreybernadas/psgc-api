@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0600415001",
+    "name": "Candelaria",
+    "code": "060415001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1850,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0600400000",
+    "cityMunicipalityCode": "0600415000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1102404019",
+    "name": "New Quezon",
+    "code": "112404019",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 990,
+    "isCapital": false,
+    "regionCode": "1100000000",
+    "provinceCode": "1102400000",
+    "cityMunicipalityCode": "1102404000"
+  }
+]

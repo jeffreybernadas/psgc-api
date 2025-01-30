@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0403401011",
+    "name": "San Ildefonso",
+    "code": "043401011",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 3035,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0403400000",
+    "cityMunicipalityCode": "0403401000"
+  }
+]

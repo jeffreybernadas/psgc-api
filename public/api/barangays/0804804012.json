@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0804804012",
+    "name": "San Luis",
+    "code": "084804012",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2088,
+    "isCapital": false,
+    "regionCode": "0800000000",
+    "provinceCode": "0804800000",
+    "cityMunicipalityCode": "0804804000"
+  }
+]

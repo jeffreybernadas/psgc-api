@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0506211021",
+    "name": "Incarizan",
+    "code": "056211021",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1234,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0506200000",
+    "cityMunicipalityCode": "0506211000"
+  }
+]

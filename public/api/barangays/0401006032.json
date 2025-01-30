@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401006032",
+    "name": "San Andres Uno",
+    "code": "041006032",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 606,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401006000"
+  }
+]

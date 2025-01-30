@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0600409002",
+    "name": "Alfonso XII",
+    "code": "060409002",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1300,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0600400000",
+    "cityMunicipalityCode": "0600409000"
+  }
+]

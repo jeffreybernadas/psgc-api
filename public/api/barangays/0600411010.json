@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0600411010",
+    "name": "Castillo",
+    "code": "060411010",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 975,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0600400000",
+    "cityMunicipalityCode": "0600411000"
+  }
+]

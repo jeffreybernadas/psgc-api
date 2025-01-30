@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401033001",
+    "name": "Corona",
+    "code": "041033001",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1006,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401033000"
+  }
+]

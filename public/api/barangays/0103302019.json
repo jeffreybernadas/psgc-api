@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0103302019",
+    "name": "San Juan West",
+    "code": "013302019",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1375,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0103300000",
+    "cityMunicipalityCode": "0103302000"
+  }
+]

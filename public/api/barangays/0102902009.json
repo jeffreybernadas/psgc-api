@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0102902009",
+    "name": "Guardia",
+    "code": "012902009",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 446,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0102900000",
+    "cityMunicipalityCode": "0102902000"
+  }
+]

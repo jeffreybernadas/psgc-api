@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0205010020",
+    "name": "San Fabian",
+    "code": "025010020",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 887,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0205000000",
+    "cityMunicipalityCode": "0205010000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0601911013",
+    "name": "Poblacion",
+    "code": "061911013",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1872,
+    "isCapital": false,
+    "regionCode": "0600000000",
+    "provinceCode": "0601900000",
+    "cityMunicipalityCode": "0601911000"
+  }
+]

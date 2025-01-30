@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0401020026",
+    "name": "San Felipe",
+    "code": "041020026",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 3588,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0401000000",
+    "cityMunicipalityCode": "0401020000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203135035",
+    "name": "Victory Norte",
+    "code": "023135035",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 4250,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203135000"
+  }
+]

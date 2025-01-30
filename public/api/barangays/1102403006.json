@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1102403006",
+    "name": "Colorado",
+    "code": "112403006",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 3301,
+    "isCapital": false,
+    "regionCode": "1100000000",
+    "provinceCode": "1102400000",
+    "cityMunicipalityCode": "1102403000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0403420006",
+    "name": "Dorado",
+    "code": "043420006",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 265,
+    "isCapital": false,
+    "regionCode": "0400000000",
+    "provinceCode": "0403400000",
+    "cityMunicipalityCode": "0403420000"
+  }
+]

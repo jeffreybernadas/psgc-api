@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "1600310011",
+    "name": "Pag-asa",
+    "code": "160310011",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 888,
+    "isCapital": false,
+    "regionCode": "1600000000",
+    "provinceCode": "1600300000",
+    "cityMunicipalityCode": "1600310000"
+  }
+]

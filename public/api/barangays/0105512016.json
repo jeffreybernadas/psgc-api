@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0105512016",
+    "name": "San Felipe Central",
+    "code": "015512016",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2303,
+    "isCapital": false,
+    "regionCode": "0100000000",
+    "provinceCode": "0105500000",
+    "cityMunicipalityCode": "0105512000"
+  }
+]

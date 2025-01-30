@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0205005016",
+    "name": "District III Pob.",
+    "code": "025005016",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Urban",
+    "population2020": 2290,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0205000000",
+    "cityMunicipalityCode": "0205005000"
+  }
+]

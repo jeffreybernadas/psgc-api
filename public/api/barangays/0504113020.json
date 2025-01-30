@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0504113020",
+    "name": "Poblacion Dist. II",
+    "code": "054113020",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 2063,
+    "isCapital": false,
+    "regionCode": "0500000000",
+    "provinceCode": "0504100000",
+    "cityMunicipalityCode": "0504113000"
+  }
+]

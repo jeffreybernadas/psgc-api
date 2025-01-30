@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0201515022",
+    "name": "Santa Barbara",
+    "code": "021515022",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 1508,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0201500000",
+    "cityMunicipalityCode": "0201515000"
+  }
+]

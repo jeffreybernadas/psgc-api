@@ -1,0 +1,14 @@
+[
+  {
+    "psgc10DigitCode": "0203110003",
+    "name": "Bucal Norte",
+    "code": "023110003",
+    "geographicLevel": "Brgy",
+    "urbanRural": "Rural",
+    "population2020": 283,
+    "isCapital": false,
+    "regionCode": "0200000000",
+    "provinceCode": "0203100000",
+    "cityMunicipalityCode": "0203110000"
+  }
+]
