@@ -98,9 +98,18 @@ function processUrbanRural(value: string | undefined): string | undefined {
 function processRegion(data: PSGCData): ProcessedData {
   const regex = /(.+?)\s*\((.+?)\)/;
   const match = regex.exec(data.name);
-  if (!match) return data;
-
   const { status, urbanRural, ...rest } = data;
+
+  if (!match) {
+    // Handle MIMAROPA Region case
+    const nameParts = data.name.split(' ');
+    return {
+      ...rest,
+      regionName: nameParts[0], // MIMAROPA
+      name: data.name, // MIMAROPA Region
+    };
+  }
+
   return {
     ...rest,
     regionName: match[1].trim(),

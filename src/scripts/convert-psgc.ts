@@ -46,7 +46,7 @@ function convertExcelToJson(): void {
       (row: ExcelRow) => ({
         psgc10DigitCode: row['10-digit PSGC']?.toString() ?? '',
         name: row.Name ?? '',
-        code: row['Correspondence Code']?.toString() ?? '',
+        code: row['Correspondence Code']?.toString() ?? 'Unavailable',
         geographicLevel:
           row['Geographic Level'] === 'Bgy'
             ? 'Brgy'
