@@ -52,8 +52,8 @@
     "name": "MIMAROPA Region",
     "code": "170000000",
     "geographicLevel": "Reg",
-    "urbanRural": "",
-    "population2020": 3228558
+    "population2020": 3228558,
+    "regionName": "MIMAROPA"
   },
   {
     "psgc10DigitCode": "0500000000",
@@ -74,7 +74,7 @@
   {
     "psgc10DigitCode": "1800000000",
     "name": "NIR",
-    "code": "",
+    "code": "Unavailable",
     "geographicLevel": "Reg",
     "population2020": 4760340,
     "regionName": "Negros Island Region"
