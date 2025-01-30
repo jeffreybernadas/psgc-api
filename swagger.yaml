@@ -22,8 +22,96 @@ paths:
     get:
       tags:
         - Health Check
-      security: []
       summary: Check the health of the PSGC API.
       responses:
         200:
           description: PSGC API is healthy.
+  /api/v1/region:
+    get:
+      tags:
+        - Region
+      summary: Get all the regions of the Philippines.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ResponseSchemaRegion"
+  /api/v1/region/{regionCode}:
+    get:
+      tags:
+        - Region
+      summary: Get region details by region code.
+      parameters:
+        - in: path
+          name: regionCode
+          schema:
+            type: string
+            example: 1300000000
+          description: The 10-digit PSGC code of the region.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ResponseSchemaRegion"
+        404:
+          description: Region not found.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ResponseSchemaError"
+components:
+  schemas:
+    ResponseSchemaRegion:
+      type: object
+      properties:
+        page:
+          type: number
+          description: The current page of the response.
+        limit:
+          type: number
+          description: The number of items per page.
+        total:
+          type: number
+          description: The total number of items.
+        data:
+          type: array
+          description: The data of the response.
+          items:
+            $ref: "#/components/schemas/RegionSchema"
+    ResponseSchemaError:
+      type: object
+      properties:
+        message:
+          type: string
+          description: The message of the response.
+        error:
+          type: boolean
+          description: Whether the request is successful.
+        status:
+          type: number
+          description: The HTTP status code of the response.
+    RegionSchema:
+      type: object
+      properties:
+        psgc10DigitCode:
+          type: string
+          description: The 10-digit PSGC code of the region.
+        name:
+          type: string
+          description: The name of the region.
+        code:
+          type: string
+          description: The correspondence code of the region.
+        geographicLevel:
+          type: string
+          description: The geographic level of the region.
+        population2020:
+          type: number
+          description: The population count of the region in 2020.
+        regionName:
+          type: string
+          description: The complete name of the region.
