@@ -7,6 +7,7 @@
     "incomeClassification": "4th*",
     "population2020": 29799,
     "regionCode": "0800000000",
-    "provinceCode": "0806400000"
+    "provinceCode": "0806400000",
+    "isCapital": false
   }
 ]

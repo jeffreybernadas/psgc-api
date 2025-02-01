@@ -24,7 +24,8 @@ interface ProcessedData extends Omit<PSGCData, 'status'> {
   provinceCode?: string;
   cityMunicipalityCode?: string;
   regionName?: string; // only for region
-  isCapital?: boolean; // only for barangay
+  isCapital?: boolean; // only for city and municipality
+  isPoblacion?: boolean; // only for barangay
 }
 
 export function generatePSGCData(): void {
@@ -133,6 +134,7 @@ function processCityOrMunicipality(data: PSGCData): ProcessedData {
     ...rest,
     regionCode: psgcCode.slice(0, 2) + '00000000',
     provinceCode: psgcCode.slice(0, 5) + '00000',
+    isCapital: status === 'Capital',
   };
 }
 
@@ -153,11 +155,11 @@ function processBarangay(data: PSGCData): ProcessedData {
   return {
     ...rest,
     name: status === 'Pob.' ? `${data.name} (Pob.)` : data.name,
-    isCapital: status === 'Capital',
     urbanRural: processUrbanRural(rest.urbanRural),
     regionCode: psgcCode.slice(0, 2) + '00000000',
     provinceCode: psgcCode.slice(0, 5) + '00000',
     cityMunicipalityCode: psgcCode.slice(0, 7) + '000',
+    isPoblacion: status === 'Pob.',
   };
 }
 

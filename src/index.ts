@@ -6,6 +6,11 @@ import { NODE_ENV, PORT } from './configs/variables.config';
 import { apiBaseUrl } from './configs/api.config';
 import { OK } from './constants/http.constant';
 import regionRouter from './routes/region.route';
+import provinceRouter from './routes/province.route';
+import cityRouter from './routes/city.route';
+import municipalityRouter from './routes/municipality.route';
+import submunicipalityRouter from './routes/submunicipality.route';
+import barangayRouter from './routes/barangay.route';
 import { logger } from './utils/logger.util';
 import swaggerDocs from './utils/swagger.util';
 
@@ -40,6 +45,11 @@ app.get('/health', (_, res) => {
 });
 
 app.use(`${apiBaseUrl}/region`, regionRouter);
+app.use(`${apiBaseUrl}/province`, provinceRouter);
+app.use(`${apiBaseUrl}/city`, cityRouter);
+app.use(`${apiBaseUrl}/municipality`, municipalityRouter);
+app.use(`${apiBaseUrl}/submunicipality`, submunicipalityRouter);
+app.use(`${apiBaseUrl}/barangay`, barangayRouter);
 
 app.listen(PORT, async () => {
   logger.info(

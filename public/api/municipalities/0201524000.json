@@ -7,6 +7,7 @@
     "incomeClassification": "5th",
     "population2020": 4434,
     "regionCode": "0200000000",
-    "provinceCode": "0201500000"
+    "provinceCode": "0201500000",
+    "isCapital": false
   }
 ]

@@ -5,9 +5,9 @@
     "code": "Unavailable",
     "geographicLevel": "Brgy",
     "population2020": 0,
-    "isCapital": false,
     "regionCode": "1200000000",
     "provinceCode": "1208000000",
-    "cityMunicipalityCode": "1208001000"
+    "cityMunicipalityCode": "1208001000",
+    "isPoblacion": false
   }
 ]

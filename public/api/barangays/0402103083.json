@@ -5,9 +5,9 @@
     "code": "Unavailable",
     "geographicLevel": "Brgy",
     "population2020": 16726,
-    "isCapital": false,
     "regionCode": "0400000000",
     "provinceCode": "0402100000",
-    "cityMunicipalityCode": "0402103000"
+    "cityMunicipalityCode": "0402103000",
+    "isPoblacion": false
   }
 ]
