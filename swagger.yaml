@@ -75,6 +75,101 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/ResponseSchemaError'
+  /api/v1/region/{regionCode}/provinces:
+    get:
+      tags:
+        - Region
+      summary: Get all provinces in a region.
+      parameters:
+        - in: path
+          name: regionCode
+          schema:
+            type: string
+            example: 1300000000
+          description: The 10-digit PSGC code of the region.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaProvince'
+  /api/v1/region/{regionCode}/municipalities:
+    get:
+      tags:
+        - Region
+      summary: Get all municipalities in a region.
+      parameters:
+        - in: path
+          name: regionCode
+          schema:
+            type: string
+            example: 1300000000
+          description: The 10-digit PSGC code of the region.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaMunicipality'
+  /api/v1/region/{regionCode}/cities:
+    get:
+      tags:
+        - Region
+      summary: Get all cities in a region.
+      parameters:
+        - in: path
+          name: regionCode
+          schema:
+            type: string
+            example: 1300000000
+          description: The 10-digit PSGC code of the region.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaCity'
+  /api/v1/region/{regionCode}/sub-municipalities:
+    get:
+      tags:
+        - Region
+      summary: Get all sub-municipalities in a region.
+      parameters:
+        - in: path
+          name: regionCode
+          schema:
+            type: string
+            example: 1300000000
+          description: The 10-digit PSGC code of the region.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaSubMunicipality'
+  /api/v1/region/{regionCode}/barangays:
+    get:
+      tags:
+        - Region
+      summary: Get all barangays in a region.
+      parameters:
+        - in: path
+          name: regionCode
+          schema:
+            type: string
+            example: 1300000000
+          description: The 10-digit PSGC code of the region.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaBarangay'
   /api/v1/province:
     get:
       tags:
@@ -112,6 +207,82 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/ResponseSchemaError'
+  /api/v1/province/{provinceCode}/municipalities:
+    get:
+      tags:
+        - Province
+      summary: Get all municipalities in a province.
+      parameters:
+        - in: path
+          name: provinceCode
+          schema:
+            type: string
+            example: 1400100000
+          description: The 10-digit PSGC code of the province.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaMunicipality'
+  /api/v1/province/{provinceCode}/cities:
+    get:
+      tags:
+        - Province
+      summary: Get all cities in a province.
+      parameters:
+        - in: path
+          name: provinceCode
+          schema:
+            type: string
+            example: 1400100000
+          description: The 10-digit PSGC code of the province.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaCity'
+  /api/v1/province/{provinceCode}/sub-municipalities:
+    get:
+      tags:
+        - Province
+      summary: Get all sub-municipalities in a province.
+      parameters:
+        - in: path
+          name: provinceCode
+          schema:
+            type: string
+            example: 1400100000
+          description: The 10-digit PSGC code of the province.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaSubMunicipality'
+  /api/v1/province/{provinceCode}/barangays:
+    get:
+      tags:
+        - Province
+      summary: Get all barangays in a province.
+      parameters:
+        - in: path
+          name: provinceCode
+          schema:
+            type: string
+            example: 1400100000
+          description: The 10-digit PSGC code of the province.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaBarangay'
   /api/v1/city:
     get:
       tags:
@@ -149,6 +320,44 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/ResponseSchemaError'
+  /api/v1/city/{cityCode}/sub-municipalities:
+    get:
+      tags:
+        - City
+      summary: Get all sub-municipalities in a city.
+      parameters:
+        - in: path
+          name: cityCode
+          schema:
+            type: string
+            example: 1380100000
+          description: The 10-digit PSGC code of the city.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaSubMunicipality'
+  /api/v1/city/{cityCode}/barangays:
+    get:
+      tags:
+        - City
+      summary: Get all barangays in a city.
+      parameters:
+        - in: path
+          name: cityCode
+          schema:
+            type: string
+            example: 1380100000
+          description: The 10-digit PSGC code of the city.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaBarangay'
   /api/v1/municipality:
     get:
       tags:
@@ -186,6 +395,44 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/ResponseSchemaError'
+  /api/v1/municipality/{municipalityCode}/sub-municipalities:
+    get:
+      tags:
+        - Municipality
+      summary: Get all sub-municipalities in a municipality.
+      parameters:
+        - in: path
+          name: municipalityCode
+          schema:
+            type: string
+            example: 1381701000
+          description: The 10-digit PSGC code of the municipality.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaSubMunicipality'
+  /api/v1/municipality/{municipalityCode}/barangays:
+    get:
+      tags:
+        - Municipality
+      summary: Get all barangays in a municipality.
+      parameters:
+        - in: path
+          name: municipalityCode
+          schema:
+            type: string
+            example: 1381701000
+          description: The 10-digit PSGC code of the municipality.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaBarangay'
   /api/v1/submunicipality:
     get:
       tags:
@@ -223,11 +470,31 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/ResponseSchemaError'
+  /api/v1/submunicipality/{submunicipalityCode}/barangays:
+    get:
+      tags:
+        - Sub-municipality
+      summary: Get all barangays in a sub-municipality.
+      parameters:
+        - in: path
+          name: submunicipalityCode
+          schema:
+            type: string
+            example: 1380601000
+          description: The 10-digit PSGC code of the sub-municipality.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaBarangay'
   /api/v1/barangay:
     get:
       tags:
         - Barangay
       summary: Get all the barangays of the Philippines.
+      description: '⚠️ As much as possible, avoid using this endpoint. This endpoint is very costly for my server as it counts all JSON files in a directory, even with pagination.'
       responses:
         200:
           description: Success.
