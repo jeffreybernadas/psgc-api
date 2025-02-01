@@ -13,6 +13,7 @@ import submunicipalityRouter from './routes/submunicipality.route';
 import barangayRouter from './routes/barangay.route';
 import { logger } from './utils/logger.util';
 import swaggerDocs from './utils/swagger.util';
+import { cityMunicipalityRoute } from './routes/cityMunicipality.route';
 
 const app: Express = express();
 
@@ -48,6 +49,7 @@ app.use(`${apiBaseUrl}/region`, regionRouter);
 app.use(`${apiBaseUrl}/province`, provinceRouter);
 app.use(`${apiBaseUrl}/city`, cityRouter);
 app.use(`${apiBaseUrl}/municipality`, municipalityRouter);
+app.use(`${apiBaseUrl}/cityMunicipality`, cityMunicipalityRoute);
 app.use(`${apiBaseUrl}/submunicipality`, submunicipalityRouter);
 app.use(`${apiBaseUrl}/barangay`, barangayRouter);
 
