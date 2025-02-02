@@ -469,37 +469,6 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/ResponseSchemaError'
-  /api/v1/city/{cityCode}/sub-municipalities:
-    get:
-      tags:
-        - City
-      summary: Get all sub-municipalities in a city.
-      parameters:
-        - in: path
-          name: cityCode
-          schema:
-            type: string
-            example: 1380100000
-          description: The 10-digit PSGC code of the city.
-        - in: query
-          name: page
-          schema:
-            type: number
-            default: 1
-          description: The page number of the response.
-        - in: query
-          name: limit
-          schema:
-            type: number
-            default: 10
-          description: The number of items per page.
-      responses:
-        200:
-          description: Success.
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/ResponseSchemaSubMunicipality'
   /api/v1/city/{cityCode}/barangays:
     get:
       tags:
@@ -581,37 +550,6 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/ResponseSchemaError'
-  /api/v1/municipality/{municipalityCode}/sub-municipalities:
-    get:
-      tags:
-        - Municipality
-      summary: Get all sub-municipalities in a municipality.
-      parameters:
-        - in: path
-          name: municipalityCode
-          schema:
-            type: string
-            example: 1381701000
-          description: The 10-digit PSGC code of the municipality.
-        - in: query
-          name: page
-          schema:
-            type: number
-            default: 1
-          description: The page number of the response.
-        - in: query
-          name: limit
-          schema:
-            type: number
-            default: 10
-          description: The number of items per page.
-      responses:
-        200:
-          description: Success.
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/ResponseSchemaSubMunicipality'
   /api/v1/municipality/{municipalityCode}/barangays:
     get:
       tags:
@@ -737,38 +675,6 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/ResponseSchemaError'
-  /api/v1/cityMunicipality/{code}/submunicipalities:
-    get:
-      tags:
-        - City/Municipality
-      summary: Get all submunicipalities in a city/municipality.
-      parameters:
-        - in: path
-          name: code
-          required: true
-          schema:
-            type: string
-            example: 1380100000
-          description: The 10-digit PSGC code of the city/municipality.
-        - in: query
-          name: page
-          schema:
-            type: number
-            default: 1
-          description: The page number of the response.
-        - in: query
-          name: limit
-          schema:
-            type: number
-            default: 10
-          description: The number of items per page.
-      responses:
-        '200':
-          description: Success.
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/ResponseSchemaSubMunicipality'
   /api/v1/cityMunicipality/{code}/barangays:
     get:
       tags:

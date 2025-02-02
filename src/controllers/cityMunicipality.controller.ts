@@ -6,7 +6,6 @@ import { publicDir } from '../constants/util.constant';
 import {
   CityResponse,
   MunicipalityResponse,
-  SubMunicipalityResponse,
   BarangayResponse,
 } from '../types/data.type';
 import {
@@ -16,9 +15,6 @@ import {
 } from '../utils/api.util';
 import catchErrors from '../utils/catchErrors.util';
 
-/**
- * Get all cities and municipalities
- */
 export const getCityMunicipalities = catchErrors(
   async (req: Request, res: Response): Promise<void> => {
     const paginationParams = getPaginationParams(req);
@@ -48,9 +44,6 @@ export const getCityMunicipalities = catchErrors(
   },
 );
 
-/**
- * Get city/municipality by code
- */
 export const getCityMunicipality = catchErrors(
   async (req: Request, res: Response): Promise<void> => {
     const { code } = req.params;
@@ -95,24 +88,6 @@ export const getCityMunicipality = catchErrors(
   },
 );
 
-/**
- * Get submunicipalities for a city/municipality
- */
-export const getSubMunicipalities = catchErrors(
-  async (req: Request, res: Response) => {
-    const { code } = req.params;
-    const response = getJsonDataFromDir<SubMunicipalityResponse>(
-      path.join(publicDir, 'api/submunicipalities'),
-      `${code.padStart(7, '0')}000`,
-      getPaginationParams(req),
-    );
-    res.status(OK).json(response);
-  },
-);
-
-/**
- * Get barangays for a city/municipality
- */
 export const getBarangays = catchErrors(async (req: Request, res: Response) => {
   const { code } = req.params;
   const response = getJsonDataFromDir<BarangayResponse>(

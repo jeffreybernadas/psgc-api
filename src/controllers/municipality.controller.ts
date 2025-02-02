@@ -3,11 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import { NOT_FOUND, OK } from '../constants/http.constant';
 import { publicDir } from '../constants/util.constant';
-import {
-  MunicipalityResponse,
-  SubMunicipalityResponse,
-  BarangayResponse,
-} from '../types/data.type';
+import { MunicipalityResponse, BarangayResponse } from '../types/data.type';
 import {
   getPaginationParams,
   paginateData,
@@ -64,18 +60,6 @@ export const getMunicipality = catchErrors(
       total: 1,
       data: [municipality],
     });
-  },
-);
-
-export const getSubMunicipalities = catchErrors(
-  async (req: Request, res: Response) => {
-    const { municipalityCode } = req.params;
-    const response = getJsonDataFromDir<SubMunicipalityResponse>(
-      path.join(publicDir, 'api/submunicipalities'),
-      `${municipalityCode.padStart(7, '0')}000`,
-      getPaginationParams(req),
-    );
-    res.status(OK).json(response);
   },
 );
 
