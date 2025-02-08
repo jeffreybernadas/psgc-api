@@ -22,7 +22,8 @@ export const getMunicipalities = catchErrors(
       .map((file) => {
         const filePath = path.join(municipalitiesDir, file);
         return JSON.parse(fs.readFileSync(filePath, 'utf8'));
-      });
+      })
+      .flat();
 
     const response = paginateData<MunicipalityResponse>(
       municipalities,
@@ -58,7 +59,7 @@ export const getMunicipality = catchErrors(
       page: 1,
       limit: 1,
       total: 1,
-      data: [municipality],
+      data: municipality,
     });
   },
 );

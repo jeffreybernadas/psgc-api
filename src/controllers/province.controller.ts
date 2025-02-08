@@ -28,7 +28,8 @@ export const getProvinces = catchErrors(
       .map((file) => {
         const filePath = path.join(provincesDir, file);
         return JSON.parse(fs.readFileSync(filePath, 'utf8'));
-      });
+      })
+      .flat();
 
     const response = paginateData<ProvinceResponse>(
       provinces,
@@ -64,7 +65,7 @@ export const getProvince = catchErrors(
       page: 1,
       limit: 1,
       total: 1,
-      data: [province],
+      data: province,
     });
   },
 );

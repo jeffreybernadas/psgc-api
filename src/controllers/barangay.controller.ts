@@ -18,7 +18,8 @@ export const getBarangays = catchErrors(
       .map((file) => {
         const filePath = path.join(barangaysDir, file);
         return JSON.parse(fs.readFileSync(filePath, 'utf8'));
-      });
+      })
+      .flat();
 
     const response = paginateData<BarangayResponse>(
       barangays,
@@ -54,7 +55,7 @@ export const getBarangay = catchErrors(
       page: 1,
       limit: 1,
       total: 1,
-      data: [barangay],
+      data: barangay,
     });
   },
 );

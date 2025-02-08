@@ -103,7 +103,7 @@ describe('Controller: Province Controller', () => {
           page: 1,
           limit: 1,
           total: 1,
-          data: [expect.objectContaining(mockProvince[0])],
+          data: expect.objectContaining(mockProvince[0]),
         }),
       );
     });

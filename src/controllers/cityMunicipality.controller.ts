@@ -64,7 +64,7 @@ export const getCityMunicipality = catchErrors(
         page: 1,
         limit: 1,
         total: 1,
-        data: [city],
+        data: city,
       });
       return;
     }

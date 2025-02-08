@@ -93,7 +93,7 @@ describe('Controller: Municipality Controller', () => {
           page: 1,
           limit: 1,
           total: 1,
-          data: [expect.objectContaining(mockMunicipality[0])],
+          data: expect.objectContaining(mockMunicipality[0]),
         }),
       );
     });

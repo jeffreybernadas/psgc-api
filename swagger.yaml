@@ -867,7 +867,7 @@ paths:
       tags:
         - Barangay
       summary: Get all the barangays of the Philippines.
-      description: '⚠️ As much as possible, avoid using this endpoint. This endpoint is very costly for my server as it counts all JSON files in a directory, even with pagination.'
+      description: '⚠️ As much as possible, avoid using this endpoint. This endpoint is very costly for my server as it counts all JSON files in a directory, even with pagination and is not good for user experience.'
       parameters:
         - in: query
           name: page

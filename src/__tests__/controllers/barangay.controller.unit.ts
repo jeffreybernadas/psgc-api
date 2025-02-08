@@ -82,7 +82,7 @@ describe('Controller: Barangay Controller', () => {
           page: 1,
           limit: 1,
           total: 1,
-          data: [expect.objectContaining(mockBarangay[0])],
+          data: expect.objectContaining(mockBarangay[0]),
         }),
       );
     });
