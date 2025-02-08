@@ -8,6 +8,7 @@
     "incomeClassification": "1st",
     "population2020": 457626,
     "regionCode": "0600000000",
-    "provinceCode": "0631000000"
+    "provinceCode": "0631000000",
+    "isCapital": true
   }
 ]

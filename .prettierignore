@@ -4,3 +4,4 @@ build
 coverage
 api-docs
 *.json
+swagger.yaml

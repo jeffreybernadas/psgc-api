@@ -17,13 +17,1248 @@ servers:
 tags:
   - name: Health Check
     description: API health check endpoint
+  - name: Region
+    description: Region endpoints
+  - name: Province
+    description: Province endpoints
+  - name: City
+    description: City endpoints
+  - name: Municipality
+    description: Municipality endpoints
+  - name: City/Municipality
+    description: City/Municipality endpoints
+  - name: Sub-municipality
+    description: Sub-municipality endpoints
+  - name: Barangay
+    description: Barangay endpoints
 paths:
   /health:
     get:
       tags:
         - Health Check
-      security: []
       summary: Check the health of the PSGC API.
       responses:
         200:
           description: PSGC API is healthy.
+  /api/v1/region:
+    get:
+      tags:
+        - Region
+      summary: Get all the regions of the Philippines.
+      parameters:
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaRegion'
+  /api/v1/region/{regionCode}:
+    get:
+      tags:
+        - Region
+      summary: Get region details by region code.
+      parameters:
+        - in: path
+          name: regionCode
+          schema:
+            type: string
+            example: 1300000000
+          description: The 10-digit PSGC code of the region.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaRegion'
+        404:
+          description: Region not found.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaError'
+  /api/v1/region/{regionCode}/provinces:
+    get:
+      tags:
+        - Region
+      summary: Get all provinces in a region.
+      parameters:
+        - in: path
+          name: regionCode
+          schema:
+            type: string
+            example: 1300000000
+          description: The 10-digit PSGC code of the region.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaProvince'
+  /api/v1/region/{regionCode}/municipalities:
+    get:
+      tags:
+        - Region
+      summary: Get all municipalities in a region.
+      parameters:
+        - in: path
+          name: regionCode
+          schema:
+            type: string
+            example: 1300000000
+          description: The 10-digit PSGC code of the region.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaMunicipality'
+  /api/v1/region/{regionCode}/cities:
+    get:
+      tags:
+        - Region
+      summary: Get all cities in a region.
+      parameters:
+        - in: path
+          name: regionCode
+          schema:
+            type: string
+            example: 1300000000
+          description: The 10-digit PSGC code of the region.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaCity'
+  /api/v1/region/{regionCode}/cities-municipalities:
+    get:
+      tags:
+        - Region
+      summary: Get all cities and municipalities in a region.
+      parameters:
+        - in: path
+          name: regionCode
+          schema:
+            type: string
+            example: 1300000000
+          description: The 10-digit PSGC code of the region.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaCityMunicipality'
+  /api/v1/region/{regionCode}/sub-municipalities:
+    get:
+      tags:
+        - Region
+      summary: Get all sub-municipalities in a region.
+      parameters:
+        - in: path
+          name: regionCode
+          schema:
+            type: string
+            example: 1300000000
+          description: The 10-digit PSGC code of the region.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaSubMunicipality'
+  /api/v1/region/{regionCode}/barangays:
+    get:
+      tags:
+        - Region
+      summary: Get all barangays in a region.
+      parameters:
+        - in: path
+          name: regionCode
+          schema:
+            type: string
+            example: 1300000000
+          description: The 10-digit PSGC code of the region.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaBarangay'
+  /api/v1/province:
+    get:
+      tags:
+        - Province
+      summary: Get all the provinces of the Philippines.
+      parameters:
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaProvince'
+  /api/v1/province/{provinceCode}:
+    get:
+      tags:
+        - Province
+      summary: Get province details by province code.
+      parameters:
+        - in: path
+          name: provinceCode
+          schema:
+            type: string
+            example: 1400100000
+          description: The 10-digit PSGC code of the province.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaProvince'
+        404:
+          description: Province not found.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaError'
+  /api/v1/province/{provinceCode}/municipalities:
+    get:
+      tags:
+        - Province
+      summary: Get all municipalities in a province.
+      parameters:
+        - in: path
+          name: provinceCode
+          schema:
+            type: string
+            example: 1400100000
+          description: The 10-digit PSGC code of the province.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaMunicipality'
+  /api/v1/province/{provinceCode}/cities:
+    get:
+      tags:
+        - Province
+      summary: Get all cities in a province.
+      parameters:
+        - in: path
+          name: provinceCode
+          schema:
+            type: string
+            example: 1400100000
+          description: The 10-digit PSGC code of the province.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaCity'
+  /api/v1/province/{provinceCode}/cities-municipalities:
+    get:
+      tags:
+        - Province
+      summary: Get all cities and municipalities in a province.
+      parameters:
+        - in: path
+          name: provinceCode
+          schema:
+            type: string
+            example: 1400100000
+          description: The 10-digit PSGC code of the province.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaCityMunicipality'
+  /api/v1/province/{provinceCode}/sub-municipalities:
+    get:
+      tags:
+        - Province
+      summary: Get all sub-municipalities in a province.
+      parameters:
+        - in: path
+          name: provinceCode
+          schema:
+            type: string
+            example: 1400100000
+          description: The 10-digit PSGC code of the province.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaSubMunicipality'
+  /api/v1/province/{provinceCode}/barangays:
+    get:
+      tags:
+        - Province
+      summary: Get all barangays in a province.
+      parameters:
+        - in: path
+          name: provinceCode
+          schema:
+            type: string
+            example: 1400100000
+          description: The 10-digit PSGC code of the province.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaBarangay'
+  /api/v1/city:
+    get:
+      tags:
+        - City
+      summary: Get all the cities of the Philippines.
+      parameters:
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaCity'
+  /api/v1/city/{cityCode}:
+    get:
+      tags:
+        - City
+      summary: Get city details by city code.
+      parameters:
+        - in: path
+          name: cityCode
+          schema:
+            type: string
+            example: 1380100000
+          description: The 10-digit PSGC code of the city.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaCity'
+        404:
+          description: City not found.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaError'
+  /api/v1/city/{cityCode}/barangays:
+    get:
+      tags:
+        - City
+      summary: Get all barangays in a city.
+      parameters:
+        - in: path
+          name: cityCode
+          schema:
+            type: string
+            example: 1380100000
+          description: The 10-digit PSGC code of the city.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaBarangay'
+  /api/v1/municipality:
+    get:
+      tags:
+        - Municipality
+      summary: Get all the municipalities of the Philippines.
+      parameters:
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaMunicipality'
+  /api/v1/municipality/{municipalityCode}:
+    get:
+      tags:
+        - Municipality
+      summary: Get municipality details by municipality code.
+      parameters:
+        - in: path
+          name: municipalityCode
+          schema:
+            type: string
+            example: 1381701000
+          description: The 10-digit PSGC code of the municipality.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaMunicipality'
+        404:
+          description: Municipality not found.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaError'
+  /api/v1/municipality/{municipalityCode}/barangays:
+    get:
+      tags:
+        - Municipality
+      summary: Get all barangays in a municipality.
+      parameters:
+        - in: path
+          name: municipalityCode
+          schema:
+            type: string
+            example: 1381701000
+          description: The 10-digit PSGC code of the municipality.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaBarangay'
+    /api/v1/cityMunicipality:
+    get:
+      tags:
+        - City Municipality
+      summary: Get all cities and municipalities
+      description: Returns a combined list of cities and municipalities.
+      parameters:
+        - in: query
+          name: page
+          schema:
+            type: number
+          description: Page number.
+        - in: query
+          name: limit
+          schema:
+            type: number
+          description: Items per page.
+      responses:
+        '200':
+          description: Success
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  page:
+                    type: number
+                  limit:
+                    type: number
+                  total:
+                    type: number
+                  data:
+                    type: array
+                    items:
+                      oneOf:
+                        - $ref: '#/components/schemas/CitySchema'
+                        - $ref: '#/components/schemas/MunicipalitySchema'
+        '500':
+          description: Internal Server Error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaError'
+  /api/v1/cityMunicipality:
+    get:
+      tags:
+        - City/Municipality
+      summary: Get all cities and municipalities of the Philippines.
+      parameters:
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        '200':
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaCityMunicipality'
+  /api/v1/cityMunicipality/{code}:
+    get:
+      tags:
+        - City/Municipality
+      summary: Get city/municipality details by code.
+      parameters:
+        - in: path
+          name: code
+          required: true
+          schema:
+            type: string
+            example: 1380100000
+          description: The 10-digit PSGC code of the city/municipality.
+      responses:
+        '200':
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaCityMunicipality'
+        '404':
+          description: City/Municipality not found.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaError'
+  /api/v1/cityMunicipality/{code}/barangays:
+    get:
+      tags:
+        - City/Municipality
+      summary: Get all barangays in a city/municipality.
+      parameters:
+        - in: path
+          name: code
+          required: true
+          schema:
+            type: string
+            example: 1380100000
+          description: The 10-digit PSGC code of the city/municipality.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        '200':
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaBarangay'
+  /api/v1/submunicipality:
+    get:
+      tags:
+        - Sub-municipality
+      summary: Get all the sub-municipalities of the Philippines.
+      parameters:
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaSubMunicipality'
+  /api/v1/submunicipality/{submunicipalityCode}:
+    get:
+      tags:
+        - Sub-municipality
+      summary: Get sub-municipality details by sub-municipality code.
+      parameters:
+        - in: path
+          name: submunicipalityCode
+          schema:
+            type: string
+            example: 1380601000
+          description: The 10-digit PSGC code of the sub-municipality.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaSubMunicipality'
+        404:
+          description: Sub-municipality not found.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaError'
+  /api/v1/submunicipality/{submunicipalityCode}/barangays:
+    get:
+      tags:
+        - Sub-municipality
+      summary: Get all barangays in a sub-municipality.
+      parameters:
+        - in: path
+          name: submunicipalityCode
+          schema:
+            type: string
+            example: 1380601000
+          description: The 10-digit PSGC code of the sub-municipality.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaBarangay'
+  /api/v1/barangay:
+    get:
+      tags:
+        - Barangay
+      summary: Get all the barangays of the Philippines.
+      description: '⚠️ As much as possible, avoid using this endpoint. This endpoint is very costly for my server as it counts all JSON files in a directory, even with pagination and is not good for user experience.'
+      parameters:
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaBarangay'
+  /api/v1/barangay/{barangayCode}:
+    get:
+      tags:
+        - Barangay
+      summary: Get barangay details by barangay code.
+      parameters:
+        - in: path
+          name: barangayCode
+          schema:
+            type: string
+            example: 1380100001
+          description: The 10-digit PSGC code of the barangay.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaBarangay'
+        404:
+          description: Barangay not found.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaError'
+components:
+  schemas:
+    ResponseSchemaRegion:
+      type: object
+      properties:
+        page:
+          type: number
+          description: The current page of the response.
+        limit:
+          type: number
+          description: The number of items per page.
+        total:
+          type: number
+          description: The total number of items.
+        data:
+          type: array
+          description: The data of the response.
+          items:
+            $ref: '#/components/schemas/RegionSchema'
+    ResponseSchemaProvince:
+      type: object
+      properties:
+        page:
+          type: number
+          description: The current page of the response.
+        limit:
+          type: number
+          description: The number of items per page.
+        total:
+          type: number
+          description: The total number of items.
+        data:
+          type: array
+          description: The data of the response.
+          items:
+            $ref: '#/components/schemas/ProvinceSchema'
+    ResponseSchemaCity:
+      type: object
+      properties:
+        page:
+          type: number
+          description: The current page of the response.
+        limit:
+          type: number
+          description: The number of items per page.
+        total:
+          type: number
+          description: The total number of items.
+        data:
+          type: array
+          description: The data of the response.
+          items:
+            $ref: '#/components/schemas/CitySchema'
+    ResponseSchemaMunicipality:
+      type: object
+      properties:
+        page:
+          type: number
+          description: The current page of the response.
+        limit:
+          type: number
+          description: The number of items per page.
+        total:
+          type: number
+          description: The total number of items.
+        data:
+          type: array
+          description: The data of the response.
+          items:
+            $ref: '#/components/schemas/MunicipalitySchema'
+    ResponseSchemaCityMunicipality:
+      type: object
+      properties:
+        page:
+          type: number
+          description: The current page of the response.
+        limit:
+          type: number
+          description: The number of items per page.
+        total:
+          type: number
+          description: The total number of items.
+        data:
+          type: array
+          description: The data of the response.
+          items:
+            $ref: '#/components/schemas/CityMunicipalitySchema'
+    ResponseSchemaSubMunicipality:
+      type: object
+      properties:
+        page:
+          type: number
+          description: The current page of the response.
+        limit:
+          type: number
+          description: The number of items per page.
+        total:
+          type: number
+          description: The total number of items.
+        data:
+          type: array
+          description: The data of the response.
+          items:
+            $ref: '#/components/schemas/SubMunicipalitySchema'
+    ResponseSchemaBarangay:
+      type: object
+      properties:
+        page:
+          type: number
+          description: The current page of the response.
+        limit:
+          type: number
+          description: The number of items per page.
+        total:
+          type: number
+          description: The total number of items.
+        data:
+          type: array
+          description: The data of the response.
+          items:
+            $ref: '#/components/schemas/BarangaySchema'
+    ResponseSchemaError:
+      type: object
+      properties:
+        message:
+          type: string
+          description: The message of the response.
+        error:
+          type: boolean
+          description: Whether the request is successful.
+        status:
+          type: number
+          description: The HTTP status code of the response.
+    RegionSchema:
+      type: object
+      properties:
+        psgc10DigitCode:
+          type: string
+          description: The 10-digit PSGC code of the region.
+        name:
+          type: string
+          description: The name of the region.
+        code:
+          type: string
+          description: The correspondence code of the region.
+        geographicLevel:
+          type: string
+          description: The geographic level of the region.
+        population2020:
+          type: number
+          description: The population count of the region in 2020.
+        regionName:
+          type: string
+          description: The complete name of the region.
+    ProvinceSchema:
+      type: object
+      properties:
+        psgc10DigitCode:
+          type: string
+          description: The 10-digit PSGC code of the province.
+        name:
+          type: string
+          description: The name of the province.
+        code:
+          type: string
+          description: The correspondence code of the province.
+        geographicLevel:
+          type: string
+          description: The geographic level of the province.
+        incomeClassification:
+          type: string
+          description: The income classification of the province.
+        oldName:
+          type: string
+          description: The old name of the province.
+        population2020:
+          type: number
+          description: The population count of the province in 2020.
+        regionCode:
+          type: string
+          description: The 10-digit PSGC code of the region where the province belongs.
+    CitySchema:
+      type: object
+      properties:
+        psgc10DigitCode:
+          type: string
+          description: The 10-digit PSGC code of the city.
+        name:
+          type: string
+          description: The name of the city.
+        code:
+          type: string
+          description: The correspondence code of the city.
+        geographicLevel:
+          type: string
+          description: The geographic level of the city.
+        oldName:
+          type: string
+          description: The old name of the city.
+        cityClass:
+          type: string
+          description: The class of the city.
+        incomeClassification:
+          type: string
+          description: The income classification of the city.
+        population2020:
+          type: number
+          description: The population count of the city in 2020.
+        regionCode:
+          type: string
+          description: The 10-digit PSGC code of the region where the city belongs.
+        provinceCode:
+          type: string
+          description: The 10-digit PSGC code of the province where the city belongs.
+        isCapital:
+          type: boolean
+          description: Whether the city is a capital.
+    MunicipalitySchema:
+      type: object
+      properties:
+        psgc10DigitCode:
+          type: string
+          description: The 10-digit PSGC code of the municipality.
+        name:
+          type: string
+          description: The name of the municipality.
+        code:
+          type: string
+          description: The correspondence code of the municipality.
+        geographicLevel:
+          type: string
+          description: The geographic level of the municipality.
+        oldName:
+          type: string
+          description: The old name of the municipality.
+        incomeClassification:
+          type: string
+          description: The income classification of the municipality.
+        population2020:
+          type: number
+          description: The population count of the municipality in 2020.
+        regionCode:
+          type: string
+          description: The 10-digit PSGC code of the region where the municipality belongs.
+        provinceCode:
+          type: string
+          description: The 10-digit PSGC code of the province where the municipality belongs.
+        isCapital:
+          type: boolean
+          description: Whether the municipality is a capital.
+    CityMunicipalitySchema:
+      type: object
+      properties:
+        psgc10DigitCode:
+          type: string
+          description: The 10-digit PSGC code of the city/municipality.
+        name:
+          type: string
+          description: The name of the city/municipality.
+        code:
+          type: string
+          description: The correspondence code of the city/municipality.
+        geographicLevel:
+          type: string
+          description: The geographic level of the city/municipality.
+        oldName:
+          type: string
+          description: The old name of the city/municipality.
+        cityClass:
+          type: string
+          description: The class of the city/municipality.
+        incomeClassification:
+          type: string
+          description: The income classification of the city/municipality.
+        population2020:
+          type: number
+          description: The population count of the city/municipality in 2020.
+        regionCode:
+          type: string
+          description: The 10-digit PSGC code of the region where the city/municipality belongs.
+        provinceCode:
+          type: string
+          description: The 10-digit PSGC code of the province where the city/municipality belongs.
+        isCapital:
+          type: boolean
+          description: Whether the city/municipality is a capital.
+    SubMunicipalitySchema:
+      type: object
+      properties:
+        psgc10DigitCode:
+          type: string
+          description: The 10-digit PSGC code of the sub-municipality.
+        name:
+          type: string
+          description: The name of the sub-municipality.
+        code:
+          type: string
+          description: The correspondence code of the sub-municipality.
+        geographicLevel:
+          type: string
+          description: The geographic level of the sub-municipality.
+        population2020:
+          type: number
+          description: The population count of the sub-municipality in 2020.
+        regionCode:
+          type: string
+          description: The 10-digit PSGC code of the region where the sub-municipality belongs.
+        provinceCode:
+          type: string
+          description: The 10-digit PSGC code of the province where the sub-municipality belongs.
+        cityMunicipalityCode:
+          type: string
+          description: The 10-digit PSGC code of the city or municipality where the sub-municipality belongs.
+    BarangaySchema:
+      type: object
+      properties:
+        psgc10DigitCode:
+          type: string
+          description: The 10-digit PSGC code of the barangay.
+        name:
+          type: string
+          description: The name of the barangay.
+        code:
+          type: string
+          description: The correspondence code of the barangay.
+        geographicLevel:
+          type: string
+          description: The geographic level of the barangay.
+        urbanRural:
+          type: string
+          description: The urban or rural status of the barangay.
+        oldName:
+          type: string
+          description: The old name of the barangay.
+        population2020:
+          type: number
+          description: The population count of the barangay in 2020.
+        regionCode:
+          type: string
+          description: The 10-digit PSGC code of the region where the barangay belongs.
+        provinceCode:
+          type: string
+          description: The 10-digit PSGC code of the province where the barangay belongs.
+        cityMunicipalityCode:
+          type: string
+          description: The 10-digit PSGC code of the city or municipality where the barangay belongs.
+        isPoblacion:
+          type: boolean
+          description: Whether the barangay is a poblacion.

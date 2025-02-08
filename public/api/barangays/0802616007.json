@@ -6,9 +6,9 @@
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 276,
-    "isCapital": false,
     "regionCode": "0800000000",
     "provinceCode": "0802600000",
-    "cityMunicipalityCode": "0802616000"
+    "cityMunicipalityCode": "0802616000",
+    "isPoblacion": false
   }
 ]

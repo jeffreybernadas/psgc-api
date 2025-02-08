@@ -49,6 +49,7 @@ export interface CityResponse {
   population2020: number;
   regionCode?: string;
   provinceCode?: string;
+  isCapital?: boolean;
 }
 
 export interface MunicipalityResponse {
@@ -61,6 +62,7 @@ export interface MunicipalityResponse {
   population2020: number;
   regionCode?: string;
   provinceCode?: string;
+  isCapital?: boolean;
 }
 
 export interface SubMunicipalityResponse {
@@ -68,7 +70,6 @@ export interface SubMunicipalityResponse {
   name: string;
   code: string;
   geographicLevel: 'SubMun';
-  oldName?: string;
   population2020: number;
   regionCode?: string;
   provinceCode?: string;
@@ -86,5 +87,6 @@ export interface BarangayResponse {
   regionCode?: string;
   provinceCode?: string;
   cityMunicipalityCode?: string;
-  isCapital?: boolean;
+  isPoblacion?: boolean;
+  subMunicipalityCode?: string;
 }
