@@ -1,15 +1,34 @@
 import { Router } from 'express';
-
 import {
   getSubMunicipalities,
   getSubMunicipality,
   getBarangays,
 } from '../controllers/submunicipality.controller';
+import { rateLimitMiddleware } from '../middlewares/rateLimit.middleware';
+import { cacheMiddleware } from '../middlewares/cache.middleware';
 
-const submunicipalityRouter = Router();
+const router = Router();
 
-submunicipalityRouter.get('/', getSubMunicipalities);
-submunicipalityRouter.get('/:submunicipalityCode', getSubMunicipality);
-submunicipalityRouter.get('/:submunicipalityCode/barangays', getBarangays);
+// Apply rate limiting and caching to all routes (25 requests per 10 minutes)
+router.get(
+  '/',
+  rateLimitMiddleware('DEFAULT'),
+  cacheMiddleware('submunicipality_list'),
+  getSubMunicipalities,
+);
 
-export default submunicipalityRouter;
+router.get(
+  '/:submunicipalityCode',
+  rateLimitMiddleware('DEFAULT'),
+  cacheMiddleware('submunicipality'),
+  getSubMunicipality,
+);
+
+router.get(
+  '/:submunicipalityCode/barangays',
+  rateLimitMiddleware('DEFAULT'),
+  cacheMiddleware('submunicipality_barangays'),
+  getBarangays,
+);
+
+export default router;

@@ -1,5 +1,4 @@
 import { Router } from 'express';
-
 import {
   getProvinces,
   getProvince,
@@ -9,18 +8,59 @@ import {
   getBarangays,
   getCitiesMunicipalities,
 } from '../controllers/province.controller';
+import { rateLimitMiddleware } from '../middlewares/rateLimit.middleware';
+import { cacheMiddleware } from '../middlewares/cache.middleware';
 
-const provinceRouter = Router();
+const router = Router();
 
-provinceRouter.get('/', getProvinces);
-provinceRouter.get('/:provinceCode', getProvince);
-provinceRouter.get('/:provinceCode/municipalities', getMunicipalities);
-provinceRouter.get('/:provinceCode/cities', getCities);
-provinceRouter.get(
+// Apply rate limiting and caching to all routes (25 requests per 10 minutes)
+router.get(
+  '/',
+  rateLimitMiddleware('DEFAULT'),
+  cacheMiddleware('province_list'),
+  getProvinces,
+);
+
+router.get(
+  '/:provinceCode',
+  rateLimitMiddleware('DEFAULT'),
+  cacheMiddleware('province'),
+  getProvince,
+);
+
+router.get(
+  '/:provinceCode/municipalities',
+  rateLimitMiddleware('DEFAULT'),
+  cacheMiddleware('province_municipalities'),
+  getMunicipalities,
+);
+
+router.get(
+  '/:provinceCode/cities',
+  rateLimitMiddleware('DEFAULT'),
+  cacheMiddleware('province_cities'),
+  getCities,
+);
+
+router.get(
   '/:provinceCode/cities-municipalities',
+  rateLimitMiddleware('DEFAULT'),
+  cacheMiddleware('province_cities_municipalities'),
   getCitiesMunicipalities,
 );
-provinceRouter.get('/:provinceCode/sub-municipalities', getSubMunicipalities);
-provinceRouter.get('/:provinceCode/barangays', getBarangays);
 
-export default provinceRouter;
+router.get(
+  '/:provinceCode/sub-municipalities',
+  rateLimitMiddleware('DEFAULT'),
+  cacheMiddleware('province_submunicipalities'),
+  getSubMunicipalities,
+);
+
+router.get(
+  '/:provinceCode/barangays',
+  rateLimitMiddleware('DEFAULT'),
+  cacheMiddleware('province_barangays'),
+  getBarangays,
+);
+
+export default router;
