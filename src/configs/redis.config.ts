@@ -6,6 +6,19 @@ const REDIS_CONFIG = {
   password: process.env.REDIS_PASSWORD ?? '',
   username: process.env.REDIS_USERNAME ?? '',
   db: parseInt(process.env.REDIS_DB ?? '0'),
+  retryStrategy: (times: number) => {
+    const delay = Math.min(times * 50, 2000);
+    return delay;
+  },
+  maxRetriesPerRequest: 3,
+  enableReadyCheck: false,
+  reconnectOnError: (err: Error) => {
+    const targetError = 'READONLY';
+    if (err.message.includes(targetError)) {
+      return true;
+    }
+    return false;
+  },
 };
 
 // Redis client for caching
