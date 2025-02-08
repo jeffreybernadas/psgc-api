@@ -74,7 +74,9 @@ export const getMunicipalities = catchErrors(
     const { provinceCode } = req.params;
     const response = getJsonDataFromDir<MunicipalityResponse>(
       path.join(publicDir, 'api/municipalities'),
-      `${provinceCode.padStart(4, '0')}000000`,
+      `${provinceCode.padStart(5, '0')}`,
+      'municipalities',
+      'provinces',
       getPaginationParams(req),
     );
     res.status(OK).json(response);
@@ -85,7 +87,9 @@ export const getCities = catchErrors(async (req: Request, res: Response) => {
   const { provinceCode } = req.params;
   const response = getJsonDataFromDir<CityResponse>(
     path.join(publicDir, 'api/cities'),
-    `${provinceCode.padStart(4, '0')}000000`,
+    `${provinceCode.padStart(5, '0')}`,
+    'cities',
+    'provinces',
     getPaginationParams(req),
   );
   res.status(OK).json(response);
@@ -96,7 +100,9 @@ export const getSubMunicipalities = catchErrors(
     const { provinceCode } = req.params;
     const response = getJsonDataFromDir<SubMunicipalityResponse>(
       path.join(publicDir, 'api/submunicipalities'),
-      `${provinceCode.padStart(4, '0')}000000`,
+      `${provinceCode.padStart(5, '0')}`,
+      'submunicipalities',
+      'provinces',
       getPaginationParams(req),
     );
     res.status(OK).json(response);
@@ -107,7 +113,9 @@ export const getBarangays = catchErrors(async (req: Request, res: Response) => {
   const { provinceCode } = req.params;
   const response = getJsonDataFromDir<BarangayResponse>(
     path.join(publicDir, 'api/barangays'),
-    `${provinceCode.padStart(4, '0')}000000`,
+    `${provinceCode.padStart(5, '0')}`,
+    'barangays',
+    'provinces',
     getPaginationParams(req),
   );
   res.status(OK).json(response);

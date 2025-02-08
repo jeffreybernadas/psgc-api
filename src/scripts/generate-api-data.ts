@@ -12,25 +12,152 @@ interface PSGCData {
   code: string;
   geographicLevel: GeographicLevel;
   oldName?: string;
-  cityClass?: string; // only for city
-  incomeClassification?: string; // only for city, municipality, province
-  urbanRural?: string; // only for barangay
+  cityClass?: string;
+  incomeClassification?: string;
+  urbanRural?: string;
   population2020: number;
-  status?: string; // only for barangay, city, municipality
+  status?: string;
 }
 
 interface ProcessedData extends Omit<PSGCData, 'status'> {
   regionCode?: string;
-  provinceCode?: string;
+  provinceCode?: string | boolean;
   cityMunicipalityCode?: string;
-  regionName?: string; // only for region
-  isCapital?: boolean; // only for city and municipality
-  isPoblacion?: boolean; // only for barangay
+  subMunicipalityCode?: string;
+  regionName?: string;
+  isCapital?: boolean;
+  isPoblacion?: boolean;
 }
+
+// Helper functions to extract PSGC code segments
+function extractCodes(psgcCode: string) {
+  // Ensure the code is exactly 10 digits
+  if (psgcCode.length !== 10) {
+    throw new Error(`Invalid PSGC code length: ${psgcCode}`);
+  }
+
+  return {
+    // First 2 digits
+    regionCode: `${psgcCode.slice(0, 2)}00000000`,
+    // Digits 3-5 with proper padding
+    provinceCode: `${psgcCode.slice(0, 5)}00000`,
+    // Digits 6-7 with proper padding
+    cityMunicipalityCode: `${psgcCode.slice(0, 7)}000`,
+    // Full code for submunicipality (if exists)
+    subMunicipalityCode: `${psgcCode.slice(0, 7)}000`,
+  };
+}
+
+function processRegion(data: PSGCData): ProcessedData {
+  const regex = /(.+?)\s*\((.+?)\)/;
+  const match = regex.exec(data.name);
+  const { status, urbanRural, ...rest } = data;
+
+  if (!match) {
+    // Handle MIMAROPA Region case
+    const nameParts = data.name.split(' ');
+    return {
+      ...rest,
+      regionName: nameParts[0], // MIMAROPA
+      name: data.name, // MIMAROPA Region
+    };
+  }
+
+  return {
+    ...rest,
+    regionName: match[1].trim(),
+    name: match[2].trim(),
+  };
+}
+
+function processProvince(data: PSGCData): ProcessedData {
+  const { status, urbanRural, ...rest } = data;
+  const codes = extractCodes(data.psgc10DigitCode);
+
+  return {
+    ...rest,
+    regionCode: codes.regionCode,
+  };
+}
+
+function processCityOrMunicipality(data: PSGCData): ProcessedData {
+  const { status, urbanRural, ...rest } = data;
+  const codes = extractCodes(data.psgc10DigitCode);
+
+  return {
+    ...rest,
+    regionCode: codes.regionCode,
+    provinceCode: codes.provinceCode,
+    isCapital: status === 'Capital',
+  };
+}
+
+function processSubMunicipality(data: PSGCData): ProcessedData {
+  const { status, urbanRural, ...rest } = data;
+  const codes = extractCodes(data.psgc10DigitCode);
+
+  return {
+    ...rest,
+    regionCode: codes.regionCode,
+    provinceCode: false,
+    cityMunicipalityCode: `${data.psgc10DigitCode.slice(0, 5)}00000`,
+  };
+}
+
+function processBarangay(data: PSGCData): ProcessedData {
+  const { status, ...rest } = data;
+  const codes = extractCodes(data.psgc10DigitCode);
+
+  // Check if this barangay belongs to a submunicipality
+  const hasSubMunicipality = rawData.some(
+    (item) =>
+      item.geographicLevel === 'SubMun' &&
+      item.psgc10DigitCode.slice(0, 7) === data.psgc10DigitCode.slice(0, 7),
+  );
+
+  // Base barangay data
+  const baseData = {
+    ...rest,
+    name: status === 'Pob.' ? `${data.name} (Pob.)` : data.name,
+    urbanRural: processUrbanRural(rest.urbanRural),
+    regionCode: codes.regionCode,
+    provinceCode: codes.provinceCode,
+    // If barangay has submunicipality, use 6 digits for cityMunicipalityCode
+    cityMunicipalityCode: hasSubMunicipality
+      ? `${data.psgc10DigitCode.slice(0, 5)}00000`
+      : codes.cityMunicipalityCode,
+    isPoblacion: status === 'Pob.',
+  };
+
+  // Only add subMunicipalityCode if the barangay is under a submunicipality
+  if (hasSubMunicipality) {
+    return {
+      ...baseData,
+      subMunicipalityCode: codes.subMunicipalityCode,
+    };
+  }
+
+  return baseData;
+}
+
+function processUrbanRural(value: string | undefined): string | undefined {
+  if (!value) return undefined;
+  if (value === 'R') return 'Rural';
+  if (value === 'U') return 'Urban';
+  return undefined;
+}
+
+function writeFile(relativePath: string, data: unknown): void {
+  const fullPath = path.resolve(__dirname, `../../public/api/${relativePath}`);
+  fs.ensureDirSync(path.dirname(fullPath));
+  fs.writeJsonSync(fullPath, data, { spaces: 2 });
+}
+
+let rawData: PSGCData[] = [];
 
 export function generatePSGCData(): void {
   try {
-    const rawData = fs.readJsonSync(
+    rawData = fs.readJsonSync(
       path.resolve(__dirname, '../../src/data/psgc-json/psgc.json'),
     ) as PSGCData[];
 
@@ -87,86 +214,6 @@ export function generatePSGCData(): void {
     logger.error('Failed to generate PSGC JSON files:', error);
     process.exit(1);
   }
-}
-
-function processUrbanRural(value: string | undefined): string | undefined {
-  if (!value) return undefined;
-  if (value === 'R') return 'Rural';
-  if (value === 'U') return 'Urban';
-  return undefined;
-}
-
-function processRegion(data: PSGCData): ProcessedData {
-  const regex = /(.+?)\s*\((.+?)\)/;
-  const match = regex.exec(data.name);
-  const { status, urbanRural, ...rest } = data;
-
-  if (!match) {
-    // Handle MIMAROPA Region case
-    const nameParts = data.name.split(' ');
-    return {
-      ...rest,
-      regionName: nameParts[0], // MIMAROPA
-      name: data.name, // MIMAROPA Region
-    };
-  }
-
-  return {
-    ...rest,
-    regionName: match[1].trim(),
-    name: match[2].trim(),
-  };
-}
-
-function processProvince(data: PSGCData): ProcessedData {
-  const { status, urbanRural, ...rest } = data;
-  const psgcCode = data.psgc10DigitCode.toString();
-  return {
-    ...rest,
-    regionCode: psgcCode.slice(0, 2) + '00000000',
-  };
-}
-
-function processCityOrMunicipality(data: PSGCData): ProcessedData {
-  const { status, urbanRural, ...rest } = data;
-  const psgcCode = data.psgc10DigitCode.toString();
-  return {
-    ...rest,
-    regionCode: psgcCode.slice(0, 2) + '00000000',
-    provinceCode: psgcCode.slice(0, 5) + '00000',
-    isCapital: status === 'Capital',
-  };
-}
-
-function processSubMunicipality(data: PSGCData): ProcessedData {
-  const { status, urbanRural, ...rest } = data;
-  const psgcCode = data.psgc10DigitCode.toString();
-  return {
-    ...rest,
-    regionCode: psgcCode.slice(0, 2) + '00000000',
-    provinceCode: psgcCode.slice(0, 5) + '00000',
-    cityMunicipalityCode: psgcCode.slice(0, 7) + '000',
-  };
-}
-
-function processBarangay(data: PSGCData): ProcessedData {
-  const { status, ...rest } = data;
-  const psgcCode = data.psgc10DigitCode.toString();
-  return {
-    ...rest,
-    name: status === 'Pob.' ? `${data.name} (Pob.)` : data.name,
-    urbanRural: processUrbanRural(rest.urbanRural),
-    regionCode: psgcCode.slice(0, 2) + '00000000',
-    provinceCode: psgcCode.slice(0, 5) + '00000',
-    cityMunicipalityCode: psgcCode.slice(0, 7) + '000',
-    isPoblacion: status === 'Pob.',
-  };
-}
-
-function writeFile(relativePath: string, data: unknown): void {
-  const fullPath = path.resolve(__dirname, `../../public/api/${relativePath}`);
-  fs.ensureDirSync(path.dirname(fullPath));
-  fs.writeJsonSync(fullPath, data, { spaces: 2 });
 }
 
 // Run the generator

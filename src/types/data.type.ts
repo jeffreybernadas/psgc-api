@@ -88,4 +88,5 @@ export interface BarangayResponse {
   provinceCode?: string;
   cityMunicipalityCode?: string;
   isPoblacion?: boolean;
+  subMunicipalityCode?: string;
 }

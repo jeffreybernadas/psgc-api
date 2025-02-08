@@ -131,7 +131,7 @@ describe('Controller: SubMunicipality Controller', () => {
             page: 1,
             limit: 10,
             total: 1,
-            data: [mockBarangay[0]],
+            data: [mockBarangay[2]],
           }),
         );
       }
@@ -150,12 +150,12 @@ describe('Controller: SubMunicipality Controller', () => {
           page: 1,
           limit: 10,
           total: 1,
-          data: [expect.objectContaining(mockBarangay[0])],
+          data: [expect.objectContaining(mockBarangay[2])],
         }),
       );
     });
 
-    it.skip('should return correct barangays data via submunicipality code', async () => {
+    it('should return correct barangays data via submunicipality code', async () => {
       await getBarangays(mockRequest, mockResponse, mockNext);
       expect(mockResponse.json).toHaveBeenCalledWith(
         expect.objectContaining({
@@ -164,7 +164,7 @@ describe('Controller: SubMunicipality Controller', () => {
           total: 1,
           data: [
             expect.objectContaining({
-              submunicipalityCode: mockRequest.params.submunicipalityCode,
+              subMunicipalityCode: mockRequest.params.submunicipalityCode,
             }),
           ],
         }),

@@ -61,7 +61,9 @@ export const getProvinces = catchErrors(async (req: Request, res: Response) => {
   const { regionCode } = req.params;
   const response = getJsonDataFromDir<ProvinceResponse>(
     path.join(publicDir, 'api/provinces'),
-    `${regionCode.padEnd(2, '0')}00000000`,
+    `${regionCode.padEnd(2, '0')}`,
+    'provinces',
+    'regions',
     getPaginationParams(req),
   );
   res.status(OK).json(response);
@@ -72,7 +74,9 @@ export const getMunicipalities = catchErrors(
     const { regionCode } = req.params;
     const response = getJsonDataFromDir<MunicipalityResponse>(
       path.join(publicDir, 'api/municipalities'),
-      `${regionCode.padStart(2, '0')}00000000`,
+      `${regionCode.padStart(2, '0')}`,
+      'municipalities',
+      'regions',
       getPaginationParams(req),
     );
     res.status(OK).json(response);
@@ -83,7 +87,9 @@ export const getCities = catchErrors(async (req: Request, res: Response) => {
   const { regionCode } = req.params;
   const response = getJsonDataFromDir<CityResponse>(
     path.join(publicDir, 'api/cities'),
-    `${regionCode.padStart(2, '0')}00000000`,
+    `${regionCode.padStart(2, '0')}`,
+    'cities',
+    'regions',
     getPaginationParams(req),
   );
   res.status(OK).json(response);
@@ -94,7 +100,9 @@ export const getSubMunicipalities = catchErrors(
     const { regionCode } = req.params;
     const response = getJsonDataFromDir<SubMunicipalityResponse>(
       path.join(publicDir, 'api/submunicipalities'),
-      `${regionCode.padStart(2, '0')}00000000`,
+      `${regionCode.padStart(2, '0')}`,
+      'submunicipalities',
+      'regions',
       getPaginationParams(req),
     );
     res.status(OK).json(response);
@@ -105,7 +113,9 @@ export const getBarangays = catchErrors(async (req: Request, res: Response) => {
   const { regionCode } = req.params;
   const response = getJsonDataFromDir<BarangayResponse>(
     path.join(publicDir, 'api/barangays'),
-    `${regionCode.padStart(2, '0')}00000000`,
+    `${regionCode.padStart(2, '0')}`,
+    'barangays',
+    'regions',
     getPaginationParams(req),
   );
   res.status(OK).json(response);

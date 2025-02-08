@@ -41,8 +41,8 @@ const mockNext = jest.fn() as NextFunction;
 describe('Controller: CityMunicipality Controller', () => {
   beforeEach(() => {
     jest.clearAllMocks();
-    (fs.readdirSync as jest.Mock).mockReturnValueOnce(['0102805000.json']);
     (fs.readdirSync as jest.Mock).mockReturnValueOnce(['0102801000.json']);
+    (fs.readdirSync as jest.Mock).mockReturnValueOnce(['0102805000.json']);
     (fs.readFileSync as jest.Mock).mockImplementation((filePath: string) =>
       JSON.stringify(
         mockCityMunicipality.find((p) => filePath.includes(p.psgc10DigitCode)),
@@ -61,16 +61,53 @@ describe('Controller: CityMunicipality Controller', () => {
           page: 1,
           limit: 10,
           total: 2,
-          data: expect.objectContaining(mockCityMunicipality),
+          data: expect.arrayContaining(mockCityMunicipality),
         }),
       );
     });
   });
 
   describe('getCityMunicipality', () => {
-    it('should return city/municipality data when found', async () => {
+    it('should return city data when found', async () => {
+      mockRequest.params = { code: '0102805000' };
+      (fs.existsSync as jest.Mock).mockReturnValue(true);
+
+      await getCityMunicipality(mockRequest, mockResponse, mockNext);
+
+      expect(mockResponse.json).toHaveBeenCalledWith(
+        expect.objectContaining({
+          page: 1,
+          limit: 1,
+          total: 1,
+          data: [expect.objectContaining(mockCityMunicipality[0])],
+        }),
+      );
+    });
+
+    it('should return municipality data when found', async () => {
       mockRequest.params = { code: '0102801000' };
       (fs.existsSync as jest.Mock).mockReturnValue(true);
+
+      await getCityMunicipality(mockRequest, mockResponse, mockNext);
+
+      expect(mockResponse.json).toHaveBeenCalledWith(
+        expect.objectContaining({
+          page: 1,
+          limit: 1,
+          total: 1,
+          data: [expect.objectContaining(mockCityMunicipality[1])],
+        }),
+      );
+    });
+
+    it('should return municipality data when municipality path exists', async () => {
+      mockRequest.params = { code: '0102801000' };
+      (fs.existsSync as jest.Mock).mockImplementation((path: string) =>
+        path.includes('municipalities'),
+      );
+      (fs.readFileSync as jest.Mock).mockReturnValue(
+        JSON.stringify(mockCityMunicipality[1]),
+      );
 
       await getCityMunicipality(mockRequest, mockResponse, mockNext);
 

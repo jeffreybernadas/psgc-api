@@ -123,5 +123,17 @@ export const mockBarangay: BarangayResponse[] = [
     cityMunicipalityCode: '0102805000',
     isPoblacion: true,
   },
-  // Addd option here for submunicipality cities
+  {
+    psgc10DigitCode: '1380601001',
+    name: 'Barangay 1',
+    code: '133901001',
+    geographicLevel: 'Brgy',
+    urbanRural: 'Urban',
+    population2020: 2995,
+    regionCode: '1300000000',
+    provinceCode: '1380600000',
+    cityMunicipalityCode: '1380600000',
+    isPoblacion: false,
+    subMunicipalityCode: '1380601000',
+  },
 ];

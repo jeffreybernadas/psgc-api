@@ -6,7 +6,7 @@
     "geographicLevel": "SubMun",
     "population2020": 84769,
     "regionCode": "1300000000",
-    "provinceCode": "1380600000",
-    "cityMunicipalityCode": "1380612000"
+    "provinceCode": false,
+    "cityMunicipalityCode": "1380600000"
   }
 ]

@@ -8,7 +8,8 @@
     "population2020": 147,
     "regionCode": "1300000000",
     "provinceCode": "1380600000",
-    "cityMunicipalityCode": "1380601000",
-    "isPoblacion": false
+    "cityMunicipalityCode": "1380600000",
+    "isPoblacion": false,
+    "subMunicipalityCode": "1380601000"
   }
 ]

@@ -67,7 +67,9 @@ export const getBarangays = catchErrors(async (req: Request, res: Response) => {
   const { municipalityCode } = req.params;
   const response = getJsonDataFromDir<BarangayResponse>(
     path.join(publicDir, 'api/barangays'),
-    `${municipalityCode.padStart(7, '0')}000`,
+    `${municipalityCode.padStart(7, '0')}`,
+    'barangays',
+    'municipalities',
     getPaginationParams(req),
   );
   res.status(OK).json(response);

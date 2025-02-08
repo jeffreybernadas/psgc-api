@@ -10,6 +10,7 @@ import {
   getJsonDataFromDir,
 } from '../utils/api.util';
 import catchErrors from '../utils/catchErrors.util';
+import { logger } from '../utils/logger.util';
 
 export const getSubMunicipalities = catchErrors(
   async (req: Request, res: Response): Promise<void> => {
@@ -65,9 +66,12 @@ export const getSubMunicipality = catchErrors(
 
 export const getBarangays = catchErrors(async (req: Request, res: Response) => {
   const { submunicipalityCode } = req.params;
+  logger.info(`${submunicipalityCode.padStart(7, '0')}`);
   const response = getJsonDataFromDir<BarangayResponse>(
     path.join(publicDir, 'api/barangays'),
-    `${submunicipalityCode.padStart(9, '0')}0`,
+    `${submunicipalityCode.padStart(7, '0')}`,
+    'barangays',
+    'submunicipalities',
     getPaginationParams(req),
   );
   res.status(OK).json(response);
