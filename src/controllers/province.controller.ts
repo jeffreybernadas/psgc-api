@@ -95,6 +95,40 @@ export const getCities = catchErrors(async (req: Request, res: Response) => {
   res.status(OK).json(response);
 });
 
+export const getCitiesMunicipalities = catchErrors(
+  async (req: Request, res: Response): Promise<void> => {
+    const { provinceCode } = req.params;
+    const paginationParams = getPaginationParams(req);
+
+    // Get cities
+    const citiesDir = path.join(publicDir, 'api/cities');
+    const cityFiles = fs
+      .readdirSync(citiesDir)
+      .filter((file) => file.startsWith(provinceCode.slice(0, 5)));
+    const cities: CityResponse[] = cityFiles
+      .map((file) =>
+        JSON.parse(fs.readFileSync(path.join(citiesDir, file), 'utf8')),
+      )
+      .flat();
+
+    // Get municipalities
+    const municipalitiesDir = path.join(publicDir, 'api/municipalities');
+    const municipalityFiles = fs
+      .readdirSync(municipalitiesDir)
+      .filter((file) => file.startsWith(provinceCode.slice(0, 5)));
+    const municipalities: MunicipalityResponse[] = municipalityFiles
+      .map((file) =>
+        JSON.parse(fs.readFileSync(path.join(municipalitiesDir, file), 'utf8')),
+      )
+      .flat();
+
+    const combinedData = [...cities, ...municipalities];
+    const response = paginateData(combinedData, paginationParams);
+
+    res.status(OK).json(response);
+  },
+);
+
 export const getSubMunicipalities = catchErrors(
   async (req: Request, res: Response) => {
     const { provinceCode } = req.params;

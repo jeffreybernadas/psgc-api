@@ -183,6 +183,37 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/ResponseSchemaCity'
+  /api/v1/region/{regionCode}/cities-municipalities:
+    get:
+      tags:
+        - Region
+      summary: Get all cities and municipalities in a region.
+      parameters:
+        - in: path
+          name: regionCode
+          schema:
+            type: string
+            example: 1300000000
+          description: The 10-digit PSGC code of the region.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaCityMunicipality'
   /api/v1/region/{regionCode}/sub-municipalities:
     get:
       tags:
@@ -357,6 +388,37 @@ paths:
             application/json:
               schema:
                 $ref: '#/components/schemas/ResponseSchemaCity'
+  /api/v1/province/{provinceCode}/cities-municipalities:
+    get:
+      tags:
+        - Province
+      summary: Get all cities and municipalities in a province.
+      parameters:
+        - in: path
+          name: provinceCode
+          schema:
+            type: string
+            example: 1400100000
+          description: The 10-digit PSGC code of the province.
+        - in: query
+          name: page
+          schema:
+            type: number
+            default: 1
+          description: The page number of the response.
+        - in: query
+          name: limit
+          schema:
+            type: number
+            default: 10
+          description: The number of items per page.
+      responses:
+        200:
+          description: Success.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ResponseSchemaCityMunicipality'
   /api/v1/province/{provinceCode}/sub-municipalities:
     get:
       tags:

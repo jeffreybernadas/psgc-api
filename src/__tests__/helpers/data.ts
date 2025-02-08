@@ -137,3 +137,41 @@ export const mockBarangay: BarangayResponse[] = [
     subMunicipalityCode: '1380601000',
   },
 ];
+
+export const mockCitiesMunicipalities: (CityResponse | MunicipalityResponse)[] =
+  [
+    {
+      psgc10DigitCode: '1403213000',
+      name: 'City of Tabuk ',
+      code: '143213000',
+      geographicLevel: 'City',
+      cityClass: 'CC',
+      incomeClassification: '5th',
+      population2020: 121033,
+      regionCode: '1400000000',
+      provinceCode: '1403200000',
+      isCapital: true,
+    },
+    {
+      psgc10DigitCode: '1403201000',
+      name: 'Balbalan',
+      code: '143201000',
+      geographicLevel: 'Mun',
+      incomeClassification: '3rd',
+      population2020: 12914,
+      regionCode: '1400000000',
+      provinceCode: '1403200000',
+      isCapital: false,
+    },
+    {
+      psgc10DigitCode: '1403206000',
+      name: 'Lubuagan',
+      code: '143206000',
+      geographicLevel: 'Mun',
+      incomeClassification: '4th',
+      population2020: 9323,
+      regionCode: '1400000000',
+      provinceCode: '1403200000',
+      isCapital: false,
+    },
+  ];

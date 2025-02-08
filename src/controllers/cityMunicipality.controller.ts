@@ -26,7 +26,8 @@ export const getCityMunicipalities = catchErrors(
       .filter((file) => file.endsWith('.json'))
       .map((file) =>
         JSON.parse(fs.readFileSync(path.join(citiesDir, file), 'utf8')),
-      );
+      )
+      .flat();
 
     // Get municipalities
     const municipalitiesDir = path.join(publicDir, 'api/municipalities');
@@ -35,7 +36,8 @@ export const getCityMunicipalities = catchErrors(
       .filter((file) => file.endsWith('.json'))
       .map((file) =>
         JSON.parse(fs.readFileSync(path.join(municipalitiesDir, file), 'utf8')),
-      );
+      )
+      .flat();
 
     const combinedData = [...cities, ...municipalities];
     const response = paginateData(combinedData, paginationParams);
@@ -75,7 +77,7 @@ export const getCityMunicipality = catchErrors(
         page: 1,
         limit: 1,
         total: 1,
-        data: [municipality],
+        data: municipality,
       });
       return;
     }

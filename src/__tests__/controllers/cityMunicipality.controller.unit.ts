@@ -61,7 +61,9 @@ describe('Controller: CityMunicipality Controller', () => {
           page: 1,
           limit: 10,
           total: 2,
-          data: expect.arrayContaining(mockCityMunicipality),
+          data: expect.arrayContaining(
+            mockCityMunicipality.map((item) => expect.objectContaining(item)),
+          ),
         }),
       );
     });
@@ -116,7 +118,7 @@ describe('Controller: CityMunicipality Controller', () => {
           page: 1,
           limit: 1,
           total: 1,
-          data: [expect.objectContaining(mockCityMunicipality[1])],
+          data: expect.objectContaining(mockCityMunicipality[1]),
         }),
       );
     });
