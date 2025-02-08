@@ -18,6 +18,35 @@ export const mockRegion: RegionResponse[] = [
   },
 ];
 
+export const mockRegionMunicipalities: MunicipalityResponse[] = [
+  {
+    psgc10DigitCode: '1381701000',
+    name: 'Pateros',
+    code: '137606000',
+    geographicLevel: 'Mun',
+    incomeClassification: '1st',
+    population2020: 65227,
+    regionCode: '1300000000',
+    provinceCode: '1381700000',
+    isCapital: false,
+  },
+];
+
+export const mockRegionCities: CityResponse[] = [
+  {
+    psgc10DigitCode: '1380100000',
+    name: 'City of Caloocan',
+    code: '137501000',
+    geographicLevel: 'City',
+    cityClass: 'HUC',
+    incomeClassification: '1st',
+    population2020: 1661584,
+    regionCode: '1300000000',
+    provinceCode: '1380100000',
+    isCapital: false,
+  },
+];
+
 export const mockProvince: ProvinceResponse[] = [
   {
     psgc10DigitCode: '0102800000',
