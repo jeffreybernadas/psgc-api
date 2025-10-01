@@ -1,13 +1,13 @@
 # Philippine Standard Geographic Code (PSGC) API
 
-[![Data](https://img.shields.io/badge/Data-January%202025-blue.svg?longCache=true&style=flat-square)](https://psa.gov.ph/classification/psgc)
+[![Data](https://img.shields.io/badge/Data-July%202025-blue.svg?longCache=true&style=flat-square)](https://psa.gov.ph/classification/psgc)
 
 API for listing all the regions, provinces, cities, municipalities, and barangays of the Philippines. Data is based on the [Philippine Statistics Authority](https://psa.gov.ph).
 
 ## Documentation
 
 The swagger documentation can be found here:<br/>
-[![Swagger Docs](https://img.shields.io/badge/Swagger%20Docs-Click%20me-blue.svg?longCache=true&style=for-the-badge)](https://psgc.thecodebit.digital/explorer)
+[![Swagger Docs](https://img.shields.io/badge/Swagger%20Docs-Click%20me-blue.svg?longCache=true&style=for-the-badge)](https://psgc.thecodebit.online/explorer)
 
 ## Contributing
 
