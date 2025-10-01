@@ -5,7 +5,7 @@ import { logger } from '../utils/logger.util';
 
 const EXCEL_PATH = path.resolve(
   __dirname,
-  '../data/january-2025/Publication-Datafile.xlsx',
+  '../data/july-2025/Publication-Datafile.xlsx',
 );
 const JSON_PATH = path.resolve(__dirname, '../data/psgc-json/psgc.json');
 
