@@ -7,7 +7,7 @@ API for listing all the regions, provinces, cities, municipalities, and barangay
 ## Documentation
 
 The swagger documentation can be found here:<br/>
-[![Swagger Docs](https://img.shields.io/badge/Swagger%20Docs-Click%20me-blue.svg?longCache=true&style=for-the-badge)](https://psgc.thecodebit.online/explorer)
+[![Swagger Docs](https://img.shields.io/badge/Swagger%20Docs-Click%20me-blue.svg?longCache=true&style=for-the-badge)](https://psgc.thecodebit.space/explorer)
 
 ## Contributing
 

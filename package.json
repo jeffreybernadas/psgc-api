@@ -1,6 +1,6 @@
 {
   "name": "psgc-api",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev --files src/index.ts index.d.ts",
@@ -19,7 +19,7 @@
   },
   "keywords": [],
   "author": "Jeffrey Bernadas",
-  "homepage": "https://psgc.thecodebit.online",
+  "homepage": "https://psgc.thecodebit.space",
   "repository": {
     "type": "git",
     "url": "https://github.com/jeffreybernadas/psgc-api.git"
