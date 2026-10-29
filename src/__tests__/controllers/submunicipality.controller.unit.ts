@@ -1,5 +1,5 @@
 import { Request, Response, NextFunction } from 'express';
-import fs from 'fs';
+import fs from 'node:fs';
 import {
   getSubMunicipalities,
   getSubMunicipality,
@@ -9,7 +9,7 @@ import { NOT_FOUND } from '../../constants/http.constant';
 import { mockSubMunicipality, mockBarangay } from '../helpers/data';
 import * as apiUtil from '../../utils/api.util';
 
-jest.mock('fs');
+jest.mock('node:fs');
 jest.mock('../../utils/api.util', () => ({
   getPaginationParams: jest.fn().mockReturnValue({ page: 1, limit: 10 }),
   paginateData: jest.fn().mockImplementation((data, { page, limit }) => ({

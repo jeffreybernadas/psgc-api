@@ -1,5 +1,5 @@
 import fs from 'fs-extra';
-import path from 'path';
+import path from 'node:path';
 import { readFile, utils } from 'xlsx';
 import { logger } from '../utils/logger.util';
 
@@ -50,7 +50,10 @@ export interface PSGCDataTransformed {
 // Names can carry PSA footnote markers (e.g. "Fuentes*", "City of Lucenaa/")
 // and stray spaces; both are dropped.
 function cleanName(name: string | undefined): string {
-  return (name ?? '').trim().replace(/\s*(\*|[a-z]\/)$/, '');
+  const trimmed = (name ?? '').trim();
+  if (trimmed.endsWith('*')) return trimmed.slice(0, -1).trimEnd();
+  if (/[a-z]\/$/.test(trimmed)) return trimmed.slice(0, -2).trimEnd();
+  return trimmed;
 }
 
 function readPsgcSheet<T>(excelPath: string): T[] {

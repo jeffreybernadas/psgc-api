@@ -1,5 +1,5 @@
 import fs from 'fs-extra';
-import path from 'path';
+import path from 'node:path';
 import { GeographicLevel } from '../types/data.type';
 import { logger } from '../utils/logger.util';
 
@@ -50,11 +50,12 @@ function extractCodes(psgcCode: string) {
 }
 
 function processRegion(data: PSGCData): ProcessedData {
-  const regex = /(.+?)\s*\((.+?)\)/;
-  const match = regex.exec(data.name);
+  // "Region I (Ilocos Region)" -> regionName "Region I", name "Ilocos Region"
+  const open = data.name.indexOf('(');
+  const close = data.name.indexOf(')', open + 1);
   const { status, urbanRural, ...rest } = data;
 
-  if (!match) {
+  if (open < 1 || close <= open + 1) {
     // Handle MIMAROPA Region case
     const nameParts = data.name.split(' ');
     return {
@@ -66,8 +67,8 @@ function processRegion(data: PSGCData): ProcessedData {
 
   return {
     ...rest,
-    regionName: match[1].trim(),
-    name: match[2].trim(),
+    regionName: data.name.slice(0, open).trim(),
+    name: data.name.slice(open + 1, close).trim(),
   };
 }
 

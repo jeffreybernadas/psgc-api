@@ -1,5 +1,5 @@
 import { config } from 'dotenv';
-import { resolve } from 'path';
+import { resolve } from 'node:path';
 
 // Load environment variables from the .env.test file
 config({ path: resolve(__dirname, '../../../.env.test') });

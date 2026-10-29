@@ -26,7 +26,7 @@ export const rateLimitMiddleware = (
       const currentCount = await rateLimitRedis.get(key);
       const maxAttempts = RATE_LIMIT[endpoint];
 
-      if (currentCount && parseInt(currentCount) >= maxAttempts) {
+      if (currentCount && Number.parseInt(currentCount) >= maxAttempts) {
         // Rate limit exceeded
         const ttl = await rateLimitRedis.ttl(key);
         res.status(TOO_MANY_REQUESTS).json({

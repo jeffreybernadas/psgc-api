@@ -1,7 +1,7 @@
 import 'dotenv/config';
 import cors from 'cors';
 import express, { Express } from 'express';
-import path from 'path';
+import path from 'node:path';
 
 import { PORT } from './configs/variables.config';
 import { apiBaseUrl } from './configs/api.config';

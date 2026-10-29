@@ -1,6 +1,6 @@
 import { Request, Response } from 'express';
-import fs from 'fs';
-import path from 'path';
+import fs from 'node:fs';
+import path from 'node:path';
 import { NOT_FOUND, OK } from '../constants/http.constant';
 import { publicDir } from '../constants/util.constant';
 import {
@@ -25,11 +25,10 @@ export const getProvinces = catchErrors(
 
     const provinces: ProvinceResponse[] = provinceFiles
       .filter((file) => file.endsWith('.json'))
-      .map((file) => {
+      .flatMap((file) => {
         const filePath = path.join(provincesDir, file);
         return JSON.parse(fs.readFileSync(filePath, 'utf8'));
-      })
-      .flat();
+      });
 
     const response = paginateData<ProvinceResponse>(
       provinces,
@@ -106,22 +105,19 @@ export const getCitiesMunicipalities = catchErrors(
     const cityFiles = fs
       .readdirSync(citiesDir)
       .filter((file) => file.startsWith(provinceCode.slice(0, 5)));
-    const cities: CityResponse[] = cityFiles
-      .map((file) =>
-        JSON.parse(fs.readFileSync(path.join(citiesDir, file), 'utf8')),
-      )
-      .flat();
+    const cities: CityResponse[] = cityFiles.flatMap((file) =>
+      JSON.parse(fs.readFileSync(path.join(citiesDir, file), 'utf8')),
+    );
 
     // Get municipalities
     const municipalitiesDir = path.join(publicDir, 'api/municipalities');
     const municipalityFiles = fs
       .readdirSync(municipalitiesDir)
       .filter((file) => file.startsWith(provinceCode.slice(0, 5)));
-    const municipalities: MunicipalityResponse[] = municipalityFiles
-      .map((file) =>
+    const municipalities: MunicipalityResponse[] = municipalityFiles.flatMap(
+      (file) =>
         JSON.parse(fs.readFileSync(path.join(municipalitiesDir, file), 'utf8')),
-      )
-      .flat();
+    );
 
     const combinedData = [...cities, ...municipalities];
     const response = paginateData(combinedData, paginationParams);
