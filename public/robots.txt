@@ -1,0 +1,7 @@
+# robots.txt for PSGC API
+
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://psgc.thecodebit.space/sitemap.xml
