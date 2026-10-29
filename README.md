@@ -22,8 +22,8 @@ For issues on using this API please let me know by creating an issue [here](http
 1. Download the latest PSGC data from [here](https://psa.gov.ph/classification/psgc).
 2. Kindly add the latest PSGC data to the `data` folder.
 3. Update `src/scripts/convert-psgc.ts` `EXCEL_PATH` variable to reflect the new data.
-4. Run `npm run convert:psgc` to convert the excel data to JSON format.
-5. Run `npm run generate:api` to disect the JSON data and generate the JSON files for the API.
+4. Run `pnpm convert:psgc` to convert the excel data to JSON format.
+5. Run `pnpm generate:api` to disect the JSON data and generate the JSON files for the API.
 
 ## API Endpoints
 

@@ -5,3 +5,4 @@ coverage
 api-docs
 *.json
 swagger.yaml
+pnpm-lock.yaml
