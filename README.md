@@ -1,6 +1,9 @@
 # Philippine Standard Geographic Code (PSGC) API
 
 [![Data](https://img.shields.io/badge/Data-September%202026-blue.svg?longCache=true&style=flat-square)](https://psa.gov.ph/classification/psgc)
+[![Quality gate status](https://sonarqube.lunarix.online/api/project_badges/measure?project=psgc-api-key&metric=alert_status&token=sqb_66a71f68a79ea34d5a8f2caf7236bf093a2c53f3)](https://sonarqube.lunarix.online/dashboard?id=psgc-api-key)
+[![Coverage](https://sonarqube.lunarix.online/api/project_badges/measure?project=psgc-api-key&metric=coverage&token=sqb_66a71f68a79ea34d5a8f2caf7236bf093a2c53f3)](https://sonarqube.lunarix.online/dashboard?id=psgc-api-key)
+[![Security Hotspots](https://sonarqube.lunarix.online/api/project_badges/measure?project=psgc-api-key&metric=security_hotspots&token=sqb_66a71f68a79ea34d5a8f2caf7236bf093a2c53f3)](https://sonarqube.lunarix.online/dashboard?id=psgc-api-key)
 
 API for listing all the regions, provinces, cities, municipalities, and barangays of the Philippines. Data is based on the [Philippine Statistics Authority](https://psa.gov.ph).
 
