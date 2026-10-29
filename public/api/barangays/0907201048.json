@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907201048",
-    "name": "Bagting  (Pob.)",
+    "name": "Bagting (Pob.)",
     "code": "097201048",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 1019,
+    "population2024": 800,
     "regionCode": "0900000000",
     "provinceCode": "0907200000",
     "cityMunicipalityCode": "0907201000",

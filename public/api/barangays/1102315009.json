@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1102315009",
-    "name": "Gredu  (Pob.)",
+    "name": "Gredu (Pob.)",
     "code": "112315009",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 16252,
+    "population2024": 15708,
     "regionCode": "1100000000",
     "provinceCode": "1102300000",
     "cityMunicipalityCode": "1102315000",

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0506213033",
-    "name": "Marifosque  (Pob.)",
+    "name": "Marifosque (Pob.)",
     "code": "056213033",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2473,
+    "population2024": 2488,
     "regionCode": "0500000000",
     "provinceCode": "0506200000",
     "cityMunicipalityCode": "0506213000",

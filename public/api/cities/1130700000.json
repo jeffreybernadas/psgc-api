@@ -5,7 +5,9 @@
     "code": "112402000",
     "geographicLevel": "City",
     "cityClass": "HUC",
+    "incomeClassification": "1st",
     "population2020": 1776949,
+    "population2024": 1848947,
     "regionCode": "1100000000",
     "provinceCode": "1130700000",
     "isCapital": false

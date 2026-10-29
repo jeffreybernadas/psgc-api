@@ -4,7 +4,9 @@
     "name": "Cateel",
     "code": "112505000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 44207,
+    "population2024": 45623,
     "regionCode": "1100000000",
     "provinceCode": "1102500000",
     "isCapital": false

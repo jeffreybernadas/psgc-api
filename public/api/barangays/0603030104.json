@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0603030104",
-    "name": "Tacas  (Pob.)",
+    "name": "Tacas (Pob.)",
     "code": "063030104",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 747,
+    "population2024": 712,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "cityMunicipalityCode": "0603030000",

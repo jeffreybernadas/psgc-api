@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1606805011",
-    "name": "Magosilom  (Pob.)",
+    "name": "Magosilom (Pob.)",
     "code": "166805011",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 5068,
+    "population2024": 5021,
     "regionCode": "1600000000",
     "provinceCode": "1606800000",
     "cityMunicipalityCode": "1606805000",

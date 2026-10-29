@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0906615006",
-    "name": "Luuk  (Pob.)",
+    "name": "Luuk (Pob.)",
     "code": "156615006",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1645,
+    "population2024": 2099,
     "regionCode": "0900000000",
     "provinceCode": "0906600000",
     "cityMunicipalityCode": "0906615000",

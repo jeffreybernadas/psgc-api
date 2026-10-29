@@ -4,7 +4,9 @@
     "name": "Davao del Norte",
     "code": "112300000",
     "geographicLevel": "Prov",
+    "incomeClassification": "1st",
     "population2020": 1125057,
+    "population2024": 1143931,
     "regionCode": "1100000000"
   }
 ]

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501717037",
-    "name": "Saripongpong  (Pob.)",
+    "name": "Saripongpong (Pob.)",
     "code": "051717037",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 802,
+    "population2024": 435,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501717000",

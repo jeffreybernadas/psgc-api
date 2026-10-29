@@ -4,7 +4,9 @@
     "name": "Loon",
     "code": "071230000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 44224,
+    "population2024": 43857,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "isCapital": false

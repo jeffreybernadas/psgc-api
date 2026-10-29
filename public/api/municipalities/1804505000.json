@@ -4,7 +4,9 @@
     "name": "Calatrava",
     "code": "064505000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 82540,
+    "population2024": 83813,
     "regionCode": "1800000000",
     "provinceCode": "1804500000",
     "isCapital": false

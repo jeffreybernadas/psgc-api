@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0603037032",
-    "name": "Lopez Jaena Ward  (Pob.)",
+    "name": "Lopez Jaena Ward (Pob.)",
     "code": "063037032",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1489,
+    "population2024": 1365,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "cityMunicipalityCode": "0603037000",

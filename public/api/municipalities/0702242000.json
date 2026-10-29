@@ -4,7 +4,9 @@
     "name": "San Francisco",
     "code": "072242000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 59236,
+    "population2024": 61092,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "isCapital": false

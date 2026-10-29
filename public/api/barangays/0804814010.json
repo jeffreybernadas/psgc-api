@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0804814010",
-    "name": "Laniwan  (Pob.)",
+    "name": "Laniwan (Pob.)",
     "code": "084814010",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1615,
+    "population2024": 1676,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "cityMunicipalityCode": "0804814000",

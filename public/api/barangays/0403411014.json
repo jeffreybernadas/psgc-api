@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0403411014",
-    "name": "Timugan  (Pob.)",
+    "name": "Timugan (Pob.)",
     "code": "043411014",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 5848,
+    "population2024": 5913,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "cityMunicipalityCode": "0403411000",

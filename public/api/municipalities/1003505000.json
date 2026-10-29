@@ -4,7 +4,9 @@
     "name": "Kapatagan",
     "code": "103505000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 62571,
+    "population2024": 72762,
     "regionCode": "1000000000",
     "provinceCode": "1003500000",
     "isCapital": false

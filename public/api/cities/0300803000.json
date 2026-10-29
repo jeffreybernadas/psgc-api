@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "0300803000",
-    "name": "City of Balanga ",
+    "name": "City of Balanga",
     "code": "030803000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "2nd",
     "population2020": 104173,
+    "population2024": 109931,
     "regionCode": "0300000000",
     "provinceCode": "0300800000",
     "isCapital": true

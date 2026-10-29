@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501705023",
-    "name": "San Buenaventura  (Pob.)",
+    "name": "San Buenaventura (Pob.)",
     "code": "051705023",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2365,
+    "population2024": 2150,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501705000",

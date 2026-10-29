@@ -4,7 +4,9 @@
     "name": "Tarragona",
     "code": "112511000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 26996,
+    "population2024": 27349,
     "regionCode": "1100000000",
     "provinceCode": "1102500000",
     "isCapital": false

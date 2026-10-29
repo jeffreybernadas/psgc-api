@@ -4,7 +4,9 @@
     "name": "Ivisan",
     "code": "061905000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 31278,
+    "population2024": 32853,
     "regionCode": "0600000000",
     "provinceCode": "0601900000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102912033",
-    "name": "San Clemente  (Pob.)",
+    "name": "San Clemente (Pob.)",
     "code": "012912033",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 924,
+    "population2024": 928,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "cityMunicipalityCode": "0102912000",

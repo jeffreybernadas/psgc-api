@@ -4,7 +4,9 @@
     "name": "Bula",
     "code": "051706000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 73143,
+    "population2024": 75943,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "isCapital": false

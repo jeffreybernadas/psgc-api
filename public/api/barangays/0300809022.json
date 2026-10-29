@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0300809022",
-    "name": "Tenejero  (Pob.)",
+    "name": "Tenejero (Pob.)",
     "code": "030809022",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1672,
+    "population2024": 1530,
     "regionCode": "0300000000",
     "provinceCode": "0300800000",
     "cityMunicipalityCode": "0300809000",

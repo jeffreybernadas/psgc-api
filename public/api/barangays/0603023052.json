@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0603023052",
-    "name": "Don T. Lutero Center  (Pob.)",
+    "name": "Don T. Lutero Center (Pob.)",
     "code": "063023052",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 377,
+    "population2024": 345,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "cityMunicipalityCode": "0603023000",

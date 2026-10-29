@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0403406013",
-    "name": "Kanluran  (Pob.)",
+    "name": "Kanluran (Pob.)",
     "code": "043406013",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1403,
+    "population2024": 1202,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "cityMunicipalityCode": "0403406000",

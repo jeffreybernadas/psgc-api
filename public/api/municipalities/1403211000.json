@@ -4,7 +4,10 @@
     "name": "Rizal",
     "code": "143211000",
     "geographicLevel": "Mun",
+    "oldName": "Liwan",
+    "incomeClassification": "3rd",
     "population2020": 19554,
+    "population2024": 20491,
     "regionCode": "1400000000",
     "provinceCode": "1403200000",
     "isCapital": false

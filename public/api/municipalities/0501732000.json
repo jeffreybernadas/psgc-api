@@ -4,7 +4,9 @@
     "name": "San Fernando",
     "code": "051732000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 38626,
+    "population2024": 39206,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "isCapital": false

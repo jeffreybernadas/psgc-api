@@ -4,7 +4,9 @@
     "name": "Mansalay",
     "code": "175207000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 59114,
+    "population2024": 60597,
     "regionCode": "1700000000",
     "provinceCode": "1705200000",
     "isCapital": false

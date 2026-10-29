@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0702224031",
-    "name": "Ilaya  (Pob.)",
+    "name": "Ilaya (Pob.)",
     "code": "072224031",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1070,
+    "population2024": 910,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "cityMunicipalityCode": "0702224000",

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0806025040",
-    "name": "San Jorge II  (Pob.)",
+    "name": "San Jorge II (Pob.)",
     "code": "086025040",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 501,
+    "population2024": 530,
     "regionCode": "0800000000",
     "provinceCode": "0806000000",
     "cityMunicipalityCode": "0806025000",

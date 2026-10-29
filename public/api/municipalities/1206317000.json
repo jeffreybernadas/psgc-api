@@ -4,7 +4,9 @@
     "name": "Tupi",
     "code": "126317000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 73459,
+    "population2024": 78599,
     "regionCode": "1200000000",
     "provinceCode": "1206300000",
     "isCapital": false

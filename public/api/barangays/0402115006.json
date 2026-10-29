@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0402115006",
-    "name": "Capt. C. Nazareno  (Pob.)",
+    "name": "Capt. C. Nazareno (Pob.)",
     "code": "042115006",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 543,
+    "population2024": 413,
     "regionCode": "0400000000",
     "provinceCode": "0402100000",
     "cityMunicipalityCode": "0402115000",

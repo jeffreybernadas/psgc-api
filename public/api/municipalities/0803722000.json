@@ -4,7 +4,9 @@
     "name": "Isabel",
     "code": "083722000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 46781,
+    "population2024": 46858,
     "regionCode": "0800000000",
     "provinceCode": "0803700000",
     "isCapital": false

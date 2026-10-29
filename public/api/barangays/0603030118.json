@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0603030118",
-    "name": "Ubos Ilawod  (Pob.)",
+    "name": "Ubos Ilawod (Pob.)",
     "code": "063030118",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 800,
+    "population2024": 802,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "cityMunicipalityCode": "0603030000",

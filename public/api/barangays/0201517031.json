@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0201517031",
-    "name": "Centro II  (Pob.)",
+    "name": "Centro II (Pob.)",
     "code": "021517031",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2126,
+    "population2024": 1989,
     "regionCode": "0200000000",
     "provinceCode": "0201500000",
     "cityMunicipalityCode": "0201517000",

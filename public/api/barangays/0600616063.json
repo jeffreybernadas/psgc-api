@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0600616063",
-    "name": "District III  (Pob.)",
+    "name": "District III (Pob.)",
     "code": "060616063",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 3788,
+    "population2024": 3853,
     "regionCode": "0600000000",
     "provinceCode": "0600600000",
     "cityMunicipalityCode": "0600616000",

@@ -4,7 +4,9 @@
     "name": "Hindang",
     "code": "083720000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 20849,
+    "population2024": 21520,
     "regionCode": "0800000000",
     "provinceCode": "0803700000",
     "isCapital": false

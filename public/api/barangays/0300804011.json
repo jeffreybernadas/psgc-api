@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0300804011",
-    "name": "Gen. Luna  (Pob.)",
+    "name": "Gen. Luna (Pob.)",
     "code": "030804011",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 528,
+    "population2024": 588,
     "regionCode": "0300000000",
     "provinceCode": "0300800000",
     "cityMunicipalityCode": "0300804000",

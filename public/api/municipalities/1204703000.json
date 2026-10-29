@@ -4,7 +4,9 @@
     "name": "Kabacan",
     "code": "124703000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 77164,
+    "population2024": 77945,
     "regionCode": "1200000000",
     "provinceCode": "1204700000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501734040",
-    "name": "South Centro  (Pob.)",
+    "name": "South Centro (Pob.)",
     "code": "051734040",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 6567,
+    "population2024": 5632,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501734000",

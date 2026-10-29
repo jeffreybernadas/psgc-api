@@ -4,7 +4,9 @@
     "name": "Leon",
     "code": "063028000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 51990,
+    "population2024": 52777,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "isCapital": false

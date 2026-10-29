@@ -4,7 +4,9 @@
     "name": "Mondragon",
     "code": "084813000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 41415,
+    "population2024": 43116,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "isCapital": false

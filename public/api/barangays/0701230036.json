@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0701230036",
-    "name": "Cogon Norte  (Pob.)",
+    "name": "Cogon Norte (Pob.)",
     "code": "071230036",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2099,
+    "population2024": 2054,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "cityMunicipalityCode": "0701230000",

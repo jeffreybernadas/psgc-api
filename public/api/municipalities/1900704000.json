@@ -4,7 +4,9 @@
     "name": "Maluso",
     "code": "150704000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 45730,
+    "population2024": 66817,
     "regionCode": "1900000000",
     "provinceCode": "1900700000",
     "isCapital": false

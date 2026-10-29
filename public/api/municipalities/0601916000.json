@@ -4,7 +4,9 @@
     "name": "Sigma",
     "code": "061916000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 31688,
+    "population2024": 32628,
     "regionCode": "0600000000",
     "provinceCode": "0601900000",
     "isCapital": false

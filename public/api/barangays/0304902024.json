@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0304902024",
-    "name": "Sinipit  (Pob.)",
+    "name": "Sinipit (Pob.)",
     "code": "034902024",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 2542,
+    "population2024": 2597,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "cityMunicipalityCode": "0304902000",

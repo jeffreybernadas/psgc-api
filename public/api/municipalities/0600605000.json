@@ -4,7 +4,9 @@
     "name": "Caluya",
     "code": "060605000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 38908,
+    "population2024": 42895,
     "regionCode": "0600000000",
     "provinceCode": "0600600000",
     "isCapital": false

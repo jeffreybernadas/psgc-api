@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0502008033",
-    "name": "Sapang Palay  (Pob.)",
+    "name": "Sapang Palay (Pob.)",
     "code": "052008033",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 841,
+    "population2024": 812,
     "regionCode": "0500000000",
     "provinceCode": "0502000000",
     "cityMunicipalityCode": "0502008000",

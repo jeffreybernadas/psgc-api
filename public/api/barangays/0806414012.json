@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0806414012",
-    "name": "Santo Niño  (Pob.)",
+    "name": "Santo Niño (Pob.)",
     "code": "086414012",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1962,
+    "population2024": 1852,
     "regionCode": "0800000000",
     "provinceCode": "0806400000",
     "cityMunicipalityCode": "0806414000",

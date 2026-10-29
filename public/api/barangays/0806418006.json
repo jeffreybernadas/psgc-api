@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0806418006",
-    "name": "Cambite  (Pob.)",
+    "name": "Cambite (Pob.)",
     "code": "086418006",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 821,
+    "population2024": 757,
     "regionCode": "0800000000",
     "provinceCode": "0806400000",
     "cityMunicipalityCode": "0806418000",

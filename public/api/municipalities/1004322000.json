@@ -4,7 +4,9 @@
     "name": "Salay",
     "code": "104322000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 29998,
+    "population2024": 31128,
     "regionCode": "1000000000",
     "provinceCode": "1004300000",
     "isCapital": false

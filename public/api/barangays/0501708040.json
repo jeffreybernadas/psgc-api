@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501708040",
-    "name": "San Vicente  (Pob.)",
+    "name": "San Vicente (Pob.)",
     "code": "051708040",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 530,
+    "population2024": 458,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501708000",

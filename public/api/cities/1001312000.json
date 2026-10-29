@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "1001312000",
-    "name": "City of Malaybalay ",
+    "name": "City of Malaybalay",
     "code": "101312000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "1st",
     "population2020": 190712,
+    "population2024": 195046,
     "regionCode": "1000000000",
     "provinceCode": "1001300000",
     "isCapital": true

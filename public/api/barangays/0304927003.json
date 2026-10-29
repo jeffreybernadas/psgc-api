@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0304927003",
-    "name": "Burgos District  (Pob.)",
+    "name": "Burgos District (Pob.)",
     "code": "034927003",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2172,
+    "population2024": 2164,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "cityMunicipalityCode": "0304927000",

@@ -4,7 +4,9 @@
     "name": "Isabela",
     "code": "064514000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 64516,
+    "population2024": 65399,
     "regionCode": "1800000000",
     "provinceCode": "1804500000",
     "isCapital": false

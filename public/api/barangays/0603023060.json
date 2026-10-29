@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0603023060",
-    "name": "Capt. A. Tirador  (Pob.)",
+    "name": "Capt. A. Tirador (Pob.)",
     "code": "063023060",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 676,
+    "population2024": 654,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "cityMunicipalityCode": "0603023000",

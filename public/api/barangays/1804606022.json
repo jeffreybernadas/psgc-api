@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1804606022",
-    "name": "Suba  (Pob.)",
+    "name": "Suba (Pob.)",
     "code": "074606022",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 2412,
+    "population2024": 2398,
     "regionCode": "1800000000",
     "provinceCode": "1804600000",
     "cityMunicipalityCode": "1804606000",

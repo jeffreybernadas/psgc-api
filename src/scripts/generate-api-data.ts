@@ -1,5 +1,5 @@
 import fs from 'fs-extra';
-import path from 'path';
+import path from 'node:path';
 import { GeographicLevel } from '../types/data.type';
 import { logger } from '../utils/logger.util';
 
@@ -16,6 +16,7 @@ interface PSGCData {
   incomeClassification?: string;
   urbanRural?: string;
   population2020: number;
+  population2024: number;
   status?: string;
 }
 
@@ -49,11 +50,12 @@ function extractCodes(psgcCode: string) {
 }
 
 function processRegion(data: PSGCData): ProcessedData {
-  const regex = /(.+?)\s*\((.+?)\)/;
-  const match = regex.exec(data.name);
+  // "Region I (Ilocos Region)" -> regionName "Region I", name "Ilocos Region"
+  const open = data.name.indexOf('(');
+  const close = data.name.indexOf(')', open + 1);
   const { status, urbanRural, ...rest } = data;
 
-  if (!match) {
+  if (open < 1 || close <= open + 1) {
     // Handle MIMAROPA Region case
     const nameParts = data.name.split(' ');
     return {
@@ -65,8 +67,8 @@ function processRegion(data: PSGCData): ProcessedData {
 
   return {
     ...rest,
-    regionName: match[1].trim(),
-    name: match[2].trim(),
+    regionName: data.name.slice(0, open).trim(),
+    name: data.name.slice(open + 1, close).trim(),
   };
 }
 
@@ -109,10 +111,8 @@ function processBarangay(data: PSGCData): ProcessedData {
   const codes = extractCodes(data.psgc10DigitCode);
 
   // Check if this barangay belongs to a submunicipality
-  const hasSubMunicipality = rawData.some(
-    (item) =>
-      item.geographicLevel === 'SubMun' &&
-      item.psgc10DigitCode.slice(0, 7) === data.psgc10DigitCode.slice(0, 7),
+  const hasSubMunicipality = subMunicipalityPrefixes.has(
+    data.psgc10DigitCode.slice(0, 7),
   );
 
   // Base barangay data
@@ -154,12 +154,18 @@ function writeFile(relativePath: string, data: unknown): void {
 }
 
 let rawData: PSGCData[] = [];
+let subMunicipalityPrefixes = new Set<string>();
 
 export function generatePSGCData(): void {
   try {
     rawData = fs.readJsonSync(
       path.resolve(__dirname, '../../src/data/psgc-json/psgc.json'),
     ) as PSGCData[];
+    subMunicipalityPrefixes = new Set(
+      rawData
+        .filter((d) => d.geographicLevel === 'SubMun')
+        .map((d) => d.psgc10DigitCode.slice(0, 7)),
+    );
 
     // Process and write regions
     const regions = rawData

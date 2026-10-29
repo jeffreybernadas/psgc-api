@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0304903066",
-    "name": "Rizdelis  (Pob.)",
+    "name": "Rizdelis (Pob.)",
     "code": "034903066",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 784,
+    "population2024": 804,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "cityMunicipalityCode": "0304903000",

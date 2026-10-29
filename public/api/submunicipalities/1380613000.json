@@ -4,7 +4,9 @@
     "name": "Port Area",
     "code": "133913000",
     "geographicLevel": "SubMun",
+    "incomeClassification": "",
     "population2020": 72605,
+    "population2024": 76783,
     "regionCode": "1300000000",
     "provinceCode": false,
     "cityMunicipalityCode": "1380600000"

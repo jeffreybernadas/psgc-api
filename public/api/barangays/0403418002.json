@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0403418002",
-    "name": "Bangkusay  (Pob.)",
+    "name": "Bangkusay (Pob.)",
     "code": "043418002",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 474,
+    "population2024": 572,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "cityMunicipalityCode": "0403418000",

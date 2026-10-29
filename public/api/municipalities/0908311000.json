@@ -4,7 +4,9 @@
     "name": "Payao",
     "code": "098311000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 34952,
+    "population2024": 33156,
     "regionCode": "0900000000",
     "provinceCode": "0908300000",
     "isCapital": false

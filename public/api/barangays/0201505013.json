@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0201505013",
-    "name": "Centro 9  (Pob.)",
+    "name": "Centro 9 (Pob.)",
     "code": "021505013",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 1015,
+    "population2024": 1002,
     "regionCode": "0200000000",
     "provinceCode": "0201500000",
     "cityMunicipalityCode": "0201505000",

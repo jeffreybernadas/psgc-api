@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0803742009",
-    "name": "Capiñahan  (Pob.)",
+    "name": "Capiñahan (Pob.)",
     "code": "083742009",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1987,
+    "population2024": 1800,
     "regionCode": "0800000000",
     "provinceCode": "0803700000",
     "cityMunicipalityCode": "0803742000",

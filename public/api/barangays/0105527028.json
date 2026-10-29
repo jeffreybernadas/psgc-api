@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0105527028",
-    "name": "Calvo  (Pob.)",
+    "name": "Calvo (Pob.)",
     "code": "015527028",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 1290,
+    "population2024": 1214,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "cityMunicipalityCode": "0105527000",

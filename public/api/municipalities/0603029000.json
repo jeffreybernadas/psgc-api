@@ -4,7 +4,9 @@
     "name": "Maasin",
     "code": "063029000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 38461,
+    "population2024": 38761,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "isCapital": false

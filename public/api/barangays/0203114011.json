@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0203114011",
-    "name": "Bagumbayan  (Pob.)",
+    "name": "Bagumbayan (Pob.)",
     "code": "023114011",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2321,
+    "population2024": 2331,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "cityMunicipalityCode": "0203114000",

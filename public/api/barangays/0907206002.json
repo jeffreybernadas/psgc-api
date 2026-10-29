@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907206002",
-    "name": "Baybay  (Pob.)",
+    "name": "Baybay (Pob.)",
     "code": "097206002",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 5235,
+    "population2024": 5497,
     "regionCode": "0900000000",
     "provinceCode": "0907200000",
     "cityMunicipalityCode": "0907206000",

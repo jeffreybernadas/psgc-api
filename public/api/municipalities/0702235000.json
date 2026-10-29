@@ -4,7 +4,9 @@
     "name": "Oslob",
     "code": "072235000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 29264,
+    "population2024": 29378,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "isCapital": false

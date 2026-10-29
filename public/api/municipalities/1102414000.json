@@ -4,7 +4,9 @@
     "name": "Sulop",
     "code": "112414000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 35151,
+    "population2024": 40134,
     "regionCode": "1100000000",
     "provinceCode": "1102400000",
     "isCapital": false

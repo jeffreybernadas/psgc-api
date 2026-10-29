@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0401009019",
-    "name": "Barangay 5  (Pob.)",
+    "name": "Barangay 5 (Pob.)",
     "code": "041009019",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 347,
+    "population2024": 359,
     "regionCode": "0400000000",
     "provinceCode": "0401000000",
     "cityMunicipalityCode": "0401009000",

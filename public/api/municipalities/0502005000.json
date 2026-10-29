@@ -4,7 +4,9 @@
     "name": "Gigmoto",
     "code": "052005000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 8712,
+    "population2024": 8348,
     "regionCode": "0500000000",
     "provinceCode": "0502000000",
     "isCapital": false

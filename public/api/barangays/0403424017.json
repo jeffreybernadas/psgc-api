@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0403424017",
-    "name": "Barangay IV-A  (Pob.)",
+    "name": "Barangay IV-A (Pob.)",
     "code": "043424017",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 720,
+    "population2024": 704,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "cityMunicipalityCode": "0403424000",

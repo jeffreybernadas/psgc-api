@@ -4,7 +4,9 @@
     "name": "Bugallon",
     "code": "015515000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 74962,
+    "population2024": 76027,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "isCapital": false

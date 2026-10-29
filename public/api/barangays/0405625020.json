@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405625020",
-    "name": "Pag-Asa  (Pob.)",
+    "name": "Pag-Asa (Pob.)",
     "code": "045625020",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 376,
+    "population2024": 336,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405625000",

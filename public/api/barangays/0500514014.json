@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0500514014",
-    "name": "Centro Oriental  (Pob.)",
+    "name": "Centro Oriental (Pob.)",
     "code": "050514014",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 2012,
+    "population2024": 1563,
     "regionCode": "0500000000",
     "provinceCode": "0500500000",
     "cityMunicipalityCode": "0500514000",

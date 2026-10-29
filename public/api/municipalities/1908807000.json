@@ -4,7 +4,9 @@
     "name": "Datu Piang",
     "code": "153806000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 28380,
+    "population2024": 31063,
     "regionCode": "1900000000",
     "provinceCode": "1908800000",
     "isCapital": false

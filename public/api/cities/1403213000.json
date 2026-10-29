@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "1403213000",
-    "name": "City of Tabuk ",
+    "name": "City of Tabuk",
     "code": "143213000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "1st",
     "population2020": 121033,
+    "population2024": 122771,
     "regionCode": "1400000000",
     "provinceCode": "1403200000",
     "isCapital": true

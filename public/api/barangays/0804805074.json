@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0804805074",
-    "name": "Mabolo  (Pob.)",
+    "name": "Mabolo (Pob.)",
     "code": "084805074",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 483,
+    "population2024": 471,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "cityMunicipalityCode": "0804805000",

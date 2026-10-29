@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102802024",
-    "name": "San Agustin I  (Pob.)",
+    "name": "San Agustin I (Pob.)",
     "code": "012802024",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 544,
+    "population2024": 455,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "cityMunicipalityCode": "0102802000",

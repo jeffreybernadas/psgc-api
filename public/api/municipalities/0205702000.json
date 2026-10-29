@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "0205702000",
-    "name": "Cabarroguis ",
+    "name": "Cabarroguis",
     "code": "025702000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 33533,
+    "population2024": 34720,
     "regionCode": "0200000000",
     "provinceCode": "0205700000",
     "isCapital": true

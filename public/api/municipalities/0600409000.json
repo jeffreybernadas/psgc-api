@@ -4,7 +4,9 @@
     "name": "Libacao",
     "code": "060409000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 28272,
+    "population2024": 28525,
     "regionCode": "0600000000",
     "provinceCode": "0600400000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501727017",
-    "name": "Santa Rosa Del Sur  (Pob.)",
+    "name": "Santa Rosa Del Sur (Pob.)",
     "code": "051727017",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 3527,
+    "population2024": 3226,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501727000",

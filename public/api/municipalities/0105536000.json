@@ -4,7 +4,9 @@
     "name": "San Nicolas",
     "code": "015536000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 39778,
+    "population2024": 40144,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "isCapital": false

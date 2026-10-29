@@ -4,7 +4,9 @@
     "name": "San Vicente",
     "code": "175319000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 33507,
+    "population2024": 33768,
     "regionCode": "1700000000",
     "provinceCode": "1705300000",
     "isCapital": false

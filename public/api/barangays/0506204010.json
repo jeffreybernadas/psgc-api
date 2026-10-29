@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0506204010",
-    "name": "Poctol  (Pob.)",
+    "name": "Poctol (Pob.)",
     "code": "056204010",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 321,
+    "population2024": 311,
     "regionCode": "0500000000",
     "provinceCode": "0506200000",
     "cityMunicipalityCode": "0506204000",

@@ -4,7 +4,9 @@
     "name": "Santa Fe",
     "code": "072244000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 34471,
+    "population2024": 34834,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "isCapital": false

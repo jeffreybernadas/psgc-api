@@ -4,20 +4,23 @@ FROM node:22-alpine AS development
 # Define working dir in container
 WORKDIR /app
 
-# Copy package.json and package-lock.json to container
-COPY package*.json ./
+# Enable pnpm (version pinned by packageManager in package.json)
+RUN corepack enable
 
-# Set registry to npmjs registry and install dependencies
-RUN yarn install --frozen-lockfile
+# Copy package.json and pnpm-lock.yaml to container
+COPY package.json pnpm-lock.yaml ./
+
+# Install dependencies
+RUN pnpm install --frozen-lockfile
 
 # Copy all files to container
 COPY . .
 
 # Build the application for production
-RUN yarn build
+RUN pnpm build
 
 # Start the application in development mode
-CMD ["yarn", "dev"]
+CMD ["pnpm", "dev"]
 
 # Production Stage
 FROM node:22-alpine AS production
@@ -25,14 +28,19 @@ FROM node:22-alpine AS production
 # Define working dir in container
 WORKDIR /app
 
-# Copy package.json and package-lock.json to container
-COPY package*.json ./
+# Enable pnpm (version pinned by packageManager in package.json)
+RUN corepack enable
 
-# Set registry to npmjs registry and install dependencies
-RUN yarn install --frozen-lockfile --only=production
+# Copy package.json and pnpm-lock.yaml to container
+COPY package.json pnpm-lock.yaml ./
 
-# Copy all files to container
+# Install production dependencies only
+RUN pnpm install --frozen-lockfile --prod
+
+# Copy the build, the API data and the Swagger spec to container
 COPY --from=development /app/dist ./dist
+COPY public ./public
+COPY swagger.yaml ./
 
 # Start the application in production mode
 CMD ["node", "dist/index.js"]

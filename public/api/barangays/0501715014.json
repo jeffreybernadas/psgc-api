@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501715014",
-    "name": "La Purisima  (Pob.)",
+    "name": "La Purisima (Pob.)",
     "code": "051715014",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 844,
+    "population2024": 433,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501715000",

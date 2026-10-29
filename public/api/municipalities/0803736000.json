@@ -4,7 +4,9 @@
     "name": "Merida",
     "code": "083736000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 31574,
+    "population2024": 32373,
     "regionCode": "0800000000",
     "provinceCode": "0803700000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0304911049",
-    "name": "Saint John District  (Pob.)",
+    "name": "Saint John District (Pob.)",
     "code": "034911049",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 1777,
+    "population2024": 1786,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "cityMunicipalityCode": "0304911000",

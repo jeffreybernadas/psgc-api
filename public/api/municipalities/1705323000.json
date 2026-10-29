@@ -4,7 +4,10 @@
     "name": "Dr. Jose P. Rizal",
     "code": "175323000",
     "geographicLevel": "Mun",
+    "oldName": "Marcos",
+    "incomeClassification": "1st",
     "population2020": 56162,
+    "population2024": 59040,
     "regionCode": "1700000000",
     "provinceCode": "1705300000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0301410050",
-    "name": "Santo Rosario  (Pob.)",
+    "name": "Santo Rosario (Pob.)",
     "code": "031410050",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 7333,
+    "population2024": 6509,
     "regionCode": "0300000000",
     "provinceCode": "0301400000",
     "cityMunicipalityCode": "0301410000",

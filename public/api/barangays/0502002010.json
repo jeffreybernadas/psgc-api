@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0502002010",
-    "name": "Ginitligan",
+    "name": "Genitligan",
     "code": "052002010",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1033,
+    "population2024": 1000,
     "regionCode": "0500000000",
     "provinceCode": "0502000000",
     "cityMunicipalityCode": "0502002000",

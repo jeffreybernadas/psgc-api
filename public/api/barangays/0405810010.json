@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405810010",
-    "name": "Takungan  (Pob.)",
+    "name": "Takungan (Pob.)",
     "code": "045810010",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1623,
+    "population2024": 1587,
     "regionCode": "0400000000",
     "provinceCode": "0405800000",
     "cityMunicipalityCode": "0405810000",

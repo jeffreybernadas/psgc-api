@@ -4,7 +4,9 @@
     "name": "Pangil",
     "code": "043421000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 25026,
+    "population2024": 25318,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "isCapital": false

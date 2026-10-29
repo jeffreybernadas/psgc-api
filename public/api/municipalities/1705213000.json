@@ -4,7 +4,9 @@
     "name": "San Teodoro",
     "code": "175213000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 19121,
+    "population2024": 19650,
     "regionCode": "1700000000",
     "provinceCode": "1705200000",
     "isCapital": false

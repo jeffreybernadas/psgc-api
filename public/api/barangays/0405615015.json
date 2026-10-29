@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405615015",
-    "name": "Silanganan  (Pob.)",
+    "name": "Silanganan (Pob.)",
     "code": "045615015",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 844,
+    "population2024": 770,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405615000",

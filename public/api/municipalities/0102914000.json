@@ -4,7 +4,9 @@
     "name": "Narvacan",
     "code": "012914000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 46234,
+    "population2024": 46265,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "isCapital": false

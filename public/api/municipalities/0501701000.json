@@ -4,7 +4,9 @@
     "name": "Baao",
     "code": "051701000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 61493,
+    "population2024": 61357,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "isCapital": false

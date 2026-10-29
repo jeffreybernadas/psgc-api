@@ -4,7 +4,10 @@
     "name": "Presentacion",
     "code": "051729000",
     "geographicLevel": "Mun",
+    "oldName": "Parubcan",
+    "incomeClassification": "3rd",
     "population2020": 22591,
+    "population2024": 23323,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "isCapital": false

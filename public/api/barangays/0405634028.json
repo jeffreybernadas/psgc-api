@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405634028",
-    "name": "Pamilihan  (Pob.)",
+    "name": "Pamilihan (Pob.)",
     "code": "045634028",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 409,
+    "population2024": 422,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405634000",

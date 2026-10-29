@@ -4,7 +4,9 @@
     "name": "Tagoloan",
     "code": "104324000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 80319,
+    "population2024": 80424,
     "regionCode": "1000000000",
     "provinceCode": "1004300000",
     "isCapital": false

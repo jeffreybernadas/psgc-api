@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "0103314000",
-    "name": "City of San Fernando ",
+    "name": "City of San Fernando",
     "code": "013314000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "2nd",
     "population2020": 125640,
+    "population2024": 124809,
     "regionCode": "0100000000",
     "provinceCode": "0103300000",
     "isCapital": true

@@ -4,7 +4,10 @@
     "name": "Ramon Magsaysay",
     "code": "097323000",
     "geographicLevel": "Mun",
+    "oldName": "Liargo",
+    "incomeClassification": "3rd",
     "population2020": 27280,
+    "population2024": 28419,
     "regionCode": "0900000000",
     "provinceCode": "0907300000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "San Pablo",
     "code": "023133000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 26320,
+    "population2024": 26462,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "isCapital": false

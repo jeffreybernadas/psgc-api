@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0506204009",
-    "name": "Madlawon  (Pob.)",
+    "name": "Madlawon (Pob.)",
     "code": "056204009",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1250,
+    "population2024": 1043,
     "regionCode": "0500000000",
     "provinceCode": "0506200000",
     "cityMunicipalityCode": "0506204000",

@@ -4,7 +4,9 @@
     "name": "Pasacao",
     "code": "051727000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 53461,
+    "population2024": 50708,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "isCapital": false

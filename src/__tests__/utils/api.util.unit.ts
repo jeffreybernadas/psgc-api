@@ -1,5 +1,5 @@
 import { Request } from 'express';
-import fs from 'fs';
+import fs from 'node:fs';
 import {
   getPaginationParams,
   paginateData,
@@ -39,75 +39,33 @@ describe('Utilities: API utils', () => {
     it('should return an empty array if page exceeds data', () => {
       const params = { page: 100, limit: 10 };
       const result = paginateData(sampleData, params);
-      expect(result.data.length).toBe(0);
+      expect(result.data).toHaveLength(0);
     });
   });
 
   describe('createPattern()', () => {
-    it('should return the correct pattern for regions:provinces', () => {
-      const pattern = createPattern('regions', 'provinces', 'ab');
-      expect(pattern).toBe('ab');
-    });
+    const code = '1380601001';
 
-    it('should return the correct pattern for regions:municipalities', () => {
-      const pattern = createPattern('regions', 'municipalities', 'ab');
-      expect(pattern).toBe('ab');
-    });
-
-    it('should return the correct pattern for regions:cities', () => {
-      const pattern = createPattern('regions', 'cities', 'ab');
-      expect(pattern).toBe('ab');
-    });
-
-    it('should return the correct pattern for regions:submunicipalities', () => {
-      const pattern = createPattern('regions', 'submunicipalities', 'ab');
-      expect(pattern).toBe('ab');
-    });
-
-    it('should return the correct pattern for regions:barangays', () => {
-      const pattern = createPattern('regions', 'barangays', 'ab');
-      expect(pattern).toBe('ab');
-    });
-
-    it('should return the correct pattern for provinces:municipalities', () => {
-      const pattern = createPattern('provinces', 'municipalities', 'ab');
-      expect(pattern).toBe('ab');
-    });
-
-    it('should return the correct pattern for provinces:cities', () => {
-      const pattern = createPattern('provinces', 'cities', 'ab');
-      expect(pattern).toBe('ab');
-    });
-
-    it('should return the correct pattern for provinces:submunicipalities', () => {
-      const pattern = createPattern('provinces', 'submunicipalities', 'ab');
-      expect(pattern).toBe('ab');
-    });
-
-    it('should return the correct pattern for provinces:barangays', () => {
-      const pattern = createPattern('provinces', 'barangays', 'ab');
-      expect(pattern).toBe('ab');
-    });
-
-    it('should return the correct pattern for cities:barangays', () => {
-      const pattern = createPattern('cities', 'barangays', 'ab');
-      expect(pattern).toBe('ab');
-    });
-
-    it('should return the correct pattern for municipalities:barangays', () => {
-      const pattern = createPattern('municipalities', 'barangays', 'ab');
-      expect(pattern).toBe('ab');
-    });
-
-    it('should return the correct pattern for submunicipalities:barangays', () => {
-      const pattern = createPattern('submunicipalities', 'barangays', 'ab');
-      expect(pattern).toBe('ab');
-    });
-
-    it('should return the default pattern', () => {
-      const pattern = createPattern('asd', 'asd', 'ab');
-      expect(pattern).toBe('ab');
-    });
+    it.each([
+      ['regions', 'provinces', '13'],
+      ['regions', 'municipalities', '13'],
+      ['regions', 'cities', '13'],
+      ['regions', 'submunicipalities', '13'],
+      ['regions', 'barangays', '13'],
+      ['provinces', 'municipalities', '13806'],
+      ['provinces', 'cities', '13806'],
+      ['provinces', 'submunicipalities', '13806'],
+      ['provinces', 'barangays', '13806'],
+      ['cities', 'barangays', '1380601'],
+      ['municipalities', 'barangays', '1380601'],
+      ['submunicipalities', 'barangays', '1380601'],
+      ['asd', 'asd', code],
+    ])(
+      'should return the pattern for %s:%s',
+      (geographicLevel, category, expected) => {
+        expect(createPattern(geographicLevel, category, code)).toBe(expected);
+      },
+    );
   });
 
   describe('getJsonDataFromDir()', () => {

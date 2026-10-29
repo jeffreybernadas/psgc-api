@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1704004011",
-    "name": "Dulong Bayan  (Pob.)",
+    "name": "Dulong Bayan (Pob.)",
     "code": "174004011",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 762,
+    "population2024": 683,
     "regionCode": "1700000000",
     "provinceCode": "1704000000",
     "cityMunicipalityCode": "1704004000",

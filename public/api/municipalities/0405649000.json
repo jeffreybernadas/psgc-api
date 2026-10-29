@@ -4,7 +4,9 @@
     "name": "Unisan",
     "code": "045649000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 25448,
+    "population2024": 25357,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "Pandi",
     "code": "031415000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 155115,
+    "population2024": 162725,
     "regionCode": "0300000000",
     "provinceCode": "0301400000",
     "isCapital": false

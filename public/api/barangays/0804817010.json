@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0804817010",
-    "name": "Ward II  (Pob.)",
+    "name": "Ward II (Pob.)",
     "code": "084817010",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 707,
+    "population2024": 704,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "cityMunicipalityCode": "0804817000",

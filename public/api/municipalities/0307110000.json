@@ -4,7 +4,9 @@
     "name": "San Felipe",
     "code": "037110000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 25033,
+    "population2024": 26081,
     "regionCode": "0300000000",
     "provinceCode": "0307100000",
     "isCapital": false

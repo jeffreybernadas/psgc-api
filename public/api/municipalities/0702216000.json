@@ -4,7 +4,9 @@
     "name": "Catmon",
     "code": "072216000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 33745,
+    "population2024": 34608,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "isCapital": false

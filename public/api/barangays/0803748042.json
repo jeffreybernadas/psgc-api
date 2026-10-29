@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0803748042",
-    "name": "Licod  (Pob.)",
+    "name": "Licod (Pob.)",
     "code": "083748042",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1169,
+    "population2024": 1170,
     "regionCode": "0800000000",
     "provinceCode": "0803700000",
     "cityMunicipalityCode": "0803748000",

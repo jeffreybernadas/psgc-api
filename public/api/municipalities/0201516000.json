@@ -4,7 +4,9 @@
     "name": "Lal-Lo",
     "code": "021516000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 48733,
+    "population2024": 48404,
     "regionCode": "0200000000",
     "provinceCode": "0201500000",
     "isCapital": false

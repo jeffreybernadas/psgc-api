@@ -4,7 +4,10 @@
     "name": "General Tinio",
     "code": "034910000",
     "geographicLevel": "Mun",
+    "oldName": "Papaya",
+    "incomeClassification": "1st",
     "population2020": 55925,
+    "population2024": 58093,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "isCapital": false

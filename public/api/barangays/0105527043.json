@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0105527043",
-    "name": "Lopez  (Pob.)",
+    "name": "Lopez (Pob.)",
     "code": "015527043",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 697,
+    "population2024": 771,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "cityMunicipalityCode": "0105527000",

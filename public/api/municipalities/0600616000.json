@@ -4,7 +4,9 @@
     "name": "Sibalom",
     "code": "060616000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 63833,
+    "population2024": 67155,
     "regionCode": "0600000000",
     "provinceCode": "0600600000",
     "isCapital": false

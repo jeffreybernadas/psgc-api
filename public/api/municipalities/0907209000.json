@@ -4,7 +4,10 @@
     "name": "Piñan",
     "code": "097209000",
     "geographicLevel": "Mun",
+    "oldName": "New Piñan",
+    "incomeClassification": "3rd",
     "population2020": 20221,
+    "population2024": 19184,
     "regionCode": "0900000000",
     "provinceCode": "0907200000",
     "isCapital": false

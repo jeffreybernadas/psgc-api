@@ -4,7 +4,9 @@
     "name": "Samboan",
     "code": "072240000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 20373,
+    "population2024": 20736,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "isCapital": false

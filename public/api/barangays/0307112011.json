@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0307112011",
-    "name": "Patrocinio  (Pob.)",
+    "name": "Patrocinio (Pob.)",
     "code": "037112011",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2313,
+    "population2024": 2421,
     "regionCode": "0300000000",
     "provinceCode": "0307100000",
     "cityMunicipalityCode": "0307112000",

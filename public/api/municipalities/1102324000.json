@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "1102324000",
-    "name": "San Isidro",
+    "name": "Sawata",
     "code": "112324000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 27233,
+    "population2024": 27552,
     "regionCode": "1100000000",
     "provinceCode": "1102300000",
     "isCapital": false

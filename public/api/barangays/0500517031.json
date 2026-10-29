@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0500517031",
-    "name": "Quinale Cabasan  (Pob.)",
+    "name": "Quinale Cabasan (Pob.)",
     "code": "050517031",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 1397,
+    "population2024": 1089,
     "regionCode": "0500000000",
     "provinceCode": "0500500000",
     "cityMunicipalityCode": "0500517000",

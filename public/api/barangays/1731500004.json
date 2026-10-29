@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1731500004",
-    "name": "Bagong Pag-Asa  (Pob.)",
+    "name": "Bagong Pag-Asa (Pob.)",
     "code": "175316004",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 730,
+    "population2024": 462,
     "regionCode": "1700000000",
     "provinceCode": "1731500000",
     "cityMunicipalityCode": "1731500000",

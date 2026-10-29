@@ -4,7 +4,9 @@
     "name": "Placer",
     "code": "166717000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 29616,
+    "population2024": 30442,
     "regionCode": "1600000000",
     "provinceCode": "1606700000",
     "isCapital": false

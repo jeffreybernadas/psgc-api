@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0402106018",
-    "name": "Zone III  (Pob.)",
+    "name": "Zone III (Pob.)",
     "code": "042106018",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 3821,
+    "population2024": 4889,
     "regionCode": "0400000000",
     "provinceCode": "0402100000",
     "cityMunicipalityCode": "0402106000",

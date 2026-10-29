@@ -1,6 +1,6 @@
 import { Request, Response } from 'express';
-import fs from 'fs';
-import path from 'path';
+import fs from 'node:fs';
+import path from 'node:path';
 import { NOT_FOUND, OK } from '../constants/http.constant';
 import { publicDir } from '../constants/util.constant';
 import { MunicipalityResponse, BarangayResponse } from '../types/data.type';
@@ -19,11 +19,10 @@ export const getMunicipalities = catchErrors(
 
     const municipalities: MunicipalityResponse[] = municipalityFiles
       .filter((file) => file.endsWith('.json'))
-      .map((file) => {
+      .flatMap((file) => {
         const filePath = path.join(municipalitiesDir, file);
         return JSON.parse(fs.readFileSync(filePath, 'utf8'));
-      })
-      .flat();
+      });
 
     const response = paginateData<MunicipalityResponse>(
       municipalities,

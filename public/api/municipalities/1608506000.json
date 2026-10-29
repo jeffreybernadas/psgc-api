@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "1608506000",
-    "name": "San Jose ",
+    "name": "San Jose",
     "code": "168506000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 26375,
+    "population2024": 26735,
     "regionCode": "1600000000",
     "provinceCode": "1608500000",
     "isCapital": true

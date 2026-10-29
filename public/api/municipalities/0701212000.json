@@ -4,7 +4,9 @@
     "name": "Carmen",
     "code": "071212000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 49191,
+    "population2024": 50249,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "isCapital": false

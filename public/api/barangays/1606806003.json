@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1606806003",
-    "name": "Carmen  (Pob.)",
+    "name": "Carmen (Pob.)",
     "code": "166806003",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 3314,
+    "population2024": 3229,
     "regionCode": "1600000000",
     "provinceCode": "1606800000",
     "cityMunicipalityCode": "1606806000",

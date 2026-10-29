@@ -4,7 +4,9 @@
     "name": "Quirino",
     "code": "023123000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 25023,
+    "population2024": 25205,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "isCapital": false

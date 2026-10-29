@@ -4,7 +4,9 @@
     "name": "Jamindan",
     "code": "061906000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 38670,
+    "population2024": 40472,
     "regionCode": "0600000000",
     "provinceCode": "0601900000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405630019",
-    "name": "Barangay 1 Castillo  (Pob.)",
+    "name": "Barangay 1 Castillo (Pob.)",
     "code": "045630019",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1603,
+    "population2024": 1479,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405630000",

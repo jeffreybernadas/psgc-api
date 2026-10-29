@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405615003",
-    "name": "Bayanihan  (Pob.)",
+    "name": "Bayanihan (Pob.)",
     "code": "045615003",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 537,
+    "population2024": 581,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405615000",

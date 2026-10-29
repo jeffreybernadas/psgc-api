@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1001312052",
-    "name": "Barangay 9  (Pob.)",
+    "name": "Barangay 9 (Pob.)",
     "code": "101312052",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 9187,
+    "population2024": 8625,
     "regionCode": "1000000000",
     "provinceCode": "1001300000",
     "cityMunicipalityCode": "1001312000",

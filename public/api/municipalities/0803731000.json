@@ -4,7 +4,9 @@
     "name": "Mahaplag",
     "code": "083731000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 27865,
+    "population2024": 28424,
     "regionCode": "0800000000",
     "provinceCode": "0803700000",
     "isCapital": false

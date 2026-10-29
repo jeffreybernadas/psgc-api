@@ -4,7 +4,9 @@
     "name": "Tabuan-Lasa",
     "code": "150713000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 29327,
+    "population2024": 38964,
     "regionCode": "1900000000",
     "provinceCode": "1900700000",
     "isCapital": false

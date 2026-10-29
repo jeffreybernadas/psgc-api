@@ -4,7 +4,9 @@
     "name": "Bucloc",
     "code": "140104000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 2395,
+    "population2024": 2264,
     "regionCode": "1400000000",
     "provinceCode": "1400100000",
     "isCapital": false

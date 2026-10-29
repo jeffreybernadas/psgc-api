@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0806026013",
-    "name": "Canlapwas  (Pob.)",
+    "name": "Canlapwas (Pob.)",
     "code": "086026013",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1086,
+    "population2024": 1136,
     "regionCode": "0800000000",
     "provinceCode": "0806000000",
     "cityMunicipalityCode": "0806026000",

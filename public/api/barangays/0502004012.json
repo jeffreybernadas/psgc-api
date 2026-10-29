@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0502004012",
-    "name": "Icanbato  (Pob.)",
+    "name": "Icanbato (Pob.)",
     "code": "052004012",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 823,
+    "population2024": 750,
     "regionCode": "0500000000",
     "provinceCode": "0502000000",
     "cityMunicipalityCode": "0502004000",

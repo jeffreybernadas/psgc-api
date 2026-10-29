@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0502007013",
-    "name": "Salvacion  (Pob.)",
+    "name": "Salvacion (Pob.)",
     "code": "052007013",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 463,
+    "population2024": 529,
     "regionCode": "0500000000",
     "provinceCode": "0502000000",
     "cityMunicipalityCode": "0502007000",

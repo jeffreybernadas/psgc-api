@@ -4,7 +4,9 @@
     "name": "Southern Leyte",
     "code": "086400000",
     "geographicLevel": "Prov",
+    "incomeClassification": "1st",
     "population2020": 429573,
+    "population2024": 434372,
     "regionCode": "0800000000"
   }
 ]

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1731500017",
-    "name": "Kalipay  (Pob.)",
+    "name": "Kalipay (Pob.)",
     "code": "175316017",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 500,
+    "population2024": 548,
     "regionCode": "1700000000",
     "provinceCode": "1731500000",
     "cityMunicipalityCode": "1731500000",

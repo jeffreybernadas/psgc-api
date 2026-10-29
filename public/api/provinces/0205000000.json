@@ -4,7 +4,9 @@
     "name": "Nueva Vizcaya",
     "code": "025000000",
     "geographicLevel": "Prov",
+    "incomeClassification": "1st",
     "population2020": 497432,
+    "population2024": 530106,
     "regionCode": "0200000000"
   }
 ]

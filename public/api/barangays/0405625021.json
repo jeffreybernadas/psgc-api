@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405625021",
-    "name": "Masipag  (Pob.)",
+    "name": "Masipag (Pob.)",
     "code": "045625021",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1090,
+    "population2024": 1014,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405625000",

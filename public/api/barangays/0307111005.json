@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0307111005",
-    "name": "Consuelo Sur  (Pob.)",
+    "name": "Consuelo Sur (Pob.)",
     "code": "037111005",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2053,
+    "population2024": 2080,
     "regionCode": "0300000000",
     "provinceCode": "0307100000",
     "cityMunicipalityCode": "0307111000",

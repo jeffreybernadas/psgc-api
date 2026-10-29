@@ -4,7 +4,9 @@
     "name": "Culasi",
     "code": "060606000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 44494,
+    "population2024": 46442,
     "regionCode": "0600000000",
     "provinceCode": "0600600000",
     "isCapital": false

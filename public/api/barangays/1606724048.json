@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1606724048",
-    "name": "Taft  (Pob.)",
+    "name": "Taft (Pob.)",
     "code": "166724048",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 19242,
+    "population2024": 21290,
     "regionCode": "1600000000",
     "provinceCode": "1606700000",
     "cityMunicipalityCode": "1606724000",

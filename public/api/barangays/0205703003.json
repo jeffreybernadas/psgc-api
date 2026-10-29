@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0205703003",
-    "name": "Aurora West  (Pob.)",
+    "name": "Aurora West (Pob.)",
     "code": "025703003",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2908,
+    "population2024": 2920,
     "regionCode": "0200000000",
     "provinceCode": "0205700000",
     "cityMunicipalityCode": "0205703000",

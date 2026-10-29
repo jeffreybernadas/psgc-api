@@ -4,7 +4,9 @@
     "name": "President Quirino",
     "code": "126510000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 42244,
+    "population2024": 44344,
     "regionCode": "1200000000",
     "provinceCode": "1206500000",
     "isCapital": false

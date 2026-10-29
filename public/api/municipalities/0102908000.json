@@ -4,7 +4,9 @@
     "name": "Cervantes",
     "code": "012908000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 19449,
+    "population2024": 20065,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "isCapital": false

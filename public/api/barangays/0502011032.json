@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0502011032",
-    "name": "Lanao  (Pob.)",
+    "name": "Lanao (Pob.)",
     "code": "052011032",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1008,
+    "population2024": 976,
     "regionCode": "0500000000",
     "provinceCode": "0502000000",
     "cityMunicipalityCode": "0502011000",

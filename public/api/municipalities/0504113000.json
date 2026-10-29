@@ -4,7 +4,9 @@
     "name": "Mobo",
     "code": "054113000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 40823,
+    "population2024": 41199,
     "regionCode": "0500000000",
     "provinceCode": "0504100000",
     "isCapital": false

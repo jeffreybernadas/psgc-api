@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0803701039",
-    "name": "Nalibunan  (Pob.)",
+    "name": "Nalibunan (Pob.)",
     "code": "083701039",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 871,
+    "population2024": 746,
     "regionCode": "0800000000",
     "provinceCode": "0803700000",
     "cityMunicipalityCode": "0803701000",

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1804503004",
-    "name": "Canmoros  (Pob.)",
+    "name": "Canmoros (Pob.)",
     "code": "064503004",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 4316,
+    "population2024": 4590,
     "regionCode": "1800000000",
     "provinceCode": "1804500000",
     "cityMunicipalityCode": "1804503000",

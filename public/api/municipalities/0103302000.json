@@ -4,7 +4,9 @@
     "name": "Aringay",
     "code": "013302000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 50380,
+    "population2024": 50786,
     "regionCode": "0100000000",
     "provinceCode": "0103300000",
     "isCapital": false

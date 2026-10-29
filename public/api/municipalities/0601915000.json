@@ -4,7 +4,9 @@
     "name": "Sapi-An",
     "code": "061915000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 26697,
+    "population2024": 27377,
     "regionCode": "0600000000",
     "provinceCode": "0601900000",
     "isCapital": false

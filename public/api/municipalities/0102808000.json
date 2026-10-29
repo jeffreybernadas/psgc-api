@@ -4,7 +4,9 @@
     "name": "Currimao",
     "code": "012808000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 12215,
+    "population2024": 12256,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "isCapital": false

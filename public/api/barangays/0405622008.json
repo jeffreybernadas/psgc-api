@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405622008",
-    "name": "Talolong  (Pob.)",
+    "name": "Talolong (Pob.)",
     "code": "045622008",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 4241,
+    "population2024": 3857,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405622000",

@@ -4,7 +4,9 @@
     "name": "Baras",
     "code": "052002000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 13484,
+    "population2024": 12992,
     "regionCode": "0500000000",
     "provinceCode": "0502000000",
     "isCapital": false

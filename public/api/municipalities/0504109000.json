@@ -4,7 +4,9 @@
     "name": "Esperanza",
     "code": "054109000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 17534,
+    "population2024": 18021,
     "regionCode": "0500000000",
     "provinceCode": "0504100000",
     "isCapital": false

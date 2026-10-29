@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405619003",
-    "name": "Bagong Buhay  (Pob.)",
+    "name": "Bagong Buhay (Pob.)",
     "code": "045619003",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1140,
+    "population2024": 959,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405619000",

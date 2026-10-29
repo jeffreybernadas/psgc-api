@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0500508013",
-    "name": "Binatagan  (Pob.)",
+    "name": "Binatagan (Pob.)",
     "code": "050508013",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 3989,
+    "population2024": 4430,
     "regionCode": "0500000000",
     "provinceCode": "0500500000",
     "cityMunicipalityCode": "0500508000",

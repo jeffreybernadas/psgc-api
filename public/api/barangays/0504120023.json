@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0504120023",
-    "name": "Terraplin  (Pob.)",
+    "name": "Terraplin (Pob.)",
     "code": "054120023",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1618,
+    "population2024": 1587,
     "regionCode": "0500000000",
     "provinceCode": "0504100000",
     "cityMunicipalityCode": "0504120000",

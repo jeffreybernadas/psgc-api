@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0403414013",
-    "name": "Sinagtala  (Pob.)",
+    "name": "Sinagtala (Pob.)",
     "code": "043414013",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 883,
+    "population2024": 1041,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "cityMunicipalityCode": "0403414000",

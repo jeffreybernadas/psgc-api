@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "0405802000",
-    "name": "City of Antipolo ",
+    "name": "City of Antipolo",
     "code": "045802000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "1st",
     "population2020": 887399,
+    "population2024": 913712,
     "regionCode": "0400000000",
     "provinceCode": "0405800000",
     "isCapital": true

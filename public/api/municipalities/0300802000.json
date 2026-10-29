@@ -4,7 +4,9 @@
     "name": "Bagac",
     "code": "030802000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 31365,
+    "population2024": 32799,
     "regionCode": "0300000000",
     "provinceCode": "0300800000",
     "isCapital": false

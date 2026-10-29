@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907328020",
-    "name": "Lower Lodiong  (Pob.)",
+    "name": "Lower Lodiong (Pob.)",
     "code": "097328020",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2045,
+    "population2024": 2088,
     "regionCode": "0900000000",
     "provinceCode": "0907300000",
     "cityMunicipalityCode": "0907328000",

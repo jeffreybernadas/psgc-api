@@ -4,7 +4,10 @@
     "name": "Santa Monica",
     "code": "166721000",
     "geographicLevel": "Mun",
+    "oldName": "Sapao",
+    "incomeClassification": "5th",
     "population2020": 9423,
+    "population2024": 9757,
     "regionCode": "1600000000",
     "provinceCode": "1606700000",
     "isCapital": false

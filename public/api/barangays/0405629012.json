@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405629012",
-    "name": "Campo  (Pob.)",
+    "name": "Campo (Pob.)",
     "code": "045629012",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 744,
+    "population2024": 670,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405629000",

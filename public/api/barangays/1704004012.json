@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1704004012",
-    "name": "Gitnang Bayan  (Pob.)",
+    "name": "Gitnang Bayan (Pob.)",
     "code": "174004012",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 440,
+    "population2024": 426,
     "regionCode": "1700000000",
     "provinceCode": "1704000000",
     "cityMunicipalityCode": "1704004000",

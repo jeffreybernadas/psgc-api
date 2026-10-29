@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1108211004",
-    "name": "Kingking  (Pob.)",
+    "name": "Kingking (Pob.)",
     "code": "118211004",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 29317,
+    "population2024": 30367,
     "regionCode": "1100000000",
     "provinceCode": "1108200000",
     "cityMunicipalityCode": "1108211000",

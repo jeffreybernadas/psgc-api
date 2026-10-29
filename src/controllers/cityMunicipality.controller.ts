@@ -1,6 +1,6 @@
 import { Request, Response } from 'express';
-import fs from 'fs';
-import path from 'path';
+import fs from 'node:fs';
+import path from 'node:path';
 import { NOT_FOUND, OK } from '../constants/http.constant';
 import { publicDir } from '../constants/util.constant';
 import {
@@ -24,20 +24,18 @@ export const getCityMunicipalities = catchErrors(
     const cityFiles = fs.readdirSync(citiesDir);
     const cities: CityResponse[] = cityFiles
       .filter((file) => file.endsWith('.json'))
-      .map((file) =>
+      .flatMap((file) =>
         JSON.parse(fs.readFileSync(path.join(citiesDir, file), 'utf8')),
-      )
-      .flat();
+      );
 
     // Get municipalities
     const municipalitiesDir = path.join(publicDir, 'api/municipalities');
     const municipalityFiles = fs.readdirSync(municipalitiesDir);
     const municipalities: MunicipalityResponse[] = municipalityFiles
       .filter((file) => file.endsWith('.json'))
-      .map((file) =>
+      .flatMap((file) =>
         JSON.parse(fs.readFileSync(path.join(municipalitiesDir, file), 'utf8')),
-      )
-      .flat();
+      );
 
     const combinedData = [...cities, ...municipalities];
     const response = paginateData(combinedData, paginationParams);

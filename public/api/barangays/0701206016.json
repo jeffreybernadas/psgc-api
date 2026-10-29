@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0701206016",
-    "name": "Del Carmen Weste  (Pob.)",
+    "name": "Del Carmen Weste (Pob.)",
     "code": "071206016",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 892,
+    "population2024": 903,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "cityMunicipalityCode": "0701206000",

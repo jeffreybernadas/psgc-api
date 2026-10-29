@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0304928020",
-    "name": "Valenzuela  (Pob.)",
+    "name": "Valenzuela (Pob.)",
     "code": "034928020",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2682,
+    "population2024": 2635,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "cityMunicipalityCode": "0304928000",

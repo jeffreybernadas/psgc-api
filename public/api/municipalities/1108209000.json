@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "1108209000",
-    "name": "Nabunturan ",
+    "name": "Nabunturan",
     "code": "118209000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 84340,
+    "population2024": 85949,
     "regionCode": "1100000000",
     "provinceCode": "1108200000",
     "isCapital": true

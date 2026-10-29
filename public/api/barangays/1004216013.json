@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1004216013",
-    "name": "Centro Upper  (Pob.)",
+    "name": "Centro Upper (Pob.)",
     "code": "104216013",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 828,
+    "population2024": 785,
     "regionCode": "1000000000",
     "provinceCode": "1004200000",
     "cityMunicipalityCode": "1004216000",

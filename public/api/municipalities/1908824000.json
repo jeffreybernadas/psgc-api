@@ -4,7 +4,9 @@
     "name": "Talayan",
     "code": "153816000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 34156,
+    "population2024": 39182,
     "regionCode": "1900000000",
     "provinceCode": "1908800000",
     "isCapital": false

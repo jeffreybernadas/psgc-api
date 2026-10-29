@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705317001",
-    "name": "Alfonso XIII  (Pob.)",
+    "name": "Alfonso XIII (Pob.)",
     "code": "175317001",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 16145,
+    "population2024": 17140,
     "regionCode": "1700000000",
     "provinceCode": "1705300000",
     "cityMunicipalityCode": "1705317000",

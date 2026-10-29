@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0105534003",
-    "name": "Capaoay  (Pob.)",
+    "name": "Capaoay (Pob.)",
     "code": "015534003",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 2436,
+    "population2024": 2255,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "cityMunicipalityCode": "0105534000",

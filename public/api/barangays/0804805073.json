@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0804805073",
-    "name": "Sampaguita  (Pob.)",
+    "name": "Sampaguita (Pob.)",
     "code": "084805073",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 446,
+    "population2024": 455,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "cityMunicipalityCode": "0804805000",

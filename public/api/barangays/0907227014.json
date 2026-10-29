@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907227014",
-    "name": "Tugop*",
+    "name": "Tugop",
     "code": "097227014",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 875,
+    "population2024": 698,
     "regionCode": "0900000000",
     "provinceCode": "0907200000",
     "cityMunicipalityCode": "0907227000",

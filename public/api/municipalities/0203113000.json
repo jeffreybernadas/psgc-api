@@ -4,7 +4,9 @@
     "name": "Gamu",
     "code": "023113000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 30655,
+    "population2024": 30850,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "isCapital": false

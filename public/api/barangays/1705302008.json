@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705302008",
-    "name": "Bangcal  (Pob.)",
+    "name": "Bangcal (Pob.)",
     "code": "175302008",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 267,
+    "population2024": 250,
     "regionCode": "1700000000",
     "provinceCode": "1705300000",
     "cityMunicipalityCode": "1705302000",

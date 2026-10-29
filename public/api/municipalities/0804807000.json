@@ -4,7 +4,9 @@
     "name": "Gamay",
     "code": "084807000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 23367,
+    "population2024": 21546,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "isCapital": false

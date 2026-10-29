@@ -4,7 +4,9 @@
     "name": "Paoay",
     "code": "012816000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 25001,
+    "population2024": 24204,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "isCapital": false

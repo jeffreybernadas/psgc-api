@@ -4,7 +4,9 @@
     "name": "Sogod",
     "code": "072247000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 39447,
+    "population2024": 40746,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "isCapital": false

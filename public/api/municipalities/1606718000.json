@@ -4,7 +4,9 @@
     "name": "San Benito",
     "code": "166718000",
     "geographicLevel": "Mun",
+    "incomeClassification": "5th",
     "population2020": 5663,
+    "population2024": 5880,
     "regionCode": "1600000000",
     "provinceCode": "1606700000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "San Roque",
     "code": "084820000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 29882,
+    "population2024": 29993,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "isCapital": false

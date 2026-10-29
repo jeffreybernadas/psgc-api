@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "0500503034",
-    "name": "Market Area Pob. ",
+    "name": "Market Area Pob.",
     "code": "050503034",
     "geographicLevel": "Brgy",
+    "oldName": "Dist. 1",
     "urbanRural": "Urban",
     "population2020": 3170,
+    "population2024": 3311,
     "regionCode": "0500000000",
     "provinceCode": "0500500000",
     "cityMunicipalityCode": "0500503000",

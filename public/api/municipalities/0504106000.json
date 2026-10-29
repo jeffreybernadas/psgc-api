@@ -4,7 +4,9 @@
     "name": "Cawayan",
     "code": "054106000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 69265,
+    "population2024": 68510,
     "regionCode": "0500000000",
     "provinceCode": "0504100000",
     "isCapital": false

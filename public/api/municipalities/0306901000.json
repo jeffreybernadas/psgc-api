@@ -4,7 +4,9 @@
     "name": "Anao",
     "code": "036901000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 12208,
+    "population2024": 12865,
     "regionCode": "0300000000",
     "provinceCode": "0306900000",
     "isCapital": false

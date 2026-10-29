@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501702013",
-    "name": "Siramag  (Pob.)",
+    "name": "Siramag (Pob.)",
     "code": "051702013",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 4969,
+    "population2024": 4624,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501702000",

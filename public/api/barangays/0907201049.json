@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907201049",
-    "name": "Banonong  (Pob.)",
+    "name": "Banonong (Pob.)",
     "code": "097201049",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 4164,
+    "population2024": 4148,
     "regionCode": "0900000000",
     "provinceCode": "0907200000",
     "cityMunicipalityCode": "0907201000",

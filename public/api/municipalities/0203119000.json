@@ -4,7 +4,9 @@
     "name": "Mallig",
     "code": "023119000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 32208,
+    "population2024": 32509,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "isCapital": false

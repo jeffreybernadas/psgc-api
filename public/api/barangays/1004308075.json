@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1004308075",
-    "name": "Barangay 24-A  (Pob.)",
+    "name": "Barangay 24-A (Pob.)",
     "code": "104308075",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 4046,
+    "population2024": 4359,
     "regionCode": "1000000000",
     "provinceCode": "1004300000",
     "cityMunicipalityCode": "1004308000",

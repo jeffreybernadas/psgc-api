@@ -4,7 +4,9 @@
     "name": "Porac",
     "code": "035415000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 140751,
+    "population2024": 147551,
     "regionCode": "0300000000",
     "provinceCode": "0305400000",
     "isCapital": false

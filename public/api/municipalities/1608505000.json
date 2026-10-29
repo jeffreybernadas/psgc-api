@@ -4,7 +4,9 @@
     "name": "Loreto",
     "code": "168505000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 9690,
+    "population2024": 9940,
     "regionCode": "1600000000",
     "provinceCode": "1608500000",
     "isCapital": false

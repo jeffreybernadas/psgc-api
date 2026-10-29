@@ -4,7 +4,9 @@
     "name": "Nabas",
     "code": "060414000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 40632,
+    "population2024": 41568,
     "regionCode": "0600000000",
     "provinceCode": "0600400000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0804819029",
-    "name": "Barangay East  (Pob.)",
+    "name": "Barangay East (Pob.)",
     "code": "084819029",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 875,
+    "population2024": 840,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "cityMunicipalityCode": "0804819000",

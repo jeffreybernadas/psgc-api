@@ -4,7 +4,9 @@
     "name": "Santa Ana",
     "code": "021523000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 35688,
+    "population2024": 34595,
     "regionCode": "0200000000",
     "provinceCode": "0201500000",
     "isCapital": false

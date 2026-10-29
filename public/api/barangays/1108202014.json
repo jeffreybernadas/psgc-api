@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1108202014",
-    "name": "Laac  (Pob.)",
+    "name": "Laac (Pob.)",
     "code": "118202014",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 7995,
+    "population2024": 8005,
     "regionCode": "1100000000",
     "provinceCode": "1108200000",
     "cityMunicipalityCode": "1108202000",

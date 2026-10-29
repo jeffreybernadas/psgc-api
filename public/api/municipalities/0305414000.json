@@ -4,7 +4,9 @@
     "name": "Minalin",
     "code": "035414000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 48380,
+    "population2024": 50126,
     "regionCode": "0300000000",
     "provinceCode": "0305400000",
     "isCapital": false

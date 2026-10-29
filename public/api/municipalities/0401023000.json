@@ -4,7 +4,9 @@
     "name": "San Juan",
     "code": "041023000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 114068,
+    "population2024": 115118,
     "regionCode": "0400000000",
     "provinceCode": "0401000000",
     "isCapital": false

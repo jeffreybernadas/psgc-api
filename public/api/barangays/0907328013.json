@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907328013",
-    "name": "Happy Valley  (Pob.)",
+    "name": "Happy Valley (Pob.)",
     "code": "097328013",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2151,
+    "population2024": 2161,
     "regionCode": "0900000000",
     "provinceCode": "0907300000",
     "cityMunicipalityCode": "0907328000",

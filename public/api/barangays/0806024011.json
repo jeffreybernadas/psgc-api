@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0806024011",
-    "name": "Sugod  (Pob.)",
+    "name": "Sugod (Pob.)",
     "code": "086024011",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 680,
+    "population2024": 805,
     "regionCode": "0800000000",
     "provinceCode": "0806000000",
     "cityMunicipalityCode": "0806024000",

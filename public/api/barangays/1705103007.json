@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705103007",
-    "name": "Guitna  (Pob.)",
+    "name": "Guitna (Pob.)",
     "code": "175103007",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 412,
+    "population2024": 645,
     "regionCode": "1700000000",
     "provinceCode": "1705100000",
     "cityMunicipalityCode": "1705103000",

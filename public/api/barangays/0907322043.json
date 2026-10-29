@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907322043",
-    "name": "Santiago  (Pob.)",
+    "name": "Santiago (Pob.)",
     "code": "097322043",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 3125,
+    "population2024": 2585,
     "regionCode": "0900000000",
     "provinceCode": "0907300000",
     "cityMunicipalityCode": "0907322000",

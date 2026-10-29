@@ -4,7 +4,9 @@
     "name": "Calayan",
     "code": "021509000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 17410,
+    "population2024": 18008,
     "regionCode": "0200000000",
     "provinceCode": "0201500000",
     "isCapital": false

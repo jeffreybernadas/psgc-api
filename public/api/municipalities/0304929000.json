@@ -4,7 +4,9 @@
     "name": "Santo Domingo",
     "code": "034929000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 61092,
+    "population2024": 63750,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "isCapital": false

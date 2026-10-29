@@ -4,7 +4,9 @@
     "name": "Calamba",
     "code": "104204000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 23227,
+    "population2024": 23808,
     "regionCode": "1000000000",
     "provinceCode": "1004200000",
     "isCapital": false

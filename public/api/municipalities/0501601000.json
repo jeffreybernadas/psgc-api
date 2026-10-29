@@ -4,7 +4,9 @@
     "name": "Basud",
     "code": "051601000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 45133,
+    "population2024": 43388,
     "regionCode": "0500000000",
     "provinceCode": "0501600000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0306904003",
-    "name": "Cubcub  (Pob.)",
+    "name": "Cubcub (Pob.)",
     "code": "036904003",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 4039,
+    "population2024": 4110,
     "regionCode": "0300000000",
     "provinceCode": "0306900000",
     "cityMunicipalityCode": "0306904000",

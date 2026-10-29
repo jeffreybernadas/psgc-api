@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405630023",
-    "name": "Barangay 5 Santa Catalina  (Pob.)",
+    "name": "Barangay 5 Santa Catalina (Pob.)",
     "code": "045630023",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1240,
+    "population2024": 1192,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405630000",

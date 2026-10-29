@@ -4,7 +4,9 @@
     "name": "San Andres",
     "code": "045640000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 37454,
+    "population2024": 38407,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "isCapital": false

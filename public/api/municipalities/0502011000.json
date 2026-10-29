@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "0502011000",
-    "name": "Virac ",
+    "name": "Virac",
     "code": "052011000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 76520,
+    "population2024": 75135,
     "regionCode": "0500000000",
     "provinceCode": "0502000000",
     "isCapital": true

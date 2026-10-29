@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "1001804000",
-    "name": "Mambajao ",
+    "name": "Mambajao",
     "code": "101804000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 41094,
+    "population2024": 41782,
     "regionCode": "1000000000",
     "provinceCode": "1001800000",
     "isCapital": true

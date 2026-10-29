@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907203016",
-    "name": "Barangay Uno  (Pob.)",
+    "name": "Barangay Uno (Pob.)",
     "code": "097203016",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 2813,
+    "population2024": 2744,
     "regionCode": "0900000000",
     "provinceCode": "0907200000",
     "cityMunicipalityCode": "0907203000",

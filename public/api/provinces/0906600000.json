@@ -4,7 +4,9 @@
     "name": "Sulu",
     "code": "156600000",
     "geographicLevel": "Prov",
+    "incomeClassification": "1st",
     "population2020": 1000108,
+    "population2024": 1146097,
     "regionCode": "0900000000"
   }
 ]

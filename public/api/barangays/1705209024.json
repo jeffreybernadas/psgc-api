@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705209024",
-    "name": "Zone II  (Pob.)",
+    "name": "Zone II (Pob.)",
     "code": "175209024",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2994,
+    "population2024": 2863,
     "regionCode": "1700000000",
     "provinceCode": "1705200000",
     "cityMunicipalityCode": "1705209000",

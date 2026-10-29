@@ -4,7 +4,9 @@
     "name": "Talakag",
     "code": "101320000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 77027,
+    "population2024": 81932,
     "regionCode": "1000000000",
     "provinceCode": "1001300000",
     "isCapital": false

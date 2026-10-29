@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0806418003",
-    "name": "Bogo  (Pob.)",
+    "name": "Bogo (Pob.)",
     "code": "086418003",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1022,
+    "population2024": 1133,
     "regionCode": "0800000000",
     "provinceCode": "0806400000",
     "cityMunicipalityCode": "0806418000",

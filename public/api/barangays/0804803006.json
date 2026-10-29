@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0804803006",
-    "name": "Gen. Lucban  (Pob.)",
+    "name": "Gen. Lucban (Pob.)",
     "code": "084803006",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1662,
+    "population2024": 1441,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "cityMunicipalityCode": "0804803000",

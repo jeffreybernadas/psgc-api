@@ -4,7 +4,9 @@
     "name": "Abulug",
     "code": "021501000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 34579,
+    "population2024": 35347,
     "regionCode": "0200000000",
     "provinceCode": "0201500000",
     "isCapital": false

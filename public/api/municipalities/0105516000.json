@@ -4,7 +4,9 @@
     "name": "Burgos",
     "code": "015516000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 23749,
+    "population2024": 23240,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "isCapital": false

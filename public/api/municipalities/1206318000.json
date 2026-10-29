@@ -4,7 +4,9 @@
     "name": "Santo Niño",
     "code": "126318000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 39796,
+    "population2024": 41026,
     "regionCode": "1200000000",
     "provinceCode": "1206300000",
     "isCapital": false

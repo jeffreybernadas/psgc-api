@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1001304022",
-    "name": "Don Carlos Sur  (Pob.)",
+    "name": "Don Carlos Sur (Pob.)",
     "code": "101304022",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 11375,
+    "population2024": 11645,
     "regionCode": "1000000000",
     "provinceCode": "1001300000",
     "cityMunicipalityCode": "1001304000",

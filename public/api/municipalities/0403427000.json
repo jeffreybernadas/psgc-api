@@ -4,7 +4,9 @@
     "name": "Santa Maria",
     "code": "043427000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 34511,
+    "population2024": 34102,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "isCapital": false

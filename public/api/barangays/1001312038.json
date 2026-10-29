@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1001312038",
-    "name": "Barangay 1  (Pob.)",
+    "name": "Barangay 1 (Pob.)",
     "code": "101312038",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 6442,
+    "population2024": 6455,
     "regionCode": "1000000000",
     "provinceCode": "1001300000",
     "cityMunicipalityCode": "1001312000",

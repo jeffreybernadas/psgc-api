@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405619026",
-    "name": "Mabini  (Pob.)",
+    "name": "Mabini (Pob.)",
     "code": "045619026",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2227,
+    "population2024": 2181,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405619000",

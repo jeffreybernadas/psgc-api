@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1731500044",
-    "name": "Princesa  (Pob.)",
+    "name": "Princesa (Pob.)",
     "code": "175316044",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 1003,
+    "population2024": 898,
     "regionCode": "1700000000",
     "provinceCode": "1731500000",
     "cityMunicipalityCode": "1731500000",

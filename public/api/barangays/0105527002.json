@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0105527002",
-    "name": "Arellano Street  (Pob.)",
+    "name": "Arellano Street (Pob.)",
     "code": "015527002",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 528,
+    "population2024": 414,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "cityMunicipalityCode": "0105527000",

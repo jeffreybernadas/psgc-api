@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0203117004",
-    "name": "Lita  (Pob.)",
+    "name": "Lita (Pob.)",
     "code": "023117004",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 294,
+    "population2024": 308,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "cityMunicipalityCode": "0203117000",

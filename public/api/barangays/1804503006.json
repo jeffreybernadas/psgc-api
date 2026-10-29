@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1804503006",
-    "name": "Marina  (Pob.)",
+    "name": "Marina (Pob.)",
     "code": "064503006",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1963,
+    "population2024": 1923,
     "regionCode": "1800000000",
     "provinceCode": "1804500000",
     "cityMunicipalityCode": "1804503000",

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501709007",
-    "name": "San Lucas  (Pob.)",
+    "name": "San Lucas (Pob.)",
     "code": "051709007",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 496,
+    "population2024": 477,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501709000",

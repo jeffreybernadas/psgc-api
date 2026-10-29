@@ -4,7 +4,9 @@
     "name": "Binmaley",
     "code": "015513000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 86881,
+    "population2024": 88006,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "isCapital": false

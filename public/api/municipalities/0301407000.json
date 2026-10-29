@@ -4,7 +4,9 @@
     "name": "Calumpit",
     "code": "031407000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 118471,
+    "population2024": 122187,
     "regionCode": "0300000000",
     "provinceCode": "0301400000",
     "isCapital": false

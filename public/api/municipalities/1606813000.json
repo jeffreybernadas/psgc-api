@@ -4,7 +4,9 @@
     "name": "Madrid",
     "code": "166813000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 16653,
+    "population2024": 16872,
     "regionCode": "1600000000",
     "provinceCode": "1606800000",
     "isCapital": false

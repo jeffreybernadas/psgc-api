@@ -4,7 +4,10 @@
     "name": "President Carlos P. Garcia",
     "code": "071235000",
     "geographicLevel": "Mun",
+    "oldName": "Pitogo",
+    "incomeClassification": "3rd",
     "population2020": 23625,
+    "population2024": 23858,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "isCapital": false

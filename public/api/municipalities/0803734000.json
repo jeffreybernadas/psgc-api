@@ -4,7 +4,9 @@
     "name": "Matalom",
     "code": "083734000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 32586,
+    "population2024": 32604,
     "regionCode": "0800000000",
     "provinceCode": "0803700000",
     "isCapital": false

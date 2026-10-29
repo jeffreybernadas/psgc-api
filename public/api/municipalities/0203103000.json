@@ -4,7 +4,9 @@
     "name": "Aurora",
     "code": "023103000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 36621,
+    "population2024": 37191,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "isCapital": false

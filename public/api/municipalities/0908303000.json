@@ -4,7 +4,9 @@
     "name": "Diplahan",
     "code": "098303000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 32585,
+    "population2024": 32423,
     "regionCode": "0900000000",
     "provinceCode": "0908300000",
     "isCapital": false

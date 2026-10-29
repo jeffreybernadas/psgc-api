@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405607061",
-    "name": "Pinagsakahan",
+    "name": "Pinagsakayan",
     "code": "045607061",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 810,
+    "population2024": 743,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405607000",

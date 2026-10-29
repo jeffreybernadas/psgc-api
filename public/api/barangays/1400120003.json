@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1400120003",
-    "name": "Gangal  (Pob.)",
+    "name": "Gangal (Pob.)",
     "code": "140120003",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 866,
+    "population2024": 863,
     "regionCode": "1400000000",
     "provinceCode": "1400100000",
     "cityMunicipalityCode": "1400120000",

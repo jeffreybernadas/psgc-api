@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907319020",
-    "name": "Maloloy-on  (Pob.)",
+    "name": "Maloloy-on (Pob.)",
     "code": "097319020",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 4617,
+    "population2024": 3504,
     "regionCode": "0900000000",
     "provinceCode": "0907300000",
     "cityMunicipalityCode": "0907319000",

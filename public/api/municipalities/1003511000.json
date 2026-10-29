@@ -4,7 +4,9 @@
     "name": "Magsaysay",
     "code": "103511000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 20463,
+    "population2024": 20581,
     "regionCode": "1000000000",
     "provinceCode": "1003500000",
     "isCapital": false

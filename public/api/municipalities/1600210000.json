@@ -4,7 +4,9 @@
     "name": "Santiago",
     "code": "160210000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 28657,
+    "population2024": 33877,
     "regionCode": "1600000000",
     "provinceCode": "1600200000",
     "isCapital": false

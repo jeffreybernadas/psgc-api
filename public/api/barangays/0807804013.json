@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0807804013",
-    "name": "Palengke  (Pob.)",
+    "name": "Palengke (Pob.)",
     "code": "087804013",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1125,
+    "population2024": 1115,
     "regionCode": "0800000000",
     "provinceCode": "0807800000",
     "cityMunicipalityCode": "0807804000",

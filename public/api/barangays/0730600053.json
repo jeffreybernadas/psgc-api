@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0730600053",
-    "name": "Pardo  (Pob.)",
+    "name": "Pardo (Pob.)",
     "code": "072217053",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 12016,
+    "population2024": 12217,
     "regionCode": "0700000000",
     "provinceCode": "0730600000",
     "cityMunicipalityCode": "0730600000",

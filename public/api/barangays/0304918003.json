@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0304918003",
-    "name": "Cabaducan East  (Pob.)",
+    "name": "Cabaducan East (Pob.)",
     "code": "034918003",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1707,
+    "population2024": 1802,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "cityMunicipalityCode": "0304918000",

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0105527056",
-    "name": "Olegario-Caoile  (Pob.)",
+    "name": "Olegario-Caoile (Pob.)",
     "code": "015527056",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 495,
+    "population2024": 419,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "cityMunicipalityCode": "0105527000",

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0403405040",
-    "name": "Barangay 3  (Pob.)",
+    "name": "Barangay 3 (Pob.)",
     "code": "043405040",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 4537,
+    "population2024": 4060,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "cityMunicipalityCode": "0403405000",

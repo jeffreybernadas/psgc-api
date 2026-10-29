@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "1804610000",
-    "name": "City of Dumaguete ",
+    "name": "City of Dumaguete",
     "code": "074610000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "2nd",
     "population2020": 134103,
+    "population2024": 142171,
     "regionCode": "1800000000",
     "provinceCode": "1804600000",
     "isCapital": true

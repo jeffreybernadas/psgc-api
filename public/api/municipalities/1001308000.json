@@ -4,7 +4,9 @@
     "name": "Kibawe",
     "code": "101308000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 41897,
+    "population2024": 43491,
     "regionCode": "1000000000",
     "provinceCode": "1001300000",
     "isCapital": false

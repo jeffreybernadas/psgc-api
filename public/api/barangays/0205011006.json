@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0205011006",
-    "name": "Caliat  (Pob.)",
+    "name": "Caliat (Pob.)",
     "code": "025011006",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1998,
+    "population2024": 2223,
     "regionCode": "0200000000",
     "provinceCode": "0205000000",
     "cityMunicipalityCode": "0205011000",

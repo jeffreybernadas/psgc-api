@@ -4,7 +4,9 @@
     "name": "San Rafael",
     "code": "063042000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 17795,
+    "population2024": 18293,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "isCapital": false

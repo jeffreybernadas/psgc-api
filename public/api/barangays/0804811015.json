@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0804811015",
-    "name": "Ocad  (Pob.)",
+    "name": "Ocad (Pob.)",
     "code": "084811015",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1104,
+    "population2024": 959,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "cityMunicipalityCode": "0804811000",

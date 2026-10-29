@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0305412026",
-    "name": "Sta. Lucia Anac  (Pob.)",
+    "name": "Sta. Lucia Anac (Pob.)",
     "code": "035412026",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1212,
+    "population2024": 1339,
     "regionCode": "0300000000",
     "provinceCode": "0305400000",
     "cityMunicipalityCode": "0305412000",

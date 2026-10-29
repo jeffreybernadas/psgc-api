@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1108605004",
-    "name": "Mabila  (Pob.)",
+    "name": "Mabila (Pob.)",
     "code": "118605004",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 5253,
+    "population2024": 5117,
     "regionCode": "1100000000",
     "provinceCode": "1108600000",
     "cityMunicipalityCode": "1108605000",

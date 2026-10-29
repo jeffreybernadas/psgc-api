@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "0402122000",
-    "name": "City of Trece Martires ",
+    "name": "City of Trece Martires",
     "code": "042122000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "2nd",
     "population2020": 210503,
+    "population2024": 227892,
     "regionCode": "0400000000",
     "provinceCode": "0402100000",
     "isCapital": true

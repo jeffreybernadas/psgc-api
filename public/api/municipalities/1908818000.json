@@ -4,7 +4,9 @@
     "name": "Pandag",
     "code": "153833000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 26356,
+    "population2024": 29244,
     "regionCode": "1900000000",
     "provinceCode": "1908800000",
     "isCapital": false

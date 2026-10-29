@@ -4,7 +4,9 @@
     "name": "Sigay",
     "code": "012929000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 2552,
+    "population2024": 2577,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "isCapital": false

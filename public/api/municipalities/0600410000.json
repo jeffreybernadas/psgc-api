@@ -4,7 +4,9 @@
     "name": "Madalag",
     "code": "060410000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 18890,
+    "population2024": 19043,
     "regionCode": "0600000000",
     "provinceCode": "0600400000",
     "isCapital": false

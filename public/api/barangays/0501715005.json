@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501715005",
-    "name": "Belen  (Pob.)",
+    "name": "Belen (Pob.)",
     "code": "051715005",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1852,
+    "population2024": 1539,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501715000",

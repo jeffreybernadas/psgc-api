@@ -4,7 +4,9 @@
     "name": "Balatan",
     "code": "051702000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 30669,
+    "population2024": 31069,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "Sapad",
     "code": "103519000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 22974,
+    "population2024": 24826,
     "regionCode": "1000000000",
     "provinceCode": "1003500000",
     "isCapital": false

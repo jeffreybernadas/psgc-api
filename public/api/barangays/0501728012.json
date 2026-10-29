@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501728012",
-    "name": "Old San Roque  (Pob.)",
+    "name": "Old San Roque (Pob.)",
     "code": "051728012",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 942,
+    "population2024": 1027,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501728000",

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1731500059",
-    "name": "Tagumpay  (Pob.)",
+    "name": "Tagumpay (Pob.)",
     "code": "175316059",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 782,
+    "population2024": 510,
     "regionCode": "1700000000",
     "provinceCode": "1731500000",
     "cityMunicipalityCode": "1731500000",

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0603020007",
-    "name": "Torreblanca-Blumentritt  (Pob.)",
+    "name": "Torreblanca-Blumentritt (Pob.)",
     "code": "063020007",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 472,
+    "population2024": 444,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "cityMunicipalityCode": "0603020000",

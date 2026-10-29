@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0702209004",
-    "name": "Binaobao  (Pob.)",
+    "name": "Binaobao (Pob.)",
     "code": "072209004",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2689,
+    "population2024": 2184,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "cityMunicipalityCode": "0702209000",

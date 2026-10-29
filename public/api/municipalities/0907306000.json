@@ -4,7 +4,9 @@
     "name": "Dinas",
     "code": "097306000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 36291,
+    "population2024": 35409,
     "regionCode": "0900000000",
     "provinceCode": "0907300000",
     "isCapital": false

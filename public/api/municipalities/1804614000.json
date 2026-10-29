@@ -4,7 +4,9 @@
     "name": "Mabinay",
     "code": "074614000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 82953,
+    "population2024": 85770,
     "regionCode": "1800000000",
     "provinceCode": "1804600000",
     "isCapital": false

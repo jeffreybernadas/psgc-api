@@ -4,7 +4,9 @@
     "name": "Tubo",
     "code": "140126000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 5674,
+    "population2024": 4941,
     "regionCode": "1400000000",
     "provinceCode": "1400100000",
     "isCapital": false

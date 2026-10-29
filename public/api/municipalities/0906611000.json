@@ -4,7 +4,9 @@
     "name": "Patikul",
     "code": "156611000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 79564,
+    "population2024": 92600,
     "regionCode": "0900000000",
     "provinceCode": "0906600000",
     "isCapital": false

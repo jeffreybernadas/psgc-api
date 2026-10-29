@@ -4,7 +4,9 @@
     "name": "Sarangani",
     "code": "128000000",
     "geographicLevel": "Prov",
+    "incomeClassification": "1st",
     "population2020": 558946,
+    "population2024": 580915,
     "regionCode": "1200000000"
   }
 ]

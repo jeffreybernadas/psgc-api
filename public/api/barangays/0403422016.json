@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0403422016",
-    "name": "Santa Clara Norte  (Pob.)",
+    "name": "Santa Clara Norte (Pob.)",
     "code": "043422016",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2501,
+    "population2024": 2264,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "cityMunicipalityCode": "0403422000",

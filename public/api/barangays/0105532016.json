@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0105532016",
-    "name": "Bugallon-Posadas Street  (Pob.)",
+    "name": "Bugallon-Posadas Street (Pob.)",
     "code": "015532016",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 801,
+    "population2024": 833,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "cityMunicipalityCode": "0105532000",

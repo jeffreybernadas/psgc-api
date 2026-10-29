@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0304911062",
-    "name": "Saranay District  (Pob.)",
+    "name": "Saranay District (Pob.)",
     "code": "034911062",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2591,
+    "population2024": 2631,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "cityMunicipalityCode": "0304911000",

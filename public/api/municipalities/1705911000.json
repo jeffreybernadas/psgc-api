@@ -4,7 +4,9 @@
     "name": "San Agustin",
     "code": "175911000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 24115,
+    "population2024": 23698,
     "regionCode": "1700000000",
     "provinceCode": "1705900000",
     "isCapital": false

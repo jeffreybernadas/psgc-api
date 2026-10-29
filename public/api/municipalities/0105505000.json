@@ -4,7 +4,9 @@
     "name": "Anda",
     "code": "015505000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 41548,
+    "population2024": 42688,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "isCapital": false

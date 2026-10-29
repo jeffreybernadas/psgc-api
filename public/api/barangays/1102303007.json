@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1102303007",
-    "name": "Ising  (Pob.)",
+    "name": "Ising (Pob.)",
     "code": "112303007",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 14204,
+    "population2024": 14509,
     "regionCode": "1100000000",
     "provinceCode": "1102300000",
     "cityMunicipalityCode": "1102303000",

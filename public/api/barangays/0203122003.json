@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0203122003",
-    "name": "Arellano  (Pob.)",
+    "name": "Arellano (Pob.)",
     "code": "023122003",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 2831,
+    "population2024": 2674,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "cityMunicipalityCode": "0203122000",

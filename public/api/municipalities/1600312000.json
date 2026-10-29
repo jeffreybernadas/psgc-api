@@ -4,7 +4,9 @@
     "name": "Trento",
     "code": "160312000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 54492,
+    "population2024": 51179,
     "regionCode": "1600000000",
     "provinceCode": "1600300000",
     "isCapital": false

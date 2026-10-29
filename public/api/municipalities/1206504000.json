@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "1206504000",
-    "name": "Isulan ",
+    "name": "Isulan",
     "code": "126504000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 97490,
+    "population2024": 101455,
     "regionCode": "1200000000",
     "provinceCode": "1206500000",
     "isCapital": true

@@ -4,7 +4,9 @@
     "name": "Basista",
     "code": "015509000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 37679,
+    "population2024": 37840,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "Buruanga",
     "code": "060405000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 19357,
+    "population2024": 19878,
     "regionCode": "0600000000",
     "provinceCode": "0600400000",
     "isCapital": false

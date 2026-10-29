@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907227007",
-    "name": "Kalawit  (Pob.)",
+    "name": "Kalawit (Pob.)",
     "code": "097227007",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 5091,
+    "population2024": 4929,
     "regionCode": "0900000000",
     "provinceCode": "0907200000",
     "cityMunicipalityCode": "0907227000",

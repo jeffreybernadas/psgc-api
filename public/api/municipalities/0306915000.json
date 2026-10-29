@@ -4,7 +4,9 @@
     "name": "Santa Ignacia",
     "code": "036915000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 51626,
+    "population2024": 53620,
     "regionCode": "0300000000",
     "provinceCode": "0306900000",
     "isCapital": false

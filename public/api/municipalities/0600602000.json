@@ -4,7 +4,9 @@
     "name": "Barbaza",
     "code": "060602000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 23359,
+    "population2024": 24925,
     "regionCode": "0600000000",
     "provinceCode": "0600600000",
     "isCapital": false

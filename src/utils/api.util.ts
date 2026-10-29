@@ -1,12 +1,12 @@
 import { Request } from 'express';
-import fs from 'fs';
-import path from 'path';
+import fs from 'node:fs';
+import path from 'node:path';
 import { PaginatedResponse, PaginationParams } from '../types/data.type';
 
 // Helper to get pagination params from request
 export const getPaginationParams = (req: Request): PaginationParams => ({
-  page: parseInt(req.query.page as string) || 1,
-  limit: parseInt(req.query.limit as string) || 10,
+  page: Number.parseInt(req.query.page as string) || 1,
+  limit: Number.parseInt(req.query.limit as string) || 10,
 });
 
 // Helper to paginate any array

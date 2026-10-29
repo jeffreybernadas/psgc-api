@@ -4,7 +4,9 @@
     "name": "Allen",
     "code": "084801000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 25228,
+    "population2024": 26527,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "isCapital": false

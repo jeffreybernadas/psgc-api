@@ -4,7 +4,9 @@
     "name": "Jomalig",
     "code": "045621000",
     "geographicLevel": "Mun",
+    "incomeClassification": "5th",
     "population2020": 7667,
+    "population2024": 7884,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "isCapital": false

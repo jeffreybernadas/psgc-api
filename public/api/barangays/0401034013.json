@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0401034013",
-    "name": "Luna  (Pob.)",
+    "name": "Luna (Pob.)",
     "code": "041034013",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 2666,
+    "population2024": 2582,
     "regionCode": "0400000000",
     "provinceCode": "0401000000",
     "cityMunicipalityCode": "0401034000",

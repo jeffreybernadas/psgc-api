@@ -4,7 +4,9 @@
     "name": "Mountain Province",
     "code": "144400000",
     "geographicLevel": "Prov",
+    "incomeClassification": "2nd",
     "population2020": 158200,
+    "population2024": 149775,
     "regionCode": "1400000000"
   }
 ]

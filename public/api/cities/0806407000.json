@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "0806407000",
-    "name": "City of Maasin ",
+    "name": "City of Maasin",
     "code": "086407000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "3rd",
     "population2020": 87446,
+    "population2024": 85486,
     "regionCode": "0800000000",
     "provinceCode": "0806400000",
     "isCapital": true

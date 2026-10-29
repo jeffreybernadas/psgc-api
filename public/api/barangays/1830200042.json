@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1830200042",
-    "name": "Barangay 7  (Pob.)",
+    "name": "Barangay 7 (Pob.)",
     "code": "064501042",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2407,
+    "population2024": 2423,
     "regionCode": "1800000000",
     "provinceCode": "1830200000",
     "cityMunicipalityCode": "1830200000",

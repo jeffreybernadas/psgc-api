@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405644016",
-    "name": "Pagdadamayan  (Pob.)",
+    "name": "Pagdadamayan (Pob.)",
     "code": "045644016",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1754,
+    "population2024": 1876,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405644000",

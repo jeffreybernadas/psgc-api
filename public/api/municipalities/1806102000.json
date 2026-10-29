@@ -4,7 +4,9 @@
     "name": "Larena",
     "code": "076102000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 14454,
+    "population2024": 14933,
     "regionCode": "1800000000",
     "provinceCode": "1806100000",
     "isCapital": false

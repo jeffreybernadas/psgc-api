@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0500517009",
-    "name": "Bombon  (Pob.)",
+    "name": "Bombon (Pob.)",
     "code": "050517009",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 1539,
+    "population2024": 1378,
     "regionCode": "0500000000",
     "provinceCode": "0500500000",
     "cityMunicipalityCode": "0500517000",

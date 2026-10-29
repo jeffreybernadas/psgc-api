@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1004308044",
-    "name": "Barangay 2  (Pob.)",
+    "name": "Barangay 2 (Pob.)",
     "code": "104308044",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 230,
+    "population2024": 237,
     "regionCode": "1000000000",
     "provinceCode": "1004300000",
     "cityMunicipalityCode": "1004308000",

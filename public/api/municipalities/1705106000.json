@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705106000",
-    "name": "Mamburao ",
+    "name": "Mamburao",
     "code": "175106000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 47705,
+    "population2024": 44554,
     "regionCode": "1700000000",
     "provinceCode": "1705100000",
     "isCapital": true

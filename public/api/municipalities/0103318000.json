@@ -4,7 +4,9 @@
     "name": "Santol",
     "code": "013318000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 14166,
+    "population2024": 14877,
     "regionCode": "0100000000",
     "provinceCode": "0103300000",
     "isCapital": false

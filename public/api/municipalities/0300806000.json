@@ -4,7 +4,9 @@
     "name": "Limay",
     "code": "030806000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 78272,
+    "population2024": 81960,
     "regionCode": "0300000000",
     "provinceCode": "0300800000",
     "isCapital": false

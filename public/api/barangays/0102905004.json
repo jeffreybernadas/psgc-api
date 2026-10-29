@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102905004",
-    "name": "Baclig  (Pob.)",
+    "name": "Baclig (Pob.)",
     "code": "012905004",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2446,
+    "population2024": 2586,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "cityMunicipalityCode": "0102905000",

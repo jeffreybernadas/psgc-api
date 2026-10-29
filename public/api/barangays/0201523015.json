@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0201523015",
-    "name": "Visitacion  (Pob.)",
+    "name": "Visitacion (Pob.)",
     "code": "021523015",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 1279,
+    "population2024": 1104,
     "regionCode": "0200000000",
     "provinceCode": "0201500000",
     "cityMunicipalityCode": "0201523000",

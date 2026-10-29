@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0307109012",
-    "name": "San Nicolas  (Pob.)",
+    "name": "San Nicolas (Pob.)",
     "code": "037109012",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 3223,
+    "population2024": 3231,
     "regionCode": "0300000000",
     "provinceCode": "0307100000",
     "cityMunicipalityCode": "0307109000",

@@ -4,7 +4,9 @@
     "name": "Cabatuan",
     "code": "023107000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 39990,
+    "population2024": 40223,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "isCapital": false

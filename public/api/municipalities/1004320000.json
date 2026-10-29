@@ -4,7 +4,9 @@
     "name": "Naawan",
     "code": "104320000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 22444,
+    "population2024": 23562,
     "regionCode": "1000000000",
     "provinceCode": "1004300000",
     "isCapital": false

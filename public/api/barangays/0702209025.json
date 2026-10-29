@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0702209025",
-    "name": "Bantigue  (Pob.)",
+    "name": "Bantigue (Pob.)",
     "code": "072209025",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 5777,
+    "population2024": 5274,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "cityMunicipalityCode": "0702209000",

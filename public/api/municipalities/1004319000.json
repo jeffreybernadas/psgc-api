@@ -4,7 +4,9 @@
     "name": "Medina",
     "code": "104319000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 35612,
+    "population2024": 36692,
     "regionCode": "1000000000",
     "provinceCode": "1004300000",
     "isCapital": false

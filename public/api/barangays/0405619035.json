@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405619035",
-    "name": "Peñafrancia  (Pob.)",
+    "name": "Peñafrancia (Pob.)",
     "code": "045619035",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 1277,
+    "population2024": 1094,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405619000",

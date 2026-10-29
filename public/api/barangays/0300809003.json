@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0300809003",
-    "name": "Bayan  (Pob.)",
+    "name": "Bayan (Pob.)",
     "code": "030809003",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 6378,
+    "population2024": 6711,
     "regionCode": "0300000000",
     "provinceCode": "0300800000",
     "cityMunicipalityCode": "0300809000",

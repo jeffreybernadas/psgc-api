@@ -4,7 +4,9 @@
     "name": "Banga",
     "code": "060403000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 40318,
+    "population2024": 41188,
     "regionCode": "0600000000",
     "provinceCode": "0600400000",
     "isCapital": false

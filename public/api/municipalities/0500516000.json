@@ -4,7 +4,10 @@
     "name": "Santo Domingo",
     "code": "050516000",
     "geographicLevel": "Mun",
+    "oldName": "Libog",
+    "incomeClassification": "2nd",
     "population2020": 37765,
+    "population2024": 37586,
     "regionCode": "0500000000",
     "provinceCode": "0500500000",
     "isCapital": false

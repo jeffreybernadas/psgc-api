@@ -4,7 +4,9 @@
     "name": "Piddig",
     "code": "012818000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 22475,
+    "population2024": 22781,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "isCapital": false

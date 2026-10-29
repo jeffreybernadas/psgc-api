@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "1401110000",
-    "name": "La Trinidad ",
+    "name": "La Trinidad",
     "code": "141110000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 137404,
+    "population2024": 142925,
     "regionCode": "1400000000",
     "provinceCode": "1401100000",
     "isCapital": true

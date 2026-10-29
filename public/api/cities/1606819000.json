@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "1606819000",
-    "name": "City of Tandag ",
+    "name": "City of Tandag",
     "code": "166819000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "3rd",
     "population2020": 62669,
+    "population2024": 63098,
     "regionCode": "1600000000",
     "provinceCode": "1606800000",
     "isCapital": true

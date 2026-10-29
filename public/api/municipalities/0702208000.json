@@ -4,7 +4,9 @@
     "name": "Balamban",
     "code": "072208000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 95136,
+    "population2024": 98170,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "isCapital": false

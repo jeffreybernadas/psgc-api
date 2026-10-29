@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0990101040",
-    "name": "Port Area  (Pob.)",
+    "name": "Port Area (Pob.)",
     "code": "099701040",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1509,
+    "population2024": 2145,
     "regionCode": "0900000000",
     "provinceCode": "0990100000",
     "cityMunicipalityCode": "0990101000",

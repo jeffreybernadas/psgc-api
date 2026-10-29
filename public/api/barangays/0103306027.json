@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0103306027",
-    "name": "Central West No. 1  (Pob.)",
+    "name": "Central West No. 1 (Pob.)",
     "code": "013306027",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 463,
+    "population2024": 449,
     "regionCode": "0100000000",
     "provinceCode": "0103300000",
     "cityMunicipalityCode": "0103306000",

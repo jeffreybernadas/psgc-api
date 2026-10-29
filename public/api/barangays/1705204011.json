@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705204011",
-    "name": "Nasukob  (Pob.)",
+    "name": "Nasukob (Pob.)",
     "code": "175204011",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 3700,
+    "population2024": 4168,
     "regionCode": "1700000000",
     "provinceCode": "1705200000",
     "cityMunicipalityCode": "1705204000",

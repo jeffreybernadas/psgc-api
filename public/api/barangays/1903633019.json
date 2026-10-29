@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1903633019",
-    "name": "Manacab  (Pob.)",
+    "name": "Manacab (Pob.)",
     "code": "153633019",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 630,
+    "population2024": 1008,
     "regionCode": "1900000000",
     "provinceCode": "1903600000",
     "cityMunicipalityCode": "1903633000",

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0300810004",
-    "name": "Balut  (Pob.)",
+    "name": "Balut (Pob.)",
     "code": "030810004",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1399,
+    "population2024": 1406,
     "regionCode": "0300000000",
     "provinceCode": "0300800000",
     "cityMunicipalityCode": "0300810000",

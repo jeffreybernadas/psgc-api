@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0600610013",
-    "name": "Centro Este  (Pob.)",
+    "name": "Centro Este (Pob.)",
     "code": "060610013",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1178,
+    "population2024": 1228,
     "regionCode": "0600000000",
     "provinceCode": "0600600000",
     "cityMunicipalityCode": "0600610000",

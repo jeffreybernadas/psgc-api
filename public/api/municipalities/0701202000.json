@@ -4,7 +4,9 @@
     "name": "Alicia",
     "code": "071202000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 24374,
+    "population2024": 24663,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "isCapital": false

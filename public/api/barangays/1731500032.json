@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1731500032",
-    "name": "Masigla  (Pob.)",
+    "name": "Masigla (Pob.)",
     "code": "175316032",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 585,
+    "population2024": 597,
     "regionCode": "1700000000",
     "provinceCode": "1731500000",
     "cityMunicipalityCode": "1731500000",

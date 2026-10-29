@@ -4,7 +4,9 @@
     "name": "San Mariano",
     "code": "023131000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 60124,
+    "population2024": 61876,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "isCapital": false

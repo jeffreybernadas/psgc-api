@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907202013",
-    "name": "Miputak  (Pob.)",
+    "name": "Miputak (Pob.)",
     "code": "097202013",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 7667,
+    "population2024": 5902,
     "regionCode": "0900000000",
     "provinceCode": "0907200000",
     "cityMunicipalityCode": "0907202000",

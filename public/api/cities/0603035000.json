@@ -5,7 +5,9 @@
     "code": "063035000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "3rd",
     "population2020": 88873,
+    "population2024": 90313,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "isCapital": false

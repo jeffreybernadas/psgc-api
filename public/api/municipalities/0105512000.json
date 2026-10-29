@@ -4,7 +4,9 @@
     "name": "Binalonan",
     "code": "015512000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 56382,
+    "population2024": 56560,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "isCapital": false

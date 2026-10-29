@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405811005",
-    "name": "Guitnang Bayan I  (Pob.)",
+    "name": "Guitnang Bayan I (Pob.)",
     "code": "045811005",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 35121,
+    "population2024": 35943,
     "regionCode": "0400000000",
     "provinceCode": "0405800000",
     "cityMunicipalityCode": "0405811000",

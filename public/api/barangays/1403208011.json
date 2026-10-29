@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1403208011",
-    "name": "Guina-ang  (Pob.)",
+    "name": "Guina-ang (Pob.)",
     "code": "143208011",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 979,
+    "population2024": 1123,
     "regionCode": "1400000000",
     "provinceCode": "1403200000",
     "cityMunicipalityCode": "1403208000",

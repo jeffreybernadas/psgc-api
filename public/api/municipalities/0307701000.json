@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "0307701000",
-    "name": "Baler ",
+    "name": "Baler",
     "code": "037701000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 43785,
+    "population2024": 44684,
     "regionCode": "0300000000",
     "provinceCode": "0307700000",
     "isCapital": true

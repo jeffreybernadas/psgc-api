@@ -4,7 +4,9 @@
     "name": "Alegria",
     "code": "072203000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 25620,
+    "population2024": 26520,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705310018",
-    "name": "Tocadan  (Pob.)",
+    "name": "Tocadan (Pob.)",
     "code": "175310018",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 455,
+    "population2024": 494,
     "regionCode": "1700000000",
     "provinceCode": "1705300000",
     "cityMunicipalityCode": "1705310000",

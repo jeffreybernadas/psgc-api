@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "1208001000",
-    "name": "Alabel ",
+    "name": "Alabel",
     "code": "128001000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 88294,
+    "population2024": 90120,
     "regionCode": "1200000000",
     "provinceCode": "1208000000",
     "isCapital": true

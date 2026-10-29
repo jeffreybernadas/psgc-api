@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1001307007",
-    "name": "Maca-opao",
+    "name": "Macaopao",
     "code": "101307007",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 3226,
+    "population2024": 2918,
     "regionCode": "1000000000",
     "provinceCode": "1001300000",
     "cityMunicipalityCode": "1001307000",

@@ -4,7 +4,9 @@
     "name": "Ajuy",
     "code": "063001000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 53462,
+    "population2024": 54100,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "isCapital": false

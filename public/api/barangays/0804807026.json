@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0804807026",
-    "name": "Libertad  (Pob.)",
+    "name": "Libertad (Pob.)",
     "code": "084807026",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1251,
+    "population2024": 1248,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "cityMunicipalityCode": "0804807000",

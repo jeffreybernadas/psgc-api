@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1804524014",
-    "name": "Barangay V  (Pob.)",
+    "name": "Barangay V (Pob.)",
     "code": "064524014",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 7185,
+    "population2024": 6902,
     "regionCode": "1800000000",
     "provinceCode": "1804500000",
     "cityMunicipalityCode": "1804524000",

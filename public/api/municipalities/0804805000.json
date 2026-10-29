@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "0804805000",
-    "name": "Catarman ",
+    "name": "Catarman",
     "code": "084805000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 97879,
+    "population2024": 97738,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "isCapital": true

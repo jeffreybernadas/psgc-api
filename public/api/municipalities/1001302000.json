@@ -4,7 +4,9 @@
     "name": "Damulog",
     "code": "101302000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 39322,
+    "population2024": 38564,
     "regionCode": "1000000000",
     "provinceCode": "1001300000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "Narra",
     "code": "175315000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 77948,
+    "population2024": 80572,
     "regionCode": "1700000000",
     "provinceCode": "1705300000",
     "isCapital": false

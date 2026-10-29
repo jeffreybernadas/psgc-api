@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0403416037",
-    "name": "Santa Catalina  (Pob.)",
+    "name": "Santa Catalina (Pob.)",
     "code": "043416037",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2042,
+    "population2024": 2176,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "cityMunicipalityCode": "0403416000",

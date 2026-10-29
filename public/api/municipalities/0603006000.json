@@ -4,7 +4,9 @@
     "name": "Banate",
     "code": "063006000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 33376,
+    "population2024": 33790,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "isCapital": false

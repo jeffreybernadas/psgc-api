@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "1900702000",
-    "name": "City of Lamitan ",
+    "name": "City of Lamitan",
     "code": "150702000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "3rd",
     "population2020": 100150,
+    "population2024": 116652,
     "regionCode": "1900000000",
     "provinceCode": "1900700000",
     "isCapital": true

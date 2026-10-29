@@ -4,7 +4,9 @@
     "name": "Mabini",
     "code": "071231000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 28701,
+    "population2024": 28224,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "Nasipit",
     "code": "160209000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 44822,
+    "population2024": 46382,
     "regionCode": "1600000000",
     "provinceCode": "1600200000",
     "isCapital": false

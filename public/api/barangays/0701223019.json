@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0701223019",
-    "name": "Tabajan  (Pob.)",
+    "name": "Tabajan (Pob.)",
     "code": "071223019",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2361,
+    "population2024": 2256,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "cityMunicipalityCode": "0701223000",

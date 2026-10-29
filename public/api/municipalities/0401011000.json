@@ -4,7 +4,9 @@
     "name": "Laurel",
     "code": "041011000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 43210,
+    "population2024": 44791,
     "regionCode": "0400000000",
     "provinceCode": "0401000000",
     "isCapital": false

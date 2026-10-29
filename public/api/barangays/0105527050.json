@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0105527050",
-    "name": "Maravilla-Arellano Ext.  (Pob.)",
+    "name": "Maravilla-Arellano Ext. (Pob.)",
     "code": "015527050",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1338,
+    "population2024": 1297,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "cityMunicipalityCode": "0105527000",

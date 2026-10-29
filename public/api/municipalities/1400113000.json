@@ -4,7 +4,10 @@
     "name": "Licuan-Baay",
     "code": "140113000",
     "geographicLevel": "Mun",
+    "oldName": "Licuan",
+    "incomeClassification": "3rd",
     "population2020": 4566,
+    "population2024": 4301,
     "regionCode": "1400000000",
     "provinceCode": "1400100000",
     "isCapital": false

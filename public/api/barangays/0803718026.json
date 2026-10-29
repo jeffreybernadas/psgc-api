@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0803718026",
-    "name": "Catmonan  (Pob.)",
+    "name": "Catmonan (Pob.)",
     "code": "083718026",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 575,
+    "population2024": 260,
     "regionCode": "0800000000",
     "provinceCode": "0803700000",
     "cityMunicipalityCode": "0803718000",

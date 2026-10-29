@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0402115009",
-    "name": "Gomez-Zamora  (Pob.)",
+    "name": "Gomez-Zamora (Pob.)",
     "code": "042115009",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 615,
+    "population2024": 1103,
     "regionCode": "0400000000",
     "provinceCode": "0402100000",
     "cityMunicipalityCode": "0402115000",

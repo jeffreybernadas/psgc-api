@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1731500005",
-    "name": "Bagong Sikat  (Pob.)",
+    "name": "Bagong Sikat (Pob.)",
     "code": "175316005",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 7035,
+    "population2024": 7052,
     "regionCode": "1700000000",
     "provinceCode": "1731500000",
     "cityMunicipalityCode": "1731500000",

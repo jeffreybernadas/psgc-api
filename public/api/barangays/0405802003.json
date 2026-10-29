@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405802003",
-    "name": "Dela Paz  (Pob.)",
+    "name": "Dela Paz (Pob.)",
     "code": "045802003",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 77207,
+    "population2024": 81538,
     "regionCode": "0400000000",
     "provinceCode": "0405800000",
     "cityMunicipalityCode": "0405802000",

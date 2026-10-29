@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0205703002",
-    "name": "Aurora East  (Pob.)",
+    "name": "Aurora East (Pob.)",
     "code": "025703002",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 1581,
+    "population2024": 1585,
     "regionCode": "0200000000",
     "provinceCode": "0205700000",
     "cityMunicipalityCode": "0205703000",

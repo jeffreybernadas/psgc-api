@@ -4,7 +4,9 @@
     "name": "Mandaon",
     "code": "054110000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 44122,
+    "population2024": 44177,
     "regionCode": "0500000000",
     "provinceCode": "0504100000",
     "isCapital": false

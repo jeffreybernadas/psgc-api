@@ -4,7 +4,10 @@
     "name": "Pagayawan",
     "code": "153620000",
     "geographicLevel": "Mun",
+    "oldName": "Tatarikan",
+    "incomeClassification": "3rd",
     "population2020": 15057,
+    "population2024": 15659,
     "regionCode": "1900000000",
     "provinceCode": "1903600000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0103311029",
-    "name": "Natividad  (Pob.)",
+    "name": "Natividad (Pob.)",
     "code": "013311029",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 3135,
+    "population2024": 2930,
     "regionCode": "0100000000",
     "provinceCode": "0103300000",
     "cityMunicipalityCode": "0103311000",

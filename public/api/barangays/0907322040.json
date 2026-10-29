@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907322040",
-    "name": "San Jose  (Pob.)",
+    "name": "San Jose (Pob.)",
     "code": "097322040",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 7991,
+    "population2024": 6382,
     "regionCode": "0900000000",
     "provinceCode": "0907300000",
     "cityMunicipalityCode": "0907322000",

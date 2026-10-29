@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0701230045",
-    "name": "Napo  (Pob.)",
+    "name": "Napo (Pob.)",
     "code": "071230045",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1416,
+    "population2024": 1447,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "cityMunicipalityCode": "0701230000",

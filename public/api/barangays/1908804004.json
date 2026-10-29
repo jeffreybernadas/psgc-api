@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1908804004",
-    "name": "Midtimbang  (Pob.)",
+    "name": "Midtimbang (Pob.)",
     "code": "153831004",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 3902,
+    "population2024": 4765,
     "regionCode": "1900000000",
     "provinceCode": "1908800000",
     "cityMunicipalityCode": "1908804000",

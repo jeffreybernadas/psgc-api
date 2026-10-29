@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102805007",
-    "name": "Barani  (Pob.)",
+    "name": "Barani (Pob.)",
     "code": "012805007",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 636,
+    "population2024": 663,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "cityMunicipalityCode": "0102805000",

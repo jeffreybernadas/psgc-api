@@ -4,7 +4,10 @@
     "name": "Bulalacao",
     "code": "175204000",
     "geographicLevel": "Mun",
+    "oldName": "San Pedro",
+    "incomeClassification": "1st",
     "population2020": 44366,
+    "population2024": 46439,
     "regionCode": "1700000000",
     "provinceCode": "1705200000",
     "isCapital": false

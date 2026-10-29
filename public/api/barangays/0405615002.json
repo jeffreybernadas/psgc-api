@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405615002",
-    "name": "Bagong Anyo  (Pob.)",
+    "name": "Bagong Anyo (Pob.)",
     "code": "045615002",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 1108,
+    "population2024": 1116,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405615000",

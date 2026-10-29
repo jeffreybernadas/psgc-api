@@ -4,7 +4,9 @@
     "name": "Ganassi",
     "code": "153609000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 30802,
+    "population2024": 33897,
     "regionCode": "1900000000",
     "provinceCode": "1903600000",
     "isCapital": false

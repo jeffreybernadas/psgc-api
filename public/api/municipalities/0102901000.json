@@ -4,7 +4,9 @@
     "name": "Alilem",
     "code": "012901000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 7361,
+    "population2024": 7736,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "isCapital": false

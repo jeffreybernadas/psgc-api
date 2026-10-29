@@ -4,7 +4,9 @@
     "name": "Canaman",
     "code": "051710000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 36205,
+    "population2024": 35766,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "isCapital": false

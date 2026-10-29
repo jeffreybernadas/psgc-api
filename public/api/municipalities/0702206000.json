@@ -4,7 +4,9 @@
     "name": "Asturias",
     "code": "072206000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 55397,
+    "population2024": 54777,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "isCapital": false

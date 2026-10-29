@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0802610011",
-    "name": "Barangay 4  (Pob.)",
+    "name": "Barangay 4 (Pob.)",
     "code": "082610011",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 503,
+    "population2024": 447,
     "regionCode": "0800000000",
     "provinceCode": "0802600000",
     "cityMunicipalityCode": "0802610000",

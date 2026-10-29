@@ -4,7 +4,9 @@
     "name": "Mabitac",
     "code": "043414000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 21275,
+    "population2024": 21748,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "isCapital": false

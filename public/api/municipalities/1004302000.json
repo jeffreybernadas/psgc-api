@@ -4,7 +4,9 @@
     "name": "Balingasag",
     "code": "104302000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 74385,
+    "population2024": 76877,
     "regionCode": "1000000000",
     "provinceCode": "1004300000",
     "isCapital": false

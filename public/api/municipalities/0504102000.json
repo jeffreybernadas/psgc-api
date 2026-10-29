@@ -4,7 +4,9 @@
     "name": "Baleno",
     "code": "054102000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 28855,
+    "population2024": 28787,
     "regionCode": "0500000000",
     "provinceCode": "0504100000",
     "isCapital": false

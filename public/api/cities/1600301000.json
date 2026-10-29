@@ -5,7 +5,9 @@
     "code": "160301000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "1st",
     "population2020": 109499,
+    "population2024": 110313,
     "regionCode": "1600000000",
     "provinceCode": "1600300000",
     "isCapital": false

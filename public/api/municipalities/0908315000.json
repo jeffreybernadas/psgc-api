@@ -4,7 +4,9 @@
     "name": "Titay",
     "code": "098315000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 53994,
+    "population2024": 55534,
     "regionCode": "0900000000",
     "provinceCode": "0908300000",
     "isCapital": false

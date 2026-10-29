@@ -4,7 +4,9 @@
     "name": "Ivana",
     "code": "020903000",
     "geographicLevel": "Mun",
+    "incomeClassification": "5th",
     "population2020": 1407,
+    "population2024": 1368,
     "regionCode": "0200000000",
     "provinceCode": "0200900000",
     "isCapital": false

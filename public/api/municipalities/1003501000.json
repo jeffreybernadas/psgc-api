@@ -4,7 +4,9 @@
     "name": "Bacolod",
     "code": "103501000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 24367,
+    "population2024": 24963,
     "regionCode": "1000000000",
     "provinceCode": "1003500000",
     "isCapital": false

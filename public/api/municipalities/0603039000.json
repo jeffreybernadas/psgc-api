@@ -4,7 +4,9 @@
     "name": "San Enrique",
     "code": "063039000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 36911,
+    "population2024": 37381,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "Alaminos",
     "code": "043401000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 51619,
+    "population2024": 53589,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "isCapital": false

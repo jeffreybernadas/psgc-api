@@ -4,7 +4,9 @@
     "name": "San Manuel",
     "code": "023130000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 34085,
+    "population2024": 34740,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "Aguinaldo",
     "code": "142708000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 21128,
+    "population2024": 20924,
     "regionCode": "1400000000",
     "provinceCode": "1402700000",
     "isCapital": false

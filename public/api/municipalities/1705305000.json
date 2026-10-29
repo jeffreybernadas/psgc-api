@@ -4,7 +4,9 @@
     "name": "Bataraza",
     "code": "175305000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 85439,
+    "population2024": 87384,
     "regionCode": "1700000000",
     "provinceCode": "1705300000",
     "isCapital": false

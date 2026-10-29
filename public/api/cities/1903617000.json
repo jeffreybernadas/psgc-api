@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "1903617000",
-    "name": "City of Marawi ",
+    "name": "City of Marawi",
     "code": "153617000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "3rd",
     "population2020": 207010,
+    "population2024": 259993,
     "regionCode": "1900000000",
     "provinceCode": "1903600000",
     "isCapital": true

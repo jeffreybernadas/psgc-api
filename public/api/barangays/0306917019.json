@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0306917019",
-    "name": "San Fernando  (Pob.)",
+    "name": "San Fernando (Pob.)",
     "code": "036917019",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 3329,
+    "population2024": 3633,
     "regionCode": "0300000000",
     "provinceCode": "0306900000",
     "cityMunicipalityCode": "0306917000",

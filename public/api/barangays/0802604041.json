@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0802604041",
-    "name": "Purok G  (Pob.)",
+    "name": "Purok G (Pob.)",
     "code": "082604041",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 338,
+    "population2024": 299,
     "regionCode": "0800000000",
     "provinceCode": "0802600000",
     "cityMunicipalityCode": "0802604000",

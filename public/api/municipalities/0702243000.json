@@ -4,7 +4,9 @@
     "name": "San Remigio",
     "code": "072243000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 65744,
+    "population2024": 67850,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "isCapital": false

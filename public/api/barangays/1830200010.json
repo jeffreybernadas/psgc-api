@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1830200010",
-    "name": "Barangay 15  (Pob.)",
+    "name": "Barangay 15 (Pob.)",
     "code": "064501010",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 200,
+    "population2024": 258,
     "regionCode": "1800000000",
     "provinceCode": "1830200000",
     "cityMunicipalityCode": "1830200000",

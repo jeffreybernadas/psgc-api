@@ -4,7 +4,9 @@
     "name": "Dumalag",
     "code": "061903000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 30098,
+    "population2024": 30872,
     "regionCode": "0600000000",
     "provinceCode": "0601900000",
     "isCapital": false

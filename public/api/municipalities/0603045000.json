@@ -4,7 +4,9 @@
     "name": "Tigbauan",
     "code": "063045000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 65245,
+    "population2024": 65657,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "isCapital": false

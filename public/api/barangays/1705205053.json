@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705205053",
-    "name": "San Vicente South  (Pob.)",
+    "name": "San Vicente South (Pob.)",
     "code": "175205053",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 459,
+    "population2024": 448,
     "regionCode": "1700000000",
     "provinceCode": "1705200000",
     "cityMunicipalityCode": "1705205000",

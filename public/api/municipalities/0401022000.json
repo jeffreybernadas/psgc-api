@@ -4,7 +4,9 @@
     "name": "San Jose",
     "code": "041022000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 79868,
+    "population2024": 81170,
     "regionCode": "0400000000",
     "provinceCode": "0401000000",
     "isCapital": false

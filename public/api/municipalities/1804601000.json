@@ -4,7 +4,10 @@
     "name": "Amlan",
     "code": "074601000",
     "geographicLevel": "Mun",
+    "oldName": "Ayuquitan",
+    "incomeClassification": "3rd",
     "population2020": 25513,
+    "population2024": 26566,
     "regionCode": "1800000000",
     "provinceCode": "1804600000",
     "isCapital": false

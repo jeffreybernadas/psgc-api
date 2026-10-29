@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0806003010",
-    "name": "Balud  (Pob.)",
+    "name": "Balud (Pob.)",
     "code": "086003010",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 3129,
+    "population2024": 2636,
     "regionCode": "0800000000",
     "provinceCode": "0806000000",
     "cityMunicipalityCode": "0806003000",

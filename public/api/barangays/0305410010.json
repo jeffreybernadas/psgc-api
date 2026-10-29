@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0305410010",
-    "name": "San Gabriel  (Pob.)",
+    "name": "San Gabriel (Pob.)",
     "code": "035410010",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 4025,
+    "population2024": 4059,
     "regionCode": "0300000000",
     "provinceCode": "0305400000",
     "cityMunicipalityCode": "0305410000",

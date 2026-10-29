@@ -4,7 +4,9 @@
     "name": "Solana",
     "code": "021527000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 88445,
+    "population2024": 89840,
     "regionCode": "0200000000",
     "provinceCode": "0201500000",
     "isCapital": false

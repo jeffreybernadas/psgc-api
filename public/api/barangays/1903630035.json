@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1903630035",
-    "name": "Park Area  (Pob.)",
+    "name": "Park Area (Pob.)",
     "code": "153630035",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 4000,
+    "population2024": 4157,
     "regionCode": "1900000000",
     "provinceCode": "1903600000",
     "cityMunicipalityCode": "1903630000",

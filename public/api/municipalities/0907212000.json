@@ -4,7 +4,9 @@
     "name": "Rizal",
     "code": "097212000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 15052,
+    "population2024": 15347,
     "regionCode": "0900000000",
     "provinceCode": "0907200000",
     "isCapital": false

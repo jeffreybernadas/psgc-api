@@ -4,7 +4,9 @@
     "name": "Mercedes",
     "code": "051607000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 55334,
+    "population2024": 53702,
     "regionCode": "0500000000",
     "provinceCode": "0501600000",
     "isCapital": false

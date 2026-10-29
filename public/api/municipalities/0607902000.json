@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "0607902000",
-    "name": "Jordan ",
+    "name": "Jordan",
     "code": "067902000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 39566,
+    "population2024": 40647,
     "regionCode": "0600000000",
     "provinceCode": "0607900000",
     "isCapital": true

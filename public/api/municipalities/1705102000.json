@@ -4,7 +4,9 @@
     "name": "Calintaan",
     "code": "175102000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 30190,
+    "population2024": 31088,
     "regionCode": "1700000000",
     "provinceCode": "1705100000",
     "isCapital": false

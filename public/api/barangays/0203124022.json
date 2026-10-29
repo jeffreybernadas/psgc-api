@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0203124022",
-    "name": "Bugallon Proper  (Pob.)",
+    "name": "Bugallon Proper (Pob.)",
     "code": "023124022",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 7335,
+    "population2024": 7545,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "cityMunicipalityCode": "0203124000",

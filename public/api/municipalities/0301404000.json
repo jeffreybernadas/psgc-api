@@ -4,7 +4,9 @@
     "name": "Bocaue",
     "code": "031404000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 141412,
+    "population2024": 147755,
     "regionCode": "0300000000",
     "provinceCode": "0301400000",
     "isCapital": false

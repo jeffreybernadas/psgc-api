@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "0806017038",
-    "name": "Rosal Pob. ",
+    "name": "Rosal Pob.",
     "code": "086017038",
     "geographicLevel": "Brgy",
+    "oldName": "Zone IV",
     "urbanRural": "Rural",
     "population2020": 1489,
+    "population2024": 1037,
     "regionCode": "0800000000",
     "provinceCode": "0806000000",
     "cityMunicipalityCode": "0806017000",

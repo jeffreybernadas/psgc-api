@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0300804018",
-    "name": "Mabini Ext.  (Pob.)",
+    "name": "Mabini Ext. (Pob.)",
     "code": "030804018",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 726,
+    "population2024": 644,
     "regionCode": "0300000000",
     "provinceCode": "0300800000",
     "cityMunicipalityCode": "0300804000",

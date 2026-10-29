@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "0307105000",
-    "name": "Iba ",
+    "name": "Iba",
     "code": "037105000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 55581,
+    "population2024": 59580,
     "regionCode": "0300000000",
     "provinceCode": "0307100000",
     "isCapital": true

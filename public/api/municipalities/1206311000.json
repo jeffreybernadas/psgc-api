@@ -4,7 +4,9 @@
     "name": "Norala",
     "code": "126311000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 46682,
+    "population2024": 48499,
     "regionCode": "1200000000",
     "provinceCode": "1206300000",
     "isCapital": false

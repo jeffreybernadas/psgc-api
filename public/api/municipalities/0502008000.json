@@ -4,7 +4,10 @@
     "name": "San Andres",
     "code": "052008000",
     "geographicLevel": "Mun",
+    "oldName": "Calolbon",
+    "incomeClassification": "2nd",
     "population2020": 38480,
+    "population2024": 37157,
     "regionCode": "0500000000",
     "provinceCode": "0502000000",
     "isCapital": false

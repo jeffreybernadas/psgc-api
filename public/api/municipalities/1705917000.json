@@ -4,7 +4,10 @@
     "name": "Santa Maria",
     "code": "175917000",
     "geographicLevel": "Mun",
+    "oldName": "Imelda",
+    "incomeClassification": "5th",
     "population2020": 8989,
+    "population2024": 8360,
     "regionCode": "1700000000",
     "provinceCode": "1705900000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501732006",
-    "name": "Buenavista  (Pob.)",
+    "name": "Buenavista (Pob.)",
     "code": "051732006",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1565,
+    "population2024": 1552,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501732000",

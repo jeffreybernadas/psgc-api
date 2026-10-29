@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1001321011",
-    "name": "Kahapunan",
+    "name": "Kahaponan",
     "code": "101321011",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 6604,
+    "population2024": 6967,
     "regionCode": "1000000000",
     "provinceCode": "1001300000",
     "cityMunicipalityCode": "1001321000",

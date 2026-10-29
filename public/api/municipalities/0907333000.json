@@ -4,7 +4,9 @@
     "name": "Lakewood",
     "code": "097333000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 21559,
+    "population2024": 23599,
     "regionCode": "0900000000",
     "provinceCode": "0907300000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0504119014",
-    "name": "District I  (Pob.)",
+    "name": "District I (Pob.)",
     "code": "054119014",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1108,
+    "population2024": 978,
     "regionCode": "0500000000",
     "provinceCode": "0504100000",
     "cityMunicipalityCode": "0504119000",

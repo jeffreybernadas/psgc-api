@@ -4,7 +4,9 @@
     "name": "Panitan",
     "code": "061910000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 42565,
+    "population2024": 44246,
     "regionCode": "0600000000",
     "provinceCode": "0601900000",
     "isCapital": false

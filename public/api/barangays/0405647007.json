@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405647007",
-    "name": "Angustias Zone I  (Pob.)",
+    "name": "Angustias Zone I (Pob.)",
     "code": "045647007",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 412,
+    "population2024": 394,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405647000",

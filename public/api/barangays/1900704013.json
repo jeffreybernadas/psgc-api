@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1900704013",
-    "name": "Townsite  (Pob.)",
+    "name": "Townsite (Pob.)",
     "code": "150704013",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 5128,
+    "population2024": 8989,
     "regionCode": "1900000000",
     "provinceCode": "1900700000",
     "cityMunicipalityCode": "1900704000",

@@ -4,7 +4,9 @@
     "name": "Solsona",
     "code": "012822000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 24851,
+    "population2024": 26249,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "isCapital": false

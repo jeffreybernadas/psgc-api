@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0105532044",
-    "name": "Lucban  (Pob.)",
+    "name": "Lucban (Pob.)",
     "code": "015532044",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 985,
+    "population2024": 1027,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "cityMunicipalityCode": "0105532000",

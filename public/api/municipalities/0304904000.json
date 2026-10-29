@@ -4,7 +4,9 @@
     "name": "Cabiao",
     "code": "034904000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 85862,
+    "population2024": 89497,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "isCapital": false

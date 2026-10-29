@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405806012",
-    "name": "Iglesia  (Pob.)",
+    "name": "Iglesia (Pob.)",
     "code": "045806012",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 1645,
+    "population2024": 1921,
     "regionCode": "0400000000",
     "provinceCode": "0405800000",
     "cityMunicipalityCode": "0405806000",

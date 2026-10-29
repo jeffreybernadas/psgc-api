@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0806405013",
-    "name": "Talisay  (Pob.)",
+    "name": "Talisay (Pob.)",
     "code": "086405013",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1106,
+    "population2024": 1247,
     "regionCode": "0800000000",
     "provinceCode": "0806400000",
     "cityMunicipalityCode": "0806405000",

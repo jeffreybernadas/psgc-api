@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0403417034",
-    "name": "Poblacion II  (Pob.)",
+    "name": "Poblacion II (Pob.)",
     "code": "043417034",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 3309,
+    "population2024": 3081,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "cityMunicipalityCode": "0403417000",

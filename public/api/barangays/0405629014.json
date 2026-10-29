@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405629014",
-    "name": "Punta  (Pob.)",
+    "name": "Punta (Pob.)",
     "code": "045629014",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 680,
+    "population2024": 751,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405629000",

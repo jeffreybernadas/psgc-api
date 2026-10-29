@@ -4,7 +4,9 @@
     "name": "Barobo",
     "code": "166801000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 53146,
+    "population2024": 53729,
     "regionCode": "1600000000",
     "provinceCode": "1606800000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "Bokod",
     "code": "141104000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 14435,
+    "population2024": 16071,
     "regionCode": "1400000000",
     "provinceCode": "1401100000",
     "isCapital": false

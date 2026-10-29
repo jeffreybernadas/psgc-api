@@ -4,7 +4,9 @@
     "name": "Batan",
     "code": "060404000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 33484,
+    "population2024": 33932,
     "regionCode": "0600000000",
     "provinceCode": "0600400000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "San Narciso",
     "code": "045644000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 51058,
+    "population2024": 53375,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "isCapital": false

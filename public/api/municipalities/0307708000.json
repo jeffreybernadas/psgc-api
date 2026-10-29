@@ -4,7 +4,9 @@
     "name": "San Luis",
     "code": "037708000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 29824,
+    "population2024": 30342,
     "regionCode": "0300000000",
     "provinceCode": "0307700000",
     "isCapital": false

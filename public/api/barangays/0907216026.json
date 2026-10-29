@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907216026",
-    "name": "Nala  (Pob.)",
+    "name": "Nala (Pob.)",
     "code": "097216026",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 493,
+    "population2024": 429,
     "regionCode": "0900000000",
     "provinceCode": "0907200000",
     "cityMunicipalityCode": "0907216000",

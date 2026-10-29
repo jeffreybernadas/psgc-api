@@ -4,7 +4,9 @@
     "name": "Talisayan",
     "code": "104325000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 25761,
+    "population2024": 26801,
     "regionCode": "1000000000",
     "provinceCode": "1004300000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0506205006",
-    "name": "Central  (Pob.)",
+    "name": "Central (Pob.)",
     "code": "056205006",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 1387,
+    "population2024": 1397,
     "regionCode": "0500000000",
     "provinceCode": "0506200000",
     "cityMunicipalityCode": "0506205000",

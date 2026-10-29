@@ -4,7 +4,9 @@
     "name": "Talibon",
     "code": "071243000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 71272,
+    "population2024": 71450,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "isCapital": false

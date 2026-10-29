@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102922014",
-    "name": "Magsaysay District  (Pob.)",
+    "name": "Magsaysay District (Pob.)",
     "code": "012922014",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 953,
+    "population2024": 927,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "cityMunicipalityCode": "0102922000",

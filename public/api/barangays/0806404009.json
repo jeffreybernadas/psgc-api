@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0806404009",
-    "name": "District II  (Pob.)",
+    "name": "District II (Pob.)",
     "code": "086404009",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 826,
+    "population2024": 873,
     "regionCode": "0800000000",
     "provinceCode": "0806400000",
     "cityMunicipalityCode": "0806404000",

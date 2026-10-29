@@ -4,7 +4,9 @@
     "name": "Agno",
     "code": "015501000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 29947,
+    "population2024": 29270,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "isCapital": false

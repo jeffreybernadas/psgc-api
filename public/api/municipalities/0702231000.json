@@ -4,7 +4,9 @@
     "name": "Medellin",
     "code": "072231000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 59605,
+    "population2024": 62163,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "isCapital": false
