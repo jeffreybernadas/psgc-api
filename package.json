@@ -1,6 +1,6 @@
 {
   "name": "psgc-api",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev --files src/index.ts index.d.ts",
