@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0803702049",
-    "name": "Blumentritt  (Pob.)",
+    "name": "Blumentritt (Pob.)",
     "code": "083702049",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 425,
+    "population2024": 381,
     "regionCode": "0800000000",
     "provinceCode": "0803700000",
     "cityMunicipalityCode": "0803702000",

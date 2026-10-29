@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102805017",
-    "name": "Caunayan  (Pob.)",
+    "name": "Caunayan (Pob.)",
     "code": "012805017",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 1105,
+    "population2024": 994,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "cityMunicipalityCode": "0102805000",

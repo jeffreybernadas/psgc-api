@@ -4,7 +4,9 @@
     "name": "Alburquerque",
     "code": "071201000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 11246,
+    "population2024": 11489,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "isCapital": false

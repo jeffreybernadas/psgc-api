@@ -4,7 +4,9 @@
     "name": "Macrohon",
     "code": "086408000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 26580,
+    "population2024": 27276,
     "regionCode": "0800000000",
     "provinceCode": "0806400000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0702216020",
-    "name": "Flores  (Pob.)",
+    "name": "Flores (Pob.)",
     "code": "072216020",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 3382,
+    "population2024": 4235,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "cityMunicipalityCode": "0702216000",

@@ -4,7 +4,9 @@
     "name": "Maconacon",
     "code": "023117000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 3977,
+    "population2024": 4252,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "isCapital": false

@@ -4,7 +4,10 @@
     "name": "Laak",
     "code": "118202000",
     "geographicLevel": "Mun",
+    "oldName": "San Vicente",
+    "incomeClassification": "1st",
     "population2020": 79744,
+    "population2024": 83632,
     "regionCode": "1100000000",
     "provinceCode": "1108200000",
     "isCapital": false

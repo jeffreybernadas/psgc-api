@@ -4,7 +4,9 @@
     "name": "Pandan",
     "code": "060611000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 35965,
+    "population2024": 37325,
     "regionCode": "0600000000",
     "provinceCode": "0600600000",
     "isCapital": false

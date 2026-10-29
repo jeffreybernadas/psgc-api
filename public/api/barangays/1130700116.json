@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1130700116",
-    "name": "Talomo  (Pob.)",
+    "name": "Talomo (Pob.)",
     "code": "112402116",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 61698,
+    "population2024": 65379,
     "regionCode": "1100000000",
     "provinceCode": "1130700000",
     "cityMunicipalityCode": "1130700000",

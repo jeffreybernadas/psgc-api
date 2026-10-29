@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102907017",
-    "name": "Don Lorenzo Querubin  (Pob.)",
+    "name": "Don Lorenzo Querubin (Pob.)",
     "code": "012907017",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 941,
+    "population2024": 902,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "cityMunicipalityCode": "0102907000",

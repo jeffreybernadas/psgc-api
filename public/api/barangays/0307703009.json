@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0307703009",
-    "name": "Masagana  (Pob.)",
+    "name": "Masagana (Pob.)",
     "code": "037703009",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2280,
+    "population2024": 2305,
     "regionCode": "0300000000",
     "provinceCode": "0307700000",
     "cityMunicipalityCode": "0307703000",

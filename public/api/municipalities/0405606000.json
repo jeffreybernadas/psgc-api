@@ -4,7 +4,9 @@
     "name": "Burdeos",
     "code": "045606000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 24644,
+    "population2024": 22742,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "isCapital": false

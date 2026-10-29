@@ -4,7 +4,10 @@
     "name": "Samar",
     "code": "086000000",
     "geographicLevel": "Prov",
+    "oldName": "Western Samar",
+    "incomeClassification": "1st",
     "population2020": 793183,
+    "population2024": 806179,
     "regionCode": "0800000000"
   }
 ]

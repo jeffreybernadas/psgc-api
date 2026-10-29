@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405619032",
-    "name": "Maunlad  (Pob.)",
+    "name": "Maunlad (Pob.)",
     "code": "045619032",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 689,
+    "population2024": 641,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405619000",

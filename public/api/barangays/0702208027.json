@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0702208027",
-    "name": "Baliwagan  (Pob.)",
+    "name": "Baliwagan (Pob.)",
     "code": "072208027",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 6141,
+    "population2024": 6004,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "cityMunicipalityCode": "0702208000",

@@ -4,7 +4,9 @@
     "name": "Villareal",
     "code": "086021000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 27394,
+    "population2024": 27909,
     "regionCode": "0800000000",
     "provinceCode": "0806000000",
     "isCapital": false

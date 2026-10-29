@@ -4,7 +4,9 @@
     "name": "Talipao",
     "code": "156613000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 100088,
+    "population2024": 107901,
     "regionCode": "0900000000",
     "provinceCode": "0906600000",
     "isCapital": false

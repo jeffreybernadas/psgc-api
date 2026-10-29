@@ -4,7 +4,9 @@
     "name": "Macalelon",
     "code": "045625000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 27312,
+    "population2024": 25266,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "isCapital": false

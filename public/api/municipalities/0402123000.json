@@ -4,7 +4,9 @@
     "name": "Gen. Mariano Alvarez",
     "code": "042123000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 172433,
+    "population2024": 176927,
     "regionCode": "0400000000",
     "provinceCode": "0402100000",
     "isCapital": false

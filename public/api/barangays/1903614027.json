@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1903614027",
-    "name": "Uyaan Proper  (Pob.)",
+    "name": "Uyaan Proper (Pob.)",
     "code": "153614027",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1948,
+    "population2024": 2033,
     "regionCode": "1900000000",
     "provinceCode": "1903600000",
     "cityMunicipalityCode": "1903614000",

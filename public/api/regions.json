@@ -4,7 +4,9 @@
     "name": "NCR",
     "code": "130000000",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 13484462,
+    "population2024": 14001751,
     "regionName": "National Capital Region"
   },
   {
@@ -12,7 +14,9 @@
     "name": "CAR",
     "code": "140000000",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 1797660,
+    "population2024": 1808985,
     "regionName": "Cordillera Administrative Region"
   },
   {
@@ -20,7 +24,9 @@
     "name": "Ilocos Region",
     "code": "010000000",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 5301139,
+    "population2024": 5342453,
     "regionName": "Region I"
   },
   {
@@ -28,7 +34,9 @@
     "name": "Cagayan Valley",
     "code": "020000000",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 3685744,
+    "population2024": 3777608,
     "regionName": "Region II"
   },
   {
@@ -36,7 +44,9 @@
     "name": "Central Luzon",
     "code": "030000000",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 12422172,
+    "population2024": 12989074,
     "regionName": "Region III"
   },
   {
@@ -44,7 +54,9 @@
     "name": "CALABARZON",
     "code": "040000000",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 16195042,
+    "population2024": 16933234,
     "regionName": "Region IV-A"
   },
   {
@@ -52,7 +64,9 @@
     "name": "MIMAROPA Region",
     "code": "170000000",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 3228558,
+    "population2024": 3245446,
     "regionName": "MIMAROPA"
   },
   {
@@ -60,7 +74,9 @@
     "name": "Bicol Region",
     "code": "050000000",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 6082165,
+    "population2024": 6064426,
     "regionName": "Region V"
   },
   {
@@ -68,7 +84,9 @@
     "name": "Western Visayas",
     "code": "060000000",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 7954723,
+    "population2024": 4861911,
     "regionName": "Region VI"
   },
   {
@@ -76,7 +94,9 @@
     "name": "NIR",
     "code": "Unavailable",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 4760340,
+    "population2024": 4904944,
     "regionName": "Negros Island Region"
   },
   {
@@ -84,7 +104,9 @@
     "name": "Central Visayas",
     "code": "070000000",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 8081988,
+    "population2024": 6640875,
     "regionName": "Region VII"
   },
   {
@@ -92,7 +114,9 @@
     "name": "Eastern Visayas",
     "code": "080000000",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 4547150,
+    "population2024": 4625929,
     "regionName": "Region VIII"
   },
   {
@@ -100,7 +124,9 @@
     "name": "Zamboanga Peninsula",
     "code": "090000000",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 4875684,
+    "population2024": 5089934,
     "regionName": "Region IX"
   },
   {
@@ -108,7 +134,9 @@
     "name": "Northern Mindanao",
     "code": "100000000",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 5022768,
+    "population2024": 5178326,
     "regionName": "Region X"
   },
   {
@@ -116,7 +144,9 @@
     "name": "Davao Region",
     "code": "110000000",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 5243536,
+    "population2024": 5389422,
     "regionName": "Region XI"
   },
   {
@@ -124,7 +154,9 @@
     "name": "SOCCSKSARGEN",
     "code": "120000000",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 4360974,
+    "population2024": 4462776,
     "regionName": "Region XII"
   },
   {
@@ -132,7 +164,9 @@
     "name": "Caraga",
     "code": "160000000",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 2804788,
+    "population2024": 2865196,
     "regionName": "Region XIII"
   },
   {
@@ -140,7 +174,9 @@
     "name": "BARMM",
     "code": "150000000",
     "geographicLevel": "Reg",
+    "incomeClassification": "",
     "population2020": 3944692,
+    "population2024": 4545486,
     "regionName": "Bangsamoro Autonomous Region In Muslim Mindanao"
   }
 ]

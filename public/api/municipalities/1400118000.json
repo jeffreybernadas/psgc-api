@@ -4,7 +4,9 @@
     "name": "Pidigan",
     "code": "140118000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 12475,
+    "population2024": 12058,
     "regionCode": "1400000000",
     "provinceCode": "1400100000",
     "isCapital": false

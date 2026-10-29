@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1606716008",
-    "name": "Asinan  (Pob.)",
+    "name": "Asinan (Pob.)",
     "code": "166716008",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1037,
+    "population2024": 1042,
     "regionCode": "1600000000",
     "provinceCode": "1606700000",
     "cityMunicipalityCode": "1606716000",

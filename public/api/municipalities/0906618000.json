@@ -4,7 +4,9 @@
     "name": "Pandami",
     "code": "156618000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 33177,
+    "population2024": 35369,
     "regionCode": "0900000000",
     "provinceCode": "0906600000",
     "isCapital": false

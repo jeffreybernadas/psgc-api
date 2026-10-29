@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0403416026",
-    "name": "Origuel  (Pob.)",
+    "name": "Origuel (Pob.)",
     "code": "043416026",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1446,
+    "population2024": 1565,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "cityMunicipalityCode": "0403416000",

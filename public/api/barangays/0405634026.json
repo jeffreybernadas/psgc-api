@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405634026",
-    "name": "Maaliw  (Pob.)",
+    "name": "Maaliw (Pob.)",
     "code": "045634026",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 497,
+    "population2024": 490,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405634000",

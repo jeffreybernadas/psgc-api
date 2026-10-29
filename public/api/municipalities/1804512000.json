@@ -4,7 +4,10 @@
     "name": "Hinoba-an",
     "code": "064512000",
     "geographicLevel": "Mun",
+    "oldName": "Asia",
+    "incomeClassification": "1st",
     "population2020": 60865,
+    "population2024": 64364,
     "regionCode": "1800000000",
     "provinceCode": "1804500000",
     "isCapital": false

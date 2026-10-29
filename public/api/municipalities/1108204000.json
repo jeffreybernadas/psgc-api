@@ -4,7 +4,9 @@
     "name": "Maco",
     "code": "118204000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 83237,
+    "population2024": 87680,
     "regionCode": "1100000000",
     "provinceCode": "1108200000",
     "isCapital": false

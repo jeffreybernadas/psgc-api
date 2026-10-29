@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0103301032",
-    "name": "San Nicolas Norte  (Pob.)",
+    "name": "San Nicolas Norte (Pob.)",
     "code": "013301032",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 539,
+    "population2024": 522,
     "regionCode": "0100000000",
     "provinceCode": "0103300000",
     "cityMunicipalityCode": "0103301000",

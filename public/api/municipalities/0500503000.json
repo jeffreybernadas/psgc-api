@@ -4,7 +4,10 @@
     "name": "Daraga",
     "code": "050503000",
     "geographicLevel": "Mun",
+    "oldName": "Locsin",
+    "incomeClassification": "1st",
     "population2020": 133893,
+    "population2024": 138000,
     "regionCode": "0500000000",
     "provinceCode": "0500500000",
     "isCapital": false

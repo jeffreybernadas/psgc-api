@@ -4,7 +4,9 @@
     "name": "Davao Oriental",
     "code": "112500000",
     "geographicLevel": "Prov",
+    "incomeClassification": "1st",
     "population2020": 576343,
+    "population2024": 590042,
     "regionCode": "1100000000"
   }
 ]

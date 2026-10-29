@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501737017",
-    "name": "Filarca  (Pob.)",
+    "name": "Filarca (Pob.)",
     "code": "051737017",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 965,
+    "population2024": 953,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501737000",

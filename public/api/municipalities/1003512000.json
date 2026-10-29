@@ -4,7 +4,9 @@
     "name": "Maigo",
     "code": "103512000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 23337,
+    "population2024": 23400,
     "regionCode": "1000000000",
     "provinceCode": "1003500000",
     "isCapital": false

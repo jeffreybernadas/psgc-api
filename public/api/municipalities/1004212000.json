@@ -4,7 +4,9 @@
     "name": "Plaridel",
     "code": "104212000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 39840,
+    "population2024": 40321,
     "regionCode": "1000000000",
     "provinceCode": "1004200000",
     "isCapital": false

@@ -4,8 +4,11 @@
     "name": "City of Bayawan",
     "code": "074606000",
     "geographicLevel": "City",
+    "oldName": "Tulong",
     "cityClass": "CC",
+    "incomeClassification": "1st",
     "population2020": 122747,
+    "population2024": 126744,
     "regionCode": "1800000000",
     "provinceCode": "1804600000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1130700126",
-    "name": "Toril  (Pob.)",
+    "name": "Toril (Pob.)",
     "code": "112402126",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 12393,
+    "population2024": 12600,
     "regionCode": "1100000000",
     "provinceCode": "1130700000",
     "cityMunicipalityCode": "1130700000",

@@ -4,7 +4,9 @@
     "name": "Initao",
     "code": "104310000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 33902,
+    "population2024": 34445,
     "regionCode": "1000000000",
     "provinceCode": "1004300000",
     "isCapital": false

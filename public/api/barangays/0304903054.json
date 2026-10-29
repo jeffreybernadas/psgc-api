@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0304903054",
-    "name": "Melojavilla  (Pob.)",
+    "name": "Melojavilla (Pob.)",
     "code": "034903054",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 387,
+    "population2024": 429,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "cityMunicipalityCode": "0304903000",

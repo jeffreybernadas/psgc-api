@@ -4,7 +4,9 @@
     "name": "Magallanes",
     "code": "056211000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 37411,
+    "population2024": 38072,
     "regionCode": "0500000000",
     "provinceCode": "0506200000",
     "isCapital": false

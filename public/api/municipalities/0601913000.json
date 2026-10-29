@@ -4,7 +4,9 @@
     "name": "President Roxas",
     "code": "061913000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 31269,
+    "population2024": 32436,
     "regionCode": "0600000000",
     "provinceCode": "0601900000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705302009",
-    "name": "Cambian  (Pob.)",
+    "name": "Cambian (Pob.)",
     "code": "175302009",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 415,
+    "population2024": 456,
     "regionCode": "1700000000",
     "provinceCode": "1705300000",
     "cityMunicipalityCode": "1705302000",

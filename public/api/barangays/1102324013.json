@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1102324013",
-    "name": "Sawata",
+    "name": "Poblacion",
     "code": "112324013",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 4123,
+    "population2024": 4152,
     "regionCode": "1100000000",
     "provinceCode": "1102300000",
     "cityMunicipalityCode": "1102324000",

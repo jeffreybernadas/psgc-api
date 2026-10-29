@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0304904008",
-    "name": "Natividad North  (Pob.)",
+    "name": "Natividad North (Pob.)",
     "code": "034904008",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 575,
+    "population2024": 641,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "cityMunicipalityCode": "0304904000",

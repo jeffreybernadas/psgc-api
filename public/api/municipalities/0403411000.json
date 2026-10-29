@@ -4,7 +4,9 @@
     "name": "Los Baños",
     "code": "043411000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 115353,
+    "population2024": 117030,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "isCapital": false

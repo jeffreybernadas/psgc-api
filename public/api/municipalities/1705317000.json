@@ -4,7 +4,9 @@
     "name": "Quezon",
     "code": "175317000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 65283,
+    "population2024": 68532,
     "regionCode": "1700000000",
     "provinceCode": "1705300000",
     "isCapital": false

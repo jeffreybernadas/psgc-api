@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0804817011",
-    "name": "Ward III  (Pob.)",
+    "name": "Ward III (Pob.)",
     "code": "084817011",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 1522,
+    "population2024": 1480,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "cityMunicipalityCode": "0804817000",

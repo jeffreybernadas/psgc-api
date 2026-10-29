@@ -4,7 +4,9 @@
     "name": "Valladolid",
     "code": "064530000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 39996,
+    "population2024": 40487,
     "regionCode": "1800000000",
     "provinceCode": "1804500000",
     "isCapital": false

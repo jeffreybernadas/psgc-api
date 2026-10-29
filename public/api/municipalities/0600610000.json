@@ -4,7 +4,9 @@
     "name": "Libertad",
     "code": "060610000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 17507,
+    "population2024": 18685,
     "regionCode": "0600000000",
     "provinceCode": "0600600000",
     "isCapital": false

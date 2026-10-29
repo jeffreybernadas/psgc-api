@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0201505012",
-    "name": "Centro 8  (Pob.)",
+    "name": "Centro 8 (Pob.)",
     "code": "021505012",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 146,
+    "population2024": 148,
     "regionCode": "0200000000",
     "provinceCode": "0201500000",
     "cityMunicipalityCode": "0201505000",

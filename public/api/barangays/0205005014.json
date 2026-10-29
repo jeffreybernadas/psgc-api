@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "0205005014",
-    "name": "Don Domingo Maddela Pob. ",
+    "name": "Don Domingo Maddela Pob.",
     "code": "025005014",
     "geographicLevel": "Brgy",
+    "oldName": "District I",
     "urbanRural": "Urban",
     "population2020": 1019,
+    "population2024": 1042,
     "regionCode": "0200000000",
     "provinceCode": "0205000000",
     "cityMunicipalityCode": "0205005000",

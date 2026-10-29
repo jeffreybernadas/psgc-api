@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0806007008",
-    "name": "Burabod I  (Pob.)",
+    "name": "Burabod I (Pob.)",
     "code": "086007008",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 184,
+    "population2024": 198,
     "regionCode": "0800000000",
     "provinceCode": "0806000000",
     "cityMunicipalityCode": "0806007000",

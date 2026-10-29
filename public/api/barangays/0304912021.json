@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0304912021",
-    "name": "Ocampo-Rivera District  (Pob.)",
+    "name": "Ocampo-Rivera District (Pob.)",
     "code": "034912021",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 727,
+    "population2024": 752,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "cityMunicipalityCode": "0304912000",

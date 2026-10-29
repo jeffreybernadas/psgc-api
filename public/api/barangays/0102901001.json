@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102901001",
-    "name": "Alilem Daya  (Pob.)",
+    "name": "Alilem Daya (Pob.)",
     "code": "012901001",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1684,
+    "population2024": 1630,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "cityMunicipalityCode": "0102901000",

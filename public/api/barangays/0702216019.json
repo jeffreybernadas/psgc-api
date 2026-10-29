@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0702216019",
-    "name": "Corazon  (Pob.)",
+    "name": "Corazon (Pob.)",
     "code": "072216019",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 3215,
+    "population2024": 2342,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "cityMunicipalityCode": "0702216000",

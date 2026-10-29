@@ -4,7 +4,9 @@
     "name": "Sarrat",
     "code": "012821000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 25186,
+    "population2024": 26294,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "isCapital": false

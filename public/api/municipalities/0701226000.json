@@ -4,7 +4,9 @@
     "name": "Getafe",
     "code": "071226000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 33422,
+    "population2024": 33485,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "isCapital": false

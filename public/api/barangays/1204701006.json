@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1204701006",
-    "name": "Kitacubong  (Pob.)",
+    "name": "Kitacubong (Pob.)",
     "code": "124701006",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 6075,
+    "population2024": 5595,
     "regionCode": "1200000000",
     "provinceCode": "1204700000",
     "cityMunicipalityCode": "1204701000",

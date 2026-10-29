@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405625019",
-    "name": "Castillo  (Pob.)",
+    "name": "Castillo (Pob.)",
     "code": "045625019",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1587,
+    "population2024": 1610,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405625000",

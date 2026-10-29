@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "1204704000",
-    "name": "City of Kidapawan ",
+    "name": "City of Kidapawan",
     "code": "124704000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "1st",
     "population2020": 160791,
+    "population2024": 160864,
     "regionCode": "1200000000",
     "provinceCode": "1204700000",
     "isCapital": true

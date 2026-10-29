@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0603036006",
-    "name": "Purok II  (Pob.)",
+    "name": "Purok II (Pob.)",
     "code": "063036006",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 1472,
+    "population2024": 1368,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "cityMunicipalityCode": "0603036000",

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501734031",
-    "name": "North Centro  (Pob.)",
+    "name": "North Centro (Pob.)",
     "code": "051734031",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 3560,
+    "population2024": 3048,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501734000",

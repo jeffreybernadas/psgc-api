@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0304903031",
-    "name": "Dicarma  (Pob.)",
+    "name": "Dicarma (Pob.)",
     "code": "034903031",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 4344,
+    "population2024": 4471,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "cityMunicipalityCode": "0304903000",

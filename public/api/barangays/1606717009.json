@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1606717009",
-    "name": "Ipil  (Pob.)",
+    "name": "Ipil (Pob.)",
     "code": "166717009",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1014,
+    "population2024": 1037,
     "regionCode": "1600000000",
     "provinceCode": "1606700000",
     "cityMunicipalityCode": "1606717000",

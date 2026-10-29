@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0906608013",
-    "name": "Simbahan  (Pob.)",
+    "name": "Simbahan (Pob.)",
     "code": "156608013",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 5636,
+    "population2024": 6260,
     "regionCode": "0900000000",
     "provinceCode": "0906600000",
     "cityMunicipalityCode": "0906608000",

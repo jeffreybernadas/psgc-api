@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907319019",
-    "name": "Makuguihon  (Pob.)",
+    "name": "Makuguihon (Pob.)",
     "code": "097319019",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 4121,
+    "population2024": 4056,
     "regionCode": "0900000000",
     "provinceCode": "0907300000",
     "cityMunicipalityCode": "0907319000",

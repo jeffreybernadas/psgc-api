@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "0500506000",
-    "name": "City of Legazpi ",
+    "name": "City of Legazpi",
     "code": "050506000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "1st",
     "population2020": 209533,
+    "population2024": 210616,
     "regionCode": "0500000000",
     "provinceCode": "0500500000",
     "isCapital": true

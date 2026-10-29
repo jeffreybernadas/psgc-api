@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0731300010",
-    "name": "Centro  (Pob.)",
+    "name": "Centro (Pob.)",
     "code": "072230010",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2980,
+    "population2024": 3072,
     "regionCode": "0700000000",
     "provinceCode": "0731300000",
     "cityMunicipalityCode": "0731300000",

@@ -4,7 +4,9 @@
     "name": "Hamtic",
     "code": "060608000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 52685,
+    "population2024": 54455,
     "regionCode": "0600000000",
     "provinceCode": "0600600000",
     "isCapital": false

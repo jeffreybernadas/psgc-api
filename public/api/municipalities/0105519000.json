@@ -4,7 +4,9 @@
     "name": "Dasol",
     "code": "015519000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 31355,
+    "population2024": 31842,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "isCapital": false

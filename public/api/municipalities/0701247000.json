@@ -4,7 +4,9 @@
     "name": "Valencia",
     "code": "071247000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 28392,
+    "population2024": 28535,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "isCapital": false

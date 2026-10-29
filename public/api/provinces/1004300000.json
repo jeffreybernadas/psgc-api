@@ -4,7 +4,9 @@
     "name": "Misamis Oriental",
     "code": "104300000",
     "geographicLevel": "Prov",
+    "incomeClassification": "1st",
     "population2020": 956900,
+    "population2024": 988065,
     "regionCode": "1000000000"
   }
 ]

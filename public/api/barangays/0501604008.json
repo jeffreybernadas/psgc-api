@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501604008",
-    "name": "Matacong  (Pob.)",
+    "name": "Matacong (Pob.)",
     "code": "051604008",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 3989,
+    "population2024": 3898,
     "regionCode": "0500000000",
     "provinceCode": "0501600000",
     "cityMunicipalityCode": "0501604000",

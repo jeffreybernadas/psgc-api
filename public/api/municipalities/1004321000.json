@@ -4,7 +4,9 @@
     "name": "Opol",
     "code": "104321000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 66327,
+    "population2024": 66836,
     "regionCode": "1000000000",
     "provinceCode": "1004300000",
     "isCapital": false

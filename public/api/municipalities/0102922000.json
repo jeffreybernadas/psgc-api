@@ -4,7 +4,9 @@
     "name": "Santa",
     "code": "012922000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 14992,
+    "population2024": 15164,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "isCapital": false

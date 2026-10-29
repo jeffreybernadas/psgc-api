@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405619036",
-    "name": "Pipisik  (Pob.)",
+    "name": "Pipisik (Pob.)",
     "code": "045619036",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 742,
+    "population2024": 729,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405619000",

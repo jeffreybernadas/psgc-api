@@ -4,7 +4,9 @@
     "name": "Santa Barbara",
     "code": "063043000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 67630,
+    "population2024": 68467,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "isCapital": false

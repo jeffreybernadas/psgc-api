@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1102318011",
-    "name": "Tibal-og  (Pob.)",
+    "name": "Tibal-og (Pob.)",
     "code": "112318011",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 48459,
+    "population2024": 48520,
     "regionCode": "1100000000",
     "provinceCode": "1102300000",
     "cityMunicipalityCode": "1102318000",

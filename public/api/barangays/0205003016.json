@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0205003016",
-    "name": "Quirino  (Pob.)",
+    "name": "Quirino (Pob.)",
     "code": "025003016",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1307,
+    "population2024": 1575,
     "regionCode": "0200000000",
     "provinceCode": "0205000000",
     "cityMunicipalityCode": "0205003000",

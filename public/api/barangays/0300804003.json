@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0300804003",
-    "name": "Bonifacio  (Pob.)",
+    "name": "Bonifacio (Pob.)",
     "code": "030804003",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 366,
+    "population2024": 382,
     "regionCode": "0300000000",
     "provinceCode": "0300800000",
     "cityMunicipalityCode": "0300804000",

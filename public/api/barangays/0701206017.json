@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0701206017",
-    "name": "Del Carmen Sur  (Pob.)",
+    "name": "Del Carmen Sur (Pob.)",
     "code": "071206017",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 630,
+    "population2024": 645,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "cityMunicipalityCode": "0701206000",

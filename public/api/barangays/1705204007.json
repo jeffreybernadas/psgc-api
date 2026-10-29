@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705204007",
-    "name": "Campaasan  (Pob.)",
+    "name": "Campaasan (Pob.)",
     "code": "175204007",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 3228,
+    "population2024": 3295,
     "regionCode": "1700000000",
     "provinceCode": "1705200000",
     "cityMunicipalityCode": "1705204000",

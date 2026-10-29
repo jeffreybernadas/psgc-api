@@ -4,7 +4,9 @@
     "name": "Pakil",
     "code": "043420000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 23495,
+    "population2024": 23972,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "Padada",
     "code": "112411000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 29878,
+    "population2024": 29888,
     "regionCode": "1100000000",
     "provinceCode": "1102400000",
     "isCapital": false

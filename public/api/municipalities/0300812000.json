@@ -4,7 +4,9 @@
     "name": "Samal",
     "code": "030812000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 38302,
+    "population2024": 40843,
     "regionCode": "0300000000",
     "provinceCode": "0300800000",
     "isCapital": false

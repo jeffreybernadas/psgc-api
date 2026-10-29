@@ -4,7 +4,9 @@
     "name": "Marabut",
     "code": "086010000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 17842,
+    "population2024": 18168,
     "regionCode": "0800000000",
     "provinceCode": "0806000000",
     "isCapital": false

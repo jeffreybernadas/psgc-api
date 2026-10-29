@@ -4,7 +4,9 @@
     "name": "Atok",
     "code": "141101000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 19218,
+    "population2024": 19346,
     "regionCode": "1400000000",
     "provinceCode": "1401100000",
     "isCapital": false

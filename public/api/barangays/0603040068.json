@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0603040068",
-    "name": "Purok 4  (Pob.)",
+    "name": "Purok 4 (Pob.)",
     "code": "063040068",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 768,
+    "population2024": 717,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "cityMunicipalityCode": "0603040000",

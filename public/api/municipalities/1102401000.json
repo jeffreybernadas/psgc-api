@@ -4,7 +4,9 @@
     "name": "Bansalan",
     "code": "112401000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 62737,
+    "population2024": 64816,
     "regionCode": "1100000000",
     "provinceCode": "1102400000",
     "isCapital": false

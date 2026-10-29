@@ -4,7 +4,9 @@
     "name": "San Isidro",
     "code": "023129000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 27044,
+    "population2024": 27326,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "Buenavista",
     "code": "071209000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 29711,
+    "population2024": 31095,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "isCapital": false

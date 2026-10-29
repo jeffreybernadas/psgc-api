@@ -4,7 +4,9 @@
     "name": "Minalabac",
     "code": "051722000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 53981,
+    "population2024": 51841,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "Urbiztondo",
     "code": "015545000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 55557,
+    "population2024": 56349,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "isCapital": false

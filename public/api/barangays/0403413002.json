@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0403413002",
-    "name": "Balimbingan  (Pob.)",
+    "name": "Balimbingan (Pob.)",
     "code": "043413002",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1052,
+    "population2024": 1030,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "cityMunicipalityCode": "0403413000",

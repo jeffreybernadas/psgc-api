@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102809022",
-    "name": "Peralta  (Pob.)",
+    "name": "Peralta (Pob.)",
     "code": "012809022",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1340,
+    "population2024": 1318,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "cityMunicipalityCode": "0102809000",

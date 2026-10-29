@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501731015",
-    "name": "San Antonio  (Pob.)",
+    "name": "San Antonio (Pob.)",
     "code": "051731015",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1272,
+    "population2024": 800,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501731000",

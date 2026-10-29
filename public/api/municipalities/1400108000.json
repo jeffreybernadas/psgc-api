@@ -4,7 +4,9 @@
     "name": "La Paz",
     "code": "140108000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 16493,
+    "population2024": 16014,
     "regionCode": "1400000000",
     "provinceCode": "1400100000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "Matanao",
     "code": "112410000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 60493,
+    "population2024": 62773,
     "regionCode": "1100000000",
     "provinceCode": "1102400000",
     "isCapital": false

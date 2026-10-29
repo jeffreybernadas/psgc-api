@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "1408104000",
-    "name": "Kabugao ",
+    "name": "Kabugao",
     "code": "148104000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 16215,
+    "population2024": 16425,
     "regionCode": "1400000000",
     "provinceCode": "1408100000",
     "isCapital": true

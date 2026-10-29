@@ -4,7 +4,9 @@
     "name": "Labrador",
     "code": "015521000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 26811,
+    "population2024": 26995,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "isCapital": false

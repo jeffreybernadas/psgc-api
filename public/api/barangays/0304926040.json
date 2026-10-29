@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0304926040",
-    "name": "Villa Floresca",
+    "name": "Villa Floresta",
     "code": "034926040",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 960,
+    "population2024": 2035,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "cityMunicipalityCode": "0304926000",

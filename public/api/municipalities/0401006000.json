@@ -4,7 +4,9 @@
     "name": "Bauan",
     "code": "041006000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 90819,
+    "population2024": 94016,
     "regionCode": "0400000000",
     "provinceCode": "0401000000",
     "isCapital": false

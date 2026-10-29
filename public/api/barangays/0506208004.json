@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0506208004",
-    "name": "Balud Del Sur  (Pob.)",
+    "name": "Balud Del Sur (Pob.)",
     "code": "056208004",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1293,
+    "population2024": 1309,
     "regionCode": "0500000000",
     "provinceCode": "0506200000",
     "cityMunicipalityCode": "0506208000",

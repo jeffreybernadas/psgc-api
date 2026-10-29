@@ -4,7 +4,9 @@
     "name": "Siay",
     "code": "098313000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 40585,
+    "population2024": 43233,
     "regionCode": "0900000000",
     "provinceCode": "0908300000",
     "isCapital": false

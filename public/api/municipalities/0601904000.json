@@ -4,7 +4,9 @@
     "name": "Dumarao",
     "code": "061904000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 49506,
+    "population2024": 51633,
     "regionCode": "0600000000",
     "provinceCode": "0601900000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405632006",
-    "name": "Patnanungan Sur  (Pob.)",
+    "name": "Patnanungan Sur (Pob.)",
     "code": "045632006",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 6496,
+    "population2024": 6948,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405632000",

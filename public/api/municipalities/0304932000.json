@@ -4,7 +4,9 @@
     "name": "Zaragoza",
     "code": "034932000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 53090,
+    "population2024": 55657,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "isCapital": false

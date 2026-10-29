@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0103316020",
-    "name": "Ili Norte  (Pob.)",
+    "name": "Ili Norte (Pob.)",
     "code": "013316020",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2908,
+    "population2024": 2660,
     "regionCode": "0100000000",
     "provinceCode": "0103300000",
     "cityMunicipalityCode": "0103316000",

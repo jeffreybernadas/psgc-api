@@ -4,7 +4,9 @@
     "name": "San Antonio",
     "code": "034924000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 83060,
+    "population2024": 84958,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "isCapital": false

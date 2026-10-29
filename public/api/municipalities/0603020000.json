@@ -4,7 +4,9 @@
     "name": "Guimbal",
     "code": "063020000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 35022,
+    "population2024": 35129,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "isCapital": false

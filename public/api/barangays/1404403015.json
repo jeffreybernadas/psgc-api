@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1404403015",
-    "name": "Kin-iway  (Pob.)",
+    "name": "Kin-iway (Pob.)",
     "code": "144403015",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 851,
+    "population2024": 822,
     "regionCode": "1400000000",
     "provinceCode": "1404400000",
     "cityMunicipalityCode": "1404403000",

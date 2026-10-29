@@ -4,7 +4,9 @@
     "name": "Santa Lucia",
     "code": "012925000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 25966,
+    "population2024": 26200,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "isCapital": false

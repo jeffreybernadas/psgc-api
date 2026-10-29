@@ -4,7 +4,9 @@
     "name": "Buluan",
     "code": "153803000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 57406,
+    "population2024": 60931,
     "regionCode": "1900000000",
     "provinceCode": "1908800000",
     "isCapital": true

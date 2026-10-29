@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "0807808000",
-    "name": "Naval ",
+    "name": "Naval",
     "code": "087808000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 58187,
+    "population2024": 59236,
     "regionCode": "0800000000",
     "provinceCode": "0807800000",
     "isCapital": true

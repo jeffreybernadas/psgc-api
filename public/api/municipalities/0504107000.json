@@ -4,7 +4,9 @@
     "name": "Claveria",
     "code": "054107000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 42142,
+    "population2024": 40733,
     "regionCode": "0500000000",
     "provinceCode": "0504100000",
     "isCapital": false

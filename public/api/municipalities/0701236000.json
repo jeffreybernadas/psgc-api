@@ -4,7 +4,10 @@
     "name": "Sagbayan",
     "code": "071236000",
     "geographicLevel": "Mun",
+    "oldName": "Borja",
+    "incomeClassification": "3rd",
     "population2020": 24335,
+    "population2024": 25329,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405812005",
-    "name": "Kaybuto  (Pob.)",
+    "name": "Kaybuto (Pob.)",
     "code": "045812005",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 9148,
+    "population2024": 9166,
     "regionCode": "0400000000",
     "provinceCode": "0405800000",
     "cityMunicipalityCode": "0405812000",

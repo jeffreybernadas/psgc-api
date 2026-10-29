@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0403424029",
-    "name": "Barangay VII-A  (Pob.)",
+    "name": "Barangay VII-A (Pob.)",
     "code": "043424029",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 1432,
+    "population2024": 1340,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "cityMunicipalityCode": "0403424000",

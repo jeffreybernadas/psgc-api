@@ -4,7 +4,9 @@
     "name": "Bucay",
     "code": "140103000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 17953,
+    "population2024": 17775,
     "regionCode": "1400000000",
     "provinceCode": "1400100000",
     "isCapital": false

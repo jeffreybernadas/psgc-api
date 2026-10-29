@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0103301004",
-    "name": "Consolacion  (Pob.)",
+    "name": "Consolacion (Pob.)",
     "code": "013301004",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 1714,
+    "population2024": 1434,
     "regionCode": "0100000000",
     "provinceCode": "0103300000",
     "cityMunicipalityCode": "0103301000",

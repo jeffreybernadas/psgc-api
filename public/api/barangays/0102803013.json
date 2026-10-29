@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102803013",
-    "name": "Garreta  (Pob.)",
+    "name": "Garreta (Pob.)",
     "code": "012803013",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 1383,
+    "population2024": 1313,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "cityMunicipalityCode": "0102803000",

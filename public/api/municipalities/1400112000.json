@@ -4,7 +4,9 @@
     "name": "Langiden",
     "code": "140112000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 3576,
+    "population2024": 3457,
     "regionCode": "1400000000",
     "provinceCode": "1400100000",
     "isCapital": false

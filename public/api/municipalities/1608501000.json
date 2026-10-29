@@ -4,7 +4,10 @@
     "name": "Basilisa",
     "code": "168501000",
     "geographicLevel": "Mun",
+    "oldName": "Rizal",
+    "incomeClassification": "3rd",
     "population2020": 36911,
+    "population2024": 27238,
     "regionCode": "1600000000",
     "provinceCode": "1608500000",
     "isCapital": false

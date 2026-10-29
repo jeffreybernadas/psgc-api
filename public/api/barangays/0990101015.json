@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0990101015",
-    "name": "Isabela Proper  (Pob.)",
+    "name": "Isabela Proper (Pob.)",
     "code": "099701015",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 1386,
+    "population2024": 1609,
     "regionCode": "0900000000",
     "provinceCode": "0990100000",
     "cityMunicipalityCode": "0990101000",

@@ -4,7 +4,9 @@
     "name": "Tadian",
     "code": "144410000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 19341,
+    "population2024": 18073,
     "regionCode": "1400000000",
     "provinceCode": "1404400000",
     "isCapital": false

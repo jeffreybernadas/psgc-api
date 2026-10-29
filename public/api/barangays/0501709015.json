@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501709015",
-    "name": "Santo Tomas  (Pob.)",
+    "name": "Santo Tomas (Pob.)",
     "code": "051709015",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 707,
+    "population2024": 1808,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501709000",

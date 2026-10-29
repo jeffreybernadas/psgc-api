@@ -4,7 +4,9 @@
     "name": "Cardona",
     "code": "045806000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 50143,
+    "population2024": 51493,
     "regionCode": "0400000000",
     "provinceCode": "0405800000",
     "isCapital": false

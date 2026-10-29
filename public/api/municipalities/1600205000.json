@@ -4,7 +4,9 @@
     "name": "Jabonga",
     "code": "160205000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 24855,
+    "population2024": 25937,
     "regionCode": "1600000000",
     "provinceCode": "1600200000",
     "isCapital": false

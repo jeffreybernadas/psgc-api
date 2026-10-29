@@ -4,7 +4,9 @@
     "name": "Cabagan",
     "code": "023106000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 53897,
+    "population2024": 55445,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "isCapital": false

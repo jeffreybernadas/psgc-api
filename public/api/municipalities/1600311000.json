@@ -4,7 +4,9 @@
     "name": "Talacogon",
     "code": "160311000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 39678,
+    "population2024": 37744,
     "regionCode": "1600000000",
     "provinceCode": "1600300000",
     "isCapital": false

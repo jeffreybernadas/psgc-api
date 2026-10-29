@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0502006010",
-    "name": "Libod  (Pob.)",
+    "name": "Libod (Pob.)",
     "code": "052006010",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1634,
+    "population2024": 1502,
     "regionCode": "0500000000",
     "provinceCode": "0502000000",
     "cityMunicipalityCode": "0502006000",

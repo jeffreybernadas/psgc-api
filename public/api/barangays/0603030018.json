@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0603030018",
-    "name": "Bolho  (Pob.)",
+    "name": "Bolho (Pob.)",
     "code": "063030018",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 387,
+    "population2024": 480,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "cityMunicipalityCode": "0603030000",

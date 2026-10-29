@@ -4,7 +4,9 @@
     "name": "Tibiao",
     "code": "060617000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 28703,
+    "population2024": 29608,
     "regionCode": "0600000000",
     "provinceCode": "0600600000",
     "isCapital": false

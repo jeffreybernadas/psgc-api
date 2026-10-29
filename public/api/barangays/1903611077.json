@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1903611077",
-    "name": "Maribo  (Pob.)",
+    "name": "Maribo (Pob.)",
     "code": "153611077",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2025,
+    "population2024": 2400,
     "regionCode": "1900000000",
     "provinceCode": "1903600000",
     "cityMunicipalityCode": "1903611000",

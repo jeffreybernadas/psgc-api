@@ -4,7 +4,9 @@
     "name": "Capul",
     "code": "084804000",
     "geographicLevel": "Mun",
+    "incomeClassification": "5th",
     "population2020": 12323,
+    "population2024": 12127,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405622006",
-    "name": "Gomez  (Pob.)",
+    "name": "Gomez (Pob.)",
     "code": "045622006",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 3916,
+    "population2024": 3787,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405622000",

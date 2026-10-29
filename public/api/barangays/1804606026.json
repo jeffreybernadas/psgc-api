@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1804606026",
-    "name": "Ubos  (Pob.)",
+    "name": "Ubos (Pob.)",
     "code": "074606026",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1600,
+    "population2024": 1468,
     "regionCode": "1800000000",
     "provinceCode": "1804600000",
     "cityMunicipalityCode": "1804606000",

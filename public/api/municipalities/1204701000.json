@@ -4,7 +4,9 @@
     "name": "Alamada",
     "code": "124701000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 68659,
+    "population2024": 71523,
     "regionCode": "1200000000",
     "provinceCode": "1204700000",
     "isCapital": false

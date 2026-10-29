@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0201508005",
-    "name": "Centro  (Pob.)",
+    "name": "Centro (Pob.)",
     "code": "021508005",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2252,
+    "population2024": 2201,
     "regionCode": "0200000000",
     "provinceCode": "0201500000",
     "cityMunicipalityCode": "0201508000",

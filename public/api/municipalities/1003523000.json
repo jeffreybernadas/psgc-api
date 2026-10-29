@@ -4,7 +4,9 @@
     "name": "Pantar",
     "code": "103523000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 26599,
+    "population2024": 27300,
     "regionCode": "1000000000",
     "provinceCode": "1003500000",
     "isCapital": false

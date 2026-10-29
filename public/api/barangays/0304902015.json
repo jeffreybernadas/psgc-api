@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0304902015",
-    "name": "Mantile  (Pob.)",
+    "name": "Mantile (Pob.)",
     "code": "034902015",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1399,
+    "population2024": 1691,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "cityMunicipalityCode": "0304902000",

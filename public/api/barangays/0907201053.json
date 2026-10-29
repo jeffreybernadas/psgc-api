@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907201053",
-    "name": "Linabo  (Pob.)",
+    "name": "Linabo (Pob.)",
     "code": "097201053",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1530,
+    "population2024": 1522,
     "regionCode": "0900000000",
     "provinceCode": "0907200000",
     "cityMunicipalityCode": "0907201000",

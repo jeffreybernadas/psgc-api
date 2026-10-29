@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405615009",
-    "name": "Maligaya  (Pob.)",
+    "name": "Maligaya (Pob.)",
     "code": "045615009",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 636,
+    "population2024": 586,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405615000",

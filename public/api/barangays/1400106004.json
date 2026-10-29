@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1400106004",
-    "name": "Caupasan  (Pob.)",
+    "name": "Caupasan (Pob.)",
     "code": "140106004",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1189,
+    "population2024": 1221,
     "regionCode": "1400000000",
     "provinceCode": "1400100000",
     "cityMunicipalityCode": "1400106000",

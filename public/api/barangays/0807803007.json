@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0807803007",
-    "name": "Esperanza  (Pob.)",
+    "name": "Esperanza (Pob.)",
     "code": "087803007",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1224,
+    "population2024": 1225,
     "regionCode": "0800000000",
     "provinceCode": "0807800000",
     "cityMunicipalityCode": "0807803000",

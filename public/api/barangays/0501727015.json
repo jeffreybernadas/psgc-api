@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501727015",
-    "name": "San Cirilo  (Pob.)",
+    "name": "San Cirilo (Pob.)",
     "code": "051727015",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 5331,
+    "population2024": 5045,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501727000",

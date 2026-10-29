@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1830200019",
-    "name": "Barangay 23  (Pob.)",
+    "name": "Barangay 23 (Pob.)",
     "code": "064501019",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 632,
+    "population2024": 701,
     "regionCode": "1800000000",
     "provinceCode": "1830200000",
     "cityMunicipalityCode": "1830200000",

@@ -4,7 +4,9 @@
     "name": "Balud",
     "code": "054103000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 40155,
+    "population2024": 40236,
     "regionCode": "0500000000",
     "provinceCode": "0504100000",
     "isCapital": false

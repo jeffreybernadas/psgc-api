@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0305405025",
-    "name": "Pescadores  (Pob.)",
+    "name": "Pescadores (Pob.)",
     "code": "035405025",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1872,
+    "population2024": 1979,
     "regionCode": "0300000000",
     "provinceCode": "0305400000",
     "cityMunicipalityCode": "0305405000",

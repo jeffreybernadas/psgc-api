@@ -4,7 +4,9 @@
     "name": "Santa Cruz",
     "code": "175111000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 42417,
+    "population2024": 40010,
     "regionCode": "1700000000",
     "provinceCode": "1705100000",
     "isCapital": false

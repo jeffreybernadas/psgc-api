@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1004201027",
-    "name": "Ospital  (Pob.)",
+    "name": "Ospital (Pob.)",
     "code": "104201027",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 522,
+    "population2024": 431,
     "regionCode": "1000000000",
     "provinceCode": "1004200000",
     "cityMunicipalityCode": "1004201000",

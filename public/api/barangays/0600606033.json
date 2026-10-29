@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0600606033",
-    "name": "Centro Sur  (Pob.)",
+    "name": "Centro Sur (Pob.)",
     "code": "060606033",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 1632,
+    "population2024": 1723,
     "regionCode": "0600000000",
     "provinceCode": "0600600000",
     "cityMunicipalityCode": "0600606000",

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0305410022",
-    "name": "Sto. Rosario  (Pob.)",
+    "name": "Sto. Rosario (Pob.)",
     "code": "035410022",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 2561,
+    "population2024": 2610,
     "regionCode": "0300000000",
     "provinceCode": "0305400000",
     "cityMunicipalityCode": "0305410000",

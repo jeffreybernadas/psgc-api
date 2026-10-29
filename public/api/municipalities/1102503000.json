@@ -4,7 +4,9 @@
     "name": "Boston",
     "code": "112503000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 14618,
+    "population2024": 15074,
     "regionCode": "1100000000",
     "provinceCode": "1102500000",
     "isCapital": false

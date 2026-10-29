@@ -4,7 +4,9 @@
     "name": "San Pascual",
     "code": "041026000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 69009,
+    "population2024": 69419,
     "regionCode": "0400000000",
     "provinceCode": "0401000000",
     "isCapital": false

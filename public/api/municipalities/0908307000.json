@@ -4,7 +4,9 @@
     "name": "Mabuhay",
     "code": "098307000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 37390,
+    "population2024": 24296,
     "regionCode": "0900000000",
     "provinceCode": "0908300000",
     "isCapital": false

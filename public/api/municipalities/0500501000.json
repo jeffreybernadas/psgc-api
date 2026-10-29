@@ -4,7 +4,9 @@
     "name": "Bacacay",
     "code": "050501000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 72485,
+    "population2024": 72298,
     "regionCode": "0500000000",
     "provinceCode": "0500500000",
     "isCapital": false

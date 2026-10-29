@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1804528033",
-    "name": "Zone 14-A  (Pob.)",
+    "name": "Zone 14-A (Pob.)",
     "code": "064528033",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 929,
+    "population2024": 791,
     "regionCode": "1800000000",
     "provinceCode": "1804500000",
     "cityMunicipalityCode": "1804528000",

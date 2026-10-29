@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907220038",
-    "name": "Sirawai Proper  (Pob.)",
+    "name": "Sirawai Proper (Pob.)",
     "code": "097220038",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1939,
+    "population2024": 2627,
     "regionCode": "0900000000",
     "provinceCode": "0907200000",
     "cityMunicipalityCode": "0907220000",

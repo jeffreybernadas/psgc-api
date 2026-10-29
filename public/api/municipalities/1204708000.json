@@ -4,7 +4,9 @@
     "name": "Matalam",
     "code": "124708000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 81355,
+    "population2024": 81610,
     "regionCode": "1200000000",
     "provinceCode": "1204700000",
     "isCapital": false

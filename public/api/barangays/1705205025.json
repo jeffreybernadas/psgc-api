@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705205025",
-    "name": "Ibaba East  (Pob.)",
+    "name": "Ibaba East (Pob.)",
     "code": "175205025",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 1010,
+    "population2024": 988,
     "regionCode": "1700000000",
     "provinceCode": "1705200000",
     "cityMunicipalityCode": "1705205000",

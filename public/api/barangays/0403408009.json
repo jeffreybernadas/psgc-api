@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0403408009",
-    "name": "Calumpang  (Pob.)",
+    "name": "Calumpang (Pob.)",
     "code": "043408009",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 362,
+    "population2024": 418,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "cityMunicipalityCode": "0403408000",

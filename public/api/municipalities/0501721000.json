@@ -4,7 +4,9 @@
     "name": "Milaor",
     "code": "051721000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 33963,
+    "population2024": 33680,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "isCapital": false

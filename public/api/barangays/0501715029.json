@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501715029",
-    "name": "San Juan Evangelista  (Pob.)",
+    "name": "San Juan Evangelista (Pob.)",
     "code": "051715029",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 828,
+    "population2024": 596,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501715000",

@@ -1,10 +1,13 @@
 [
   {
     "psgc10DigitCode": "1004217000",
-    "name": "Don Victoriano Chiongbian",
+    "name": "Don Victoriano",
     "code": "104217000",
     "geographicLevel": "Mun",
+    "oldName": "Don Mariano Marcos",
+    "incomeClassification": "3rd",
     "population2020": 9664,
+    "population2024": 10214,
     "regionCode": "1000000000",
     "provinceCode": "1004200000",
     "isCapital": false

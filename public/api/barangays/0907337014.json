@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907337014",
-    "name": "Gumahan  (Pob.)",
+    "name": "Gumahan (Pob.)",
     "code": "097337014",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1862,
+    "population2024": 1779,
     "regionCode": "0900000000",
     "provinceCode": "0907300000",
     "cityMunicipalityCode": "0907337000",

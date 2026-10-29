@@ -4,7 +4,9 @@
     "name": "Estancia",
     "code": "063019000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 53200,
+    "population2024": 54882,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "isCapital": false

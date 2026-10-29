@@ -4,7 +4,9 @@
     "name": "Lawaan",
     "code": "082612000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 13003,
+    "population2024": 13063,
     "regionCode": "0800000000",
     "provinceCode": "0802600000",
     "isCapital": false

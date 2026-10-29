@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405649026",
-    "name": "R. Lapu-lapu  (Pob.)",
+    "name": "R. Lapu-lapu (Pob.)",
     "code": "045649026",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 349,
+    "population2024": 338,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405649000",

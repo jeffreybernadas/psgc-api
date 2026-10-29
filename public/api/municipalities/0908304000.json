@@ -4,7 +4,9 @@
     "name": "Imelda",
     "code": "098304000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 26020,
+    "population2024": 29652,
     "regionCode": "0900000000",
     "provinceCode": "0908300000",
     "isCapital": false

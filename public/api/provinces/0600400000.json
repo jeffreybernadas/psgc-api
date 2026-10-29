@@ -4,7 +4,9 @@
     "name": "Aklan",
     "code": "060400000",
     "geographicLevel": "Prov",
+    "incomeClassification": "1st",
     "population2020": 615475,
+    "population2024": 634422,
     "regionCode": "0600000000"
   }
 ]

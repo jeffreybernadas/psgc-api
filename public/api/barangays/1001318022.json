@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1001318022",
-    "name": "Halapitan  (Pob.)",
+    "name": "Halapitan (Pob.)",
     "code": "101318022",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 11726,
+    "population2024": 11633,
     "regionCode": "1000000000",
     "provinceCode": "1001300000",
     "cityMunicipalityCode": "1001318000",

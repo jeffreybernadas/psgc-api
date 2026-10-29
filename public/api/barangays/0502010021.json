@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0502010021",
-    "name": "San Isidro  (Pob.)",
+    "name": "San Isidro (Pob.)",
     "code": "052010021",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 294,
+    "population2024": 275,
     "regionCode": "0500000000",
     "provinceCode": "0502000000",
     "cityMunicipalityCode": "0502010000",

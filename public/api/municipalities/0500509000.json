@@ -4,7 +4,9 @@
     "name": "Malilipot",
     "code": "050509000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 40857,
+    "population2024": 41066,
     "regionCode": "0500000000",
     "provinceCode": "0500500000",
     "isCapital": false

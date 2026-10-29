@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0203122011",
-    "name": "Samonte  (Pob.)",
+    "name": "Samonte (Pob.)",
     "code": "023122011",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 1850,
+    "population2024": 1813,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "cityMunicipalityCode": "0203122000",

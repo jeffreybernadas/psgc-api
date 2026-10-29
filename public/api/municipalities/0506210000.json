@@ -4,7 +4,9 @@
     "name": "Juban",
     "code": "056210000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 35297,
+    "population2024": 35978,
     "regionCode": "0500000000",
     "provinceCode": "0506200000",
     "isCapital": false

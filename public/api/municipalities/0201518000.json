@@ -4,7 +4,9 @@
     "name": "Pamplona",
     "code": "021518000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 24781,
+    "population2024": 25182,
     "regionCode": "0200000000",
     "provinceCode": "0201500000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "Eastern Samar",
     "code": "082600000",
     "geographicLevel": "Prov",
+    "incomeClassification": "1st",
     "population2020": 477168,
+    "population2024": 472683,
     "regionCode": "0800000000"
   }
 ]

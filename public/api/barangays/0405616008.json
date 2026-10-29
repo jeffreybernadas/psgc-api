@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405616008",
-    "name": "Barangay 6  (Pob.)",
+    "name": "Barangay 6 (Pob.)",
     "code": "045616008",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 287,
+    "population2024": 262,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405616000",

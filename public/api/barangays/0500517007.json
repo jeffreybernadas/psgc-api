@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0500517007",
-    "name": "Basud  (Pob.)",
+    "name": "Basud (Pob.)",
     "code": "050517007",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2688,
+    "population2024": 2173,
     "regionCode": "0500000000",
     "provinceCode": "0500500000",
     "cityMunicipalityCode": "0500517000",

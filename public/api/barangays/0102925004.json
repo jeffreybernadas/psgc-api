@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102925004",
-    "name": "Ayusan  (Pob.)",
+    "name": "Ayusan (Pob.)",
     "code": "012925004",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1213,
+    "population2024": 1084,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "cityMunicipalityCode": "0102925000",

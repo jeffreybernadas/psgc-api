@@ -4,7 +4,9 @@
     "name": "Aparri",
     "code": "021505000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 68839,
+    "population2024": 68368,
     "regionCode": "0200000000",
     "provinceCode": "0201500000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0307112007",
-    "name": "Libertad  (Pob.)",
+    "name": "Libertad (Pob.)",
     "code": "037112007",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 548,
+    "population2024": 559,
     "regionCode": "0300000000",
     "provinceCode": "0307100000",
     "cityMunicipalityCode": "0307112000",

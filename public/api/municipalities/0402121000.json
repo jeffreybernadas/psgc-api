@@ -4,7 +4,9 @@
     "name": "Ternate",
     "code": "042121000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 24653,
+    "population2024": 24891,
     "regionCode": "0400000000",
     "provinceCode": "0402100000",
     "isCapital": false

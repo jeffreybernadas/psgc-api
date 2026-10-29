@@ -4,7 +4,9 @@
     "name": "Tiwi",
     "code": "050518000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 56444,
+    "population2024": 56871,
     "regionCode": "0500000000",
     "provinceCode": "0500500000",
     "isCapital": false

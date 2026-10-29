@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1130700155",
-    "name": "Barangay 22-C  (Pob.)",
+    "name": "Barangay 22-C (Pob.)",
     "code": "112402155",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 7643,
+    "population2024": 8248,
     "regionCode": "1100000000",
     "provinceCode": "1130700000",
     "cityMunicipalityCode": "1130700000",

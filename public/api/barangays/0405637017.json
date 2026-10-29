@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405637017",
-    "name": "Barangay VI  (Pob.)",
+    "name": "Barangay VI (Pob.)",
     "code": "045637017",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2316,
+    "population2024": 2377,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405637000",

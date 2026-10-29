@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1102411001",
-    "name": "Almendras  (Pob.)",
+    "name": "Almendras (Pob.)",
     "code": "112411001",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 3773,
+    "population2024": 2889,
     "regionCode": "1100000000",
     "provinceCode": "1102400000",
     "cityMunicipalityCode": "1102411000",

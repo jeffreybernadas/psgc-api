@@ -4,7 +4,9 @@
     "name": "Pilar",
     "code": "071234000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 28693,
+    "population2024": 28860,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "isCapital": false

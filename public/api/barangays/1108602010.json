@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1108602010",
-    "name": "Caburan Small  (Pob.)",
+    "name": "Caburan Small (Pob.)",
     "code": "118602010",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 7017,
+    "population2024": 7168,
     "regionCode": "1100000000",
     "provinceCode": "1108600000",
     "cityMunicipalityCode": "1108602000",

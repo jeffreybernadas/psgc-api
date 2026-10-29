@@ -4,7 +4,9 @@
     "name": "Casiguran",
     "code": "037702000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 26564,
+    "population2024": 26855,
     "regionCode": "0300000000",
     "provinceCode": "0307700000",
     "isCapital": false

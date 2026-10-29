@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "1001320016",
-    "name": "Santo Niño",
+    "name": "Sto. Niño",
     "code": "101320016",
     "geographicLevel": "Brgy",
+    "oldName": "Lumbayawa",
     "urbanRural": "Rural",
     "population2020": 3202,
+    "population2024": 3315,
     "regionCode": "1000000000",
     "provinceCode": "1001300000",
     "cityMunicipalityCode": "1001320000",

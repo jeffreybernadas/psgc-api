@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0806004033",
-    "name": "Barangay 6  (Pob.)",
+    "name": "Barangay 6 (Pob.)",
     "code": "086004033",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 830,
+    "population2024": 844,
     "regionCode": "0800000000",
     "provinceCode": "0806000000",
     "cityMunicipalityCode": "0806004000",

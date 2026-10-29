@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "1004209000",
-    "name": "City of Oroquieta ",
+    "name": "City of Oroquieta",
     "code": "104209000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "3rd",
     "population2020": 72301,
+    "population2024": 71373,
     "regionCode": "1000000000",
     "provinceCode": "1004200000",
     "isCapital": true

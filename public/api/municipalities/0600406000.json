@@ -4,7 +4,9 @@
     "name": "Ibajay",
     "code": "060406000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 52364,
+    "population2024": 53399,
     "regionCode": "0600000000",
     "provinceCode": "0600400000",
     "isCapital": false

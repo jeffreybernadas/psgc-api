@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0304903025",
-    "name": "City Supermarket  (Pob.)",
+    "name": "City Supermarket (Pob.)",
     "code": "034903025",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 95,
+    "population2024": 80,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "cityMunicipalityCode": "0304903000",

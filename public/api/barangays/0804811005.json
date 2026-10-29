@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0804811005",
-    "name": "Caragas  (Pob.)",
+    "name": "Caragas (Pob.)",
     "code": "084811005",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1175,
+    "population2024": 1066,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "cityMunicipalityCode": "0804811000",

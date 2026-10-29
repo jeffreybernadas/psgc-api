@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0931700062",
-    "name": "Barangay Zone II  (Pob.)",
+    "name": "Barangay Zone II (Pob.)",
     "code": "097332062",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 1802,
+    "population2024": 1548,
     "regionCode": "0900000000",
     "provinceCode": "0931700000",
     "cityMunicipalityCode": "0931700000",

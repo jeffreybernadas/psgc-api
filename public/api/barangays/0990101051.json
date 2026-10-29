@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0990101051",
-    "name": "Tabuk  (Pob.)",
+    "name": "Tabuk (Pob.)",
     "code": "099701051",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 7008,
+    "population2024": 9948,
     "regionCode": "0900000000",
     "provinceCode": "0990100000",
     "cityMunicipalityCode": "0990101000",

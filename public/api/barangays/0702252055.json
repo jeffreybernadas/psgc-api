@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0702252055",
-    "name": "Barangay VIII  (Pob.)",
+    "name": "Barangay VIII (Pob.)",
     "code": "072252055",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 2792,
+    "population2024": 1986,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "cityMunicipalityCode": "0702252000",

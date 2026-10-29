@@ -4,7 +4,9 @@
     "name": "Manticao",
     "code": "104318000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 29469,
+    "population2024": 30968,
     "regionCode": "1000000000",
     "provinceCode": "1004300000",
     "isCapital": false

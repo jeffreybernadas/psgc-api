@@ -4,7 +4,9 @@
     "name": "Dolores",
     "code": "045615000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 32514,
+    "population2024": 32645,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "isCapital": false

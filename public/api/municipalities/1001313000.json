@@ -4,7 +4,9 @@
     "name": "Malitbog",
     "code": "101313000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 26741,
+    "population2024": 28666,
     "regionCode": "1000000000",
     "provinceCode": "1001300000",
     "isCapital": false

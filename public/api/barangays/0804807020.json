@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0804807020",
-    "name": "Gamay Oriental I  (Pob.)",
+    "name": "Gamay Oriental I (Pob.)",
     "code": "084807020",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1392,
+    "population2024": 1150,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "cityMunicipalityCode": "0804807000",

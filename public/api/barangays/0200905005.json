@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0200905005",
-    "name": "Sinakan  (Pob.)",
+    "name": "Sinakan (Pob.)",
     "code": "020905005",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 563,
+    "population2024": 568,
     "regionCode": "0200000000",
     "provinceCode": "0200900000",
     "cityMunicipalityCode": "0200905000",

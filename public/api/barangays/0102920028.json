@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102920028",
-    "name": "Resurreccion  (Pob.)",
+    "name": "Resurreccion (Pob.)",
     "code": "012920028",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1013,
+    "population2024": 1014,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "cityMunicipalityCode": "0102920000",

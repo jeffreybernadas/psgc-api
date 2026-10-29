@@ -4,7 +4,9 @@
     "name": "Pagudpud",
     "code": "012815000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 25098,
+    "population2024": 25565,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "isCapital": false

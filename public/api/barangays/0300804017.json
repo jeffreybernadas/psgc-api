@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0300804017",
-    "name": "Mabini Proper  (Pob.)",
+    "name": "Mabini Proper (Pob.)",
     "code": "030804017",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 321,
+    "population2024": 279,
     "regionCode": "0300000000",
     "provinceCode": "0300800000",
     "cityMunicipalityCode": "0300804000",

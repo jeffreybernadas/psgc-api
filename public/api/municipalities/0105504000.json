@@ -4,7 +4,9 @@
     "name": "Alcala",
     "code": "015504000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 48908,
+    "population2024": 49479,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "isCapital": false

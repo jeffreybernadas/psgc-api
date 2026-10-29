@@ -4,7 +4,9 @@
     "name": "Tudela",
     "code": "072253000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 11304,
+    "population2024": 11638,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "isCapital": false

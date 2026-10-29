@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1404401011",
-    "name": "Gawana  (Pob.)",
+    "name": "Gawana (Pob.)",
     "code": "144401011",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 717,
+    "population2024": 601,
     "regionCode": "1400000000",
     "provinceCode": "1404400000",
     "cityMunicipalityCode": "1404401000",

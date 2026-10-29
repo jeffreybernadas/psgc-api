@@ -4,7 +4,9 @@
     "name": "Vinzons",
     "code": "051612000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 49042,
+    "population2024": 45173,
     "regionCode": "0500000000",
     "provinceCode": "0501600000",
     "isCapital": false

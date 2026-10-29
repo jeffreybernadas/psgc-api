@@ -4,7 +4,9 @@
     "name": "Guinsiliban",
     "code": "101802000",
     "geographicLevel": "Mun",
+    "incomeClassification": "5th",
     "population2020": 6685,
+    "population2024": 6827,
     "regionCode": "1000000000",
     "provinceCode": "1001800000",
     "isCapital": false

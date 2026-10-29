@@ -4,7 +4,9 @@
     "name": "Socorro",
     "code": "175214000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 41585,
+    "population2024": 41612,
     "regionCode": "1700000000",
     "provinceCode": "1705200000",
     "isCapital": false

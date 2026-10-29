@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405649028",
-    "name": "R. Magsaysay  (Pob.)",
+    "name": "R. Magsaysay (Pob.)",
     "code": "045649028",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 753,
+    "population2024": 822,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405649000",

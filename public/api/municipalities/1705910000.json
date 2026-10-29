@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705910000",
-    "name": "Romblon ",
+    "name": "Romblon",
     "code": "175910000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 40554,
+    "population2024": 39004,
     "regionCode": "1700000000",
     "provinceCode": "1705900000",
     "isCapital": true

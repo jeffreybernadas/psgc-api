@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102907016",
-    "name": "Don Alejandro Quirolgico  (Pob.)",
+    "name": "Don Alejandro Quirolgico (Pob.)",
     "code": "012907016",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 1163,
+    "population2024": 1035,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "cityMunicipalityCode": "0102907000",

@@ -4,7 +4,9 @@
     "name": "Malinao",
     "code": "060413000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 24517,
+    "population2024": 24971,
     "regionCode": "0600000000",
     "provinceCode": "0600400000",
     "isCapital": false

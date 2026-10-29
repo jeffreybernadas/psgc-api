@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405627022",
-    "name": "Rizaliana  (Pob.)",
+    "name": "Rizaliana (Pob.)",
     "code": "045627022",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 1089,
+    "population2024": 887,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405627000",

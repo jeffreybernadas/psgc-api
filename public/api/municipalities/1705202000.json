@@ -4,7 +4,9 @@
     "name": "Bansud",
     "code": "175202000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 42671,
+    "population2024": 44396,
     "regionCode": "1700000000",
     "provinceCode": "1705200000",
     "isCapital": false

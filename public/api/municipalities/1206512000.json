@@ -4,7 +4,9 @@
     "name": "Sen. Ninoy Aquino",
     "code": "126512000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 47374,
+    "population2024": 48003,
     "regionCode": "1200000000",
     "provinceCode": "1206500000",
     "isCapital": false

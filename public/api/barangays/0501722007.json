@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501722007",
-    "name": "Del Carmen-Del Rosario  (Pob.)",
+    "name": "Del Carmen-Del Rosario (Pob.)",
     "code": "051722007",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2610,
+    "population2024": 2440,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501722000",

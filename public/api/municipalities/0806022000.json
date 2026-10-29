@@ -4,7 +4,10 @@
     "name": "Paranas",
     "code": "086022000",
     "geographicLevel": "Mun",
+    "oldName": "Wright",
+    "incomeClassification": "1st",
     "population2020": 32374,
+    "population2024": 35281,
     "regionCode": "0800000000",
     "provinceCode": "0806000000",
     "isCapital": false

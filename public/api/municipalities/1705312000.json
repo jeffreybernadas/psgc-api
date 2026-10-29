@@ -4,7 +4,10 @@
     "name": "El Nido",
     "code": "175312000",
     "geographicLevel": "Mun",
+    "oldName": "Bacuit",
+    "incomeClassification": "1st",
     "population2020": 50494,
+    "population2024": 51367,
     "regionCode": "1700000000",
     "provinceCode": "1705300000",
     "isCapital": false

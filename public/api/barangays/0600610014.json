@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0600610014",
-    "name": "Centro Weste  (Pob.)",
+    "name": "Centro Weste (Pob.)",
     "code": "060610014",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1164,
+    "population2024": 1195,
     "regionCode": "0600000000",
     "provinceCode": "0600600000",
     "cityMunicipalityCode": "0600610000",

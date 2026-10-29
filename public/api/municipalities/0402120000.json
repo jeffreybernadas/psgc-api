@@ -4,7 +4,9 @@
     "name": "Tanza",
     "code": "042120000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 312116,
+    "population2024": 339308,
     "regionCode": "0400000000",
     "provinceCode": "0402100000",
     "isCapital": false

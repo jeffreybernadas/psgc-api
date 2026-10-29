@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0603023051",
-    "name": "Locsin  (Pob.)",
+    "name": "Locsin (Pob.)",
     "code": "063023051",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 151,
+    "population2024": 151,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "cityMunicipalityCode": "0603023000",

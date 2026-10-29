@@ -4,7 +4,9 @@
     "name": "Clarin",
     "code": "104205000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 39356,
+    "population2024": 39867,
     "regionCode": "1000000000",
     "provinceCode": "1004200000",
     "isCapital": false

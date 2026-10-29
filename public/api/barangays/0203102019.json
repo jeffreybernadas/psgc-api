@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0203102019",
-    "name": "Centro III  (Pob.)",
+    "name": "Centro III (Pob.)",
     "code": "023102019",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1082,
+    "population2024": 1053,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "cityMunicipalityCode": "0203102000",

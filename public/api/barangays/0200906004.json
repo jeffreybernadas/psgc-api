@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0200906004",
-    "name": "Kayuganan  (Pob.)",
+    "name": "Kayuganan (Pob.)",
     "code": "020906004",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 304,
+    "population2024": 329,
     "regionCode": "0200000000",
     "provinceCode": "0200900000",
     "cityMunicipalityCode": "0200906000",

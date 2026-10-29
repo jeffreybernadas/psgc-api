@@ -4,7 +4,9 @@
     "name": "Dao",
     "code": "061902000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 33842,
+    "population2024": 34555,
     "regionCode": "0600000000",
     "provinceCode": "0601900000",
     "isCapital": false

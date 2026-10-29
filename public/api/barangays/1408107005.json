@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1408107005",
-    "name": "Marcela  (Pob.)",
+    "name": "Marcela (Pob.)",
     "code": "148107005",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1368,
+    "population2024": 1456,
     "regionCode": "1400000000",
     "provinceCode": "1408100000",
     "cityMunicipalityCode": "1408107000",

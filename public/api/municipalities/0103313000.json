@@ -4,7 +4,9 @@
     "name": "Rosario",
     "code": "013313000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 60278,
+    "population2024": 58797,
     "regionCode": "0100000000",
     "provinceCode": "0103300000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "Sinait",
     "code": "012930000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 25998,
+    "population2024": 26059,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1704004025",
-    "name": "Market Site  (Pob.)",
+    "name": "Market Site (Pob.)",
     "code": "174004025",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 931,
+    "population2024": 780,
     "regionCode": "1700000000",
     "provinceCode": "1704000000",
     "cityMunicipalityCode": "1704004000",

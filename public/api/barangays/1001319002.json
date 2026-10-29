@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1001319002",
-    "name": "Culasi",
+    "name": "Kulasi",
     "code": "101319002",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 617,
+    "population2024": 641,
     "regionCode": "1000000000",
     "provinceCode": "1001300000",
     "cityMunicipalityCode": "1001319000",

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1908707004",
-    "name": "Bugasan Sur  (Pob.)",
+    "name": "Bugasan Sur (Pob.)",
     "code": "153809004",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 7699,
+    "population2024": 9530,
     "regionCode": "1900000000",
     "provinceCode": "1908700000",
     "cityMunicipalityCode": "1908707000",

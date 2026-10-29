@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0803715031",
-    "name": "Ponong  (Pob.)",
+    "name": "Ponong (Pob.)",
     "code": "083715031",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2431,
+    "population2024": 2343,
     "regionCode": "0800000000",
     "provinceCode": "0803700000",
     "cityMunicipalityCode": "0803715000",

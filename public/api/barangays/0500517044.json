@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0500517044",
-    "name": "Santo Cristo  (Pob.)",
+    "name": "Santo Cristo (Pob.)",
     "code": "050517044",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 5544,
+    "population2024": 4917,
     "regionCode": "0500000000",
     "provinceCode": "0500500000",
     "cityMunicipalityCode": "0500517000",

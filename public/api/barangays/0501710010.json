@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501710010",
-    "name": "Pangpang  (Pob.)",
+    "name": "Pangpang (Pob.)",
     "code": "051710010",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 872,
+    "population2024": 785,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501710000",

@@ -4,7 +4,9 @@
     "name": "Noveleta",
     "code": "042116000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 49452,
+    "population2024": 46172,
     "regionCode": "0400000000",
     "provinceCode": "0402100000",
     "isCapital": false

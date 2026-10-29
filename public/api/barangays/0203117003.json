@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0203117003",
-    "name": "Fely  (Pob.)",
+    "name": "Fely (Pob.)",
     "code": "023117003",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 825,
+    "population2024": 997,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "cityMunicipalityCode": "0203117000",

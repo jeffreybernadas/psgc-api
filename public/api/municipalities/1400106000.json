@@ -4,7 +4,9 @@
     "name": "Danglas",
     "code": "140106000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 4074,
+    "population2024": 4372,
     "regionCode": "1400000000",
     "provinceCode": "1400100000",
     "isCapital": false

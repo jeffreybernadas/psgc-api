@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1001312058",
-    "name": "Saint Peter",
+    "name": "St. Peter",
     "code": "101312058",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2817,
+    "population2024": 2835,
     "regionCode": "1000000000",
     "provinceCode": "1001300000",
     "cityMunicipalityCode": "1001312000",

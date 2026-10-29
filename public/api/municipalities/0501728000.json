@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501728000",
-    "name": "Pili ",
+    "name": "Pili",
     "code": "051728000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 99196,
+    "population2024": 101668,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "isCapital": true

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0203114088",
-    "name": "Santa Barbara  (Pob.)",
+    "name": "Santa Barbara (Pob.)",
     "code": "023114088",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1107,
+    "population2024": 1275,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "cityMunicipalityCode": "0203114000",

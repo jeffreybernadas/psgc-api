@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405810009",
-    "name": "Wawa  (Pob.)",
+    "name": "Wawa (Pob.)",
     "code": "045810009",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 4366,
+    "population2024": 3950,
     "regionCode": "0400000000",
     "provinceCode": "0405800000",
     "cityMunicipalityCode": "0405810000",

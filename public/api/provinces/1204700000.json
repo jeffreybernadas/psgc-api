@@ -4,7 +4,10 @@
     "name": "Cotabato",
     "code": "124700000",
     "geographicLevel": "Prov",
+    "oldName": "North Cotabato",
+    "incomeClassification": "1st",
     "population2020": 1275185,
+    "population2024": 1286142,
     "regionCode": "1200000000"
   }
 ]

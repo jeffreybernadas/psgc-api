@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1030500030",
-    "name": "Barangay 39  (Pob.)",
+    "name": "Barangay 39 (Pob.)",
     "code": "104305030",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 17,
+    "population2024": 12,
     "regionCode": "1000000000",
     "provinceCode": "1030500000",
     "cityMunicipalityCode": "1030500000",

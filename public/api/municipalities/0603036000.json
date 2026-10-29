@@ -4,7 +4,9 @@
     "name": "Pavia",
     "code": "063036000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 70388,
+    "population2024": 74594,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "isCapital": false

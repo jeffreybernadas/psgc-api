@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1130700091",
-    "name": "Paquibato  (Pob.)",
+    "name": "Paquibato (Pob.)",
     "code": "112402091",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2272,
+    "population2024": 3105,
     "regionCode": "1100000000",
     "provinceCode": "1130700000",
     "cityMunicipalityCode": "1130700000",

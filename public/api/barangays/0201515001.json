@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0201515001",
-    "name": "Ajat  (Pob.)",
+    "name": "Ajat (Pob.)",
     "code": "021515001",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 1411,
+    "population2024": 1422,
     "regionCode": "0200000000",
     "provinceCode": "0201500000",
     "cityMunicipalityCode": "0201515000",

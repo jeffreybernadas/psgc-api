@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501709008",
-    "name": "San Marcos  (Pob.)",
+    "name": "San Marcos (Pob.)",
     "code": "051709008",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1495,
+    "population2024": 1282,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501709000",

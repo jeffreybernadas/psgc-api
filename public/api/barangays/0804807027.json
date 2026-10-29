@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0804807027",
-    "name": "Occidental II  (Pob.)",
+    "name": "Occidental II (Pob.)",
     "code": "084807027",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 832,
+    "population2024": 809,
     "regionCode": "0800000000",
     "provinceCode": "0804800000",
     "cityMunicipalityCode": "0804807000",

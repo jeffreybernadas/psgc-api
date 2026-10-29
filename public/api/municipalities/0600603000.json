@@ -4,7 +4,9 @@
     "name": "Belison",
     "code": "060603000",
     "geographicLevel": "Mun",
+    "incomeClassification": "5th",
     "population2020": 14129,
+    "population2024": 14433,
     "regionCode": "0600000000",
     "provinceCode": "0600600000",
     "isCapital": false

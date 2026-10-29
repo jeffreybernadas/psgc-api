@@ -4,7 +4,9 @@
     "name": "Liloan",
     "code": "086406000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 24800,
+    "population2024": 23787,
     "regionCode": "0800000000",
     "provinceCode": "0806400000",
     "isCapital": false

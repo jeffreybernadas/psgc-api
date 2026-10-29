@@ -4,7 +4,10 @@
     "name": "San Juan",
     "code": "012920000",
     "geographicLevel": "Mun",
+    "oldName": "Lapog",
+    "incomeClassification": "1st",
     "population2020": 26674,
+    "population2024": 26709,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "isCapital": false

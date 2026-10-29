@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1903621003",
-    "name": "Bangco  (Pob.)",
+    "name": "Bangco (Pob.)",
     "code": "153621003",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 569,
+    "population2024": 931,
     "regionCode": "1900000000",
     "provinceCode": "1903600000",
     "cityMunicipalityCode": "1903621000",

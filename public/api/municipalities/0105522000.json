@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "0105522000",
-    "name": "Lingayen ",
+    "name": "Lingayen",
     "code": "015522000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 107728,
+    "population2024": 108510,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "isCapital": true

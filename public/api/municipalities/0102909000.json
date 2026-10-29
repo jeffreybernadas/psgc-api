@@ -4,7 +4,9 @@
     "name": "Galimuyod",
     "code": "012909000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 10244,
+    "population2024": 10263,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "isCapital": false

@@ -4,7 +4,10 @@
     "name": "Bindoy",
     "code": "074607000",
     "geographicLevel": "Mun",
+    "oldName": "Payabon",
+    "incomeClassification": "2nd",
     "population2020": 40308,
+    "population2024": 41543,
     "regionCode": "1800000000",
     "provinceCode": "1804600000",
     "isCapital": false

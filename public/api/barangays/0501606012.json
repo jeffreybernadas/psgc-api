@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501606012",
-    "name": "Anahaw  (Pob.)",
+    "name": "Anahaw (Pob.)",
     "code": "051606012",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2524,
+    "population2024": 2156,
     "regionCode": "0500000000",
     "provinceCode": "0501600000",
     "cityMunicipalityCode": "0501606000",

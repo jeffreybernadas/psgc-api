@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0300804031",
-    "name": "Roxas  (Pob.)",
+    "name": "Roxas (Pob.)",
     "code": "030804031",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 272,
+    "population2024": 276,
     "regionCode": "0300000000",
     "provinceCode": "0300800000",
     "cityMunicipalityCode": "0300804000",

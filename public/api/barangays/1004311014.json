@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1004311014",
-    "name": "Upper Jasaan  (Pob.)",
+    "name": "Upper Jasaan (Pob.)",
     "code": "104311014",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 4328,
+    "population2024": 4237,
     "regionCode": "1000000000",
     "provinceCode": "1004300000",
     "cityMunicipalityCode": "1004311000",

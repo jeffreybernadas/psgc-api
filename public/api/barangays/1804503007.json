@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1804503007",
-    "name": "Paglaum  (Pob.)",
+    "name": "Paglaum (Pob.)",
     "code": "064503007",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 3195,
+    "population2024": 3137,
     "regionCode": "1800000000",
     "provinceCode": "1804500000",
     "cityMunicipalityCode": "1804503000",

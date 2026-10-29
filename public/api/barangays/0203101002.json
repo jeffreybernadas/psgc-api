@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0203101002",
-    "name": "Antonino  (Pob.)",
+    "name": "Antonino (Pob.)",
     "code": "023101002",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 4716,
+    "population2024": 4684,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "cityMunicipalityCode": "0203101000",

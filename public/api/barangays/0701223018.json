@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0701223018",
-    "name": "Sawang  (Pob.)",
+    "name": "Sawang (Pob.)",
     "code": "071223018",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1963,
+    "population2024": 1839,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "cityMunicipalityCode": "0701223000",

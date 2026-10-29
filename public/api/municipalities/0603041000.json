@@ -4,7 +4,9 @@
     "name": "San Miguel",
     "code": "063041000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 30115,
+    "population2024": 31093,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "isCapital": false

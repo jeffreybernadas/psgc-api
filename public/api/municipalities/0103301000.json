@@ -4,7 +4,9 @@
     "name": "Agoo",
     "code": "013301000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 66028,
+    "population2024": 65256,
     "regionCode": "0100000000",
     "provinceCode": "0103300000",
     "isCapital": false

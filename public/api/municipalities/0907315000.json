@@ -4,7 +4,9 @@
     "name": "Mahayag",
     "code": "097315000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 48258,
+    "population2024": 48695,
     "regionCode": "0900000000",
     "provinceCode": "0907300000",
     "isCapital": false

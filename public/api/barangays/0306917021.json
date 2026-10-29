@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0306917021",
-    "name": "San Gavino  (Pob.)",
+    "name": "San Gavino (Pob.)",
     "code": "036917021",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2232,
+    "population2024": 2276,
     "regionCode": "0300000000",
     "provinceCode": "0306900000",
     "cityMunicipalityCode": "0306917000",

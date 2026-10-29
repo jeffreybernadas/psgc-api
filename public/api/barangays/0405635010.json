@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405635010",
-    "name": "Pampaaralan  (Pob.)",
+    "name": "Pampaaralan (Pob.)",
     "code": "045635010",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 609,
+    "population2024": 592,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405635000",

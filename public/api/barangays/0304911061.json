@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0304911061",
-    "name": "Santo Cristo District  (Pob.)",
+    "name": "Santo Cristo District (Pob.)",
     "code": "034911061",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 3799,
+    "population2024": 3907,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "cityMunicipalityCode": "0304911000",

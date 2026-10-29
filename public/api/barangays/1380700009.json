@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1380700009",
-    "name": "Santa Elena  (Pob.)",
+    "name": "Santa Elena (Pob.)",
     "code": "137402009",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 7403,
+    "population2024": 7599,
     "regionCode": "1300000000",
     "provinceCode": "1380700000",
     "cityMunicipalityCode": "1380700000",

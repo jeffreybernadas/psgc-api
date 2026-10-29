@@ -4,7 +4,9 @@
     "name": "Talitay",
     "code": "153821000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 17463,
+    "population2024": 19750,
     "regionCode": "1900000000",
     "provinceCode": "1908700000",
     "isCapital": false

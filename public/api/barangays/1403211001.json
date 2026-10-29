@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1403211001",
-    "name": "Babalag East  (Pob.)",
+    "name": "Babalag East (Pob.)",
     "code": "143211001",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1132,
+    "population2024": 1125,
     "regionCode": "1400000000",
     "provinceCode": "1403200000",
     "cityMunicipalityCode": "1403211000",

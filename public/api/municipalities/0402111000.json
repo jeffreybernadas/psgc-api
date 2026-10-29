@@ -4,7 +4,9 @@
     "name": "Kawit",
     "code": "042111000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 107535,
+    "population2024": 123631,
     "regionCode": "0400000000",
     "provinceCode": "0402100000",
     "isCapital": false

@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "1903638000",
-    "name": "Tagoloan Ii",
+    "name": "Tagoloan II",
     "code": "153638000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 12602,
+    "population2024": 12843,
     "regionCode": "1900000000",
     "provinceCode": "1903600000",
     "isCapital": false

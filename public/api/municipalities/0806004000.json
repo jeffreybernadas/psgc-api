@@ -4,7 +4,9 @@
     "name": "Calbiga",
     "code": "086004000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 23310,
+    "population2024": 23309,
     "regionCode": "0800000000",
     "provinceCode": "0806000000",
     "isCapital": false

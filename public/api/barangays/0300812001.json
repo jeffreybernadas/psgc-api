@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0300812001",
-    "name": "East Calaguiman  (Pob.)",
+    "name": "East Calaguiman (Pob.)",
     "code": "030812001",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2789,
+    "population2024": 2993,
     "regionCode": "0300000000",
     "provinceCode": "0300800000",
     "cityMunicipalityCode": "0300812000",

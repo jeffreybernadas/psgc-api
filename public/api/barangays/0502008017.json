@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0502008017",
-    "name": "Divino Rostro  (Pob.)",
+    "name": "Divino Rostro (Pob.)",
     "code": "052008017",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 988,
+    "population2024": 834,
     "regionCode": "0500000000",
     "provinceCode": "0502000000",
     "cityMunicipalityCode": "0502008000",

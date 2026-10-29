@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "0201522000",
-    "name": "Sanchez-Mira",
+    "name": "Sanchez Mira",
     "code": "021522000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 26164,
+    "population2024": 26292,
     "regionCode": "0200000000",
     "provinceCode": "0201500000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0307110007",
-    "name": "Manglicmot  (Pob.)",
+    "name": "Manglicmot (Pob.)",
     "code": "037110007",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 1742,
+    "population2024": 1785,
     "regionCode": "0300000000",
     "provinceCode": "0307100000",
     "cityMunicipalityCode": "0307110000",

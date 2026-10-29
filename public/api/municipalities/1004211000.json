@@ -4,7 +4,9 @@
     "name": "Panaon",
     "code": "104211000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 10797,
+    "population2024": 10891,
     "regionCode": "1000000000",
     "provinceCode": "1004200000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1001322005",
-    "name": "Lambangan",
+    "name": "Lambagan",
     "code": "101322005",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1266,
+    "population2024": 1294,
     "regionCode": "1000000000",
     "provinceCode": "1001300000",
     "cityMunicipalityCode": "1001322000",

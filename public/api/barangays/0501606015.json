@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501606015",
-    "name": "Kalamunding  (Pob.)",
+    "name": "Kalamunding (Pob.)",
     "code": "051606015",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 1128,
+    "population2024": 793,
     "regionCode": "0500000000",
     "provinceCode": "0501600000",
     "cityMunicipalityCode": "0501606000",

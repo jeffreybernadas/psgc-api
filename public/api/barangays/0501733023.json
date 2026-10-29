@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501733023",
-    "name": "San Juan  (Pob.)",
+    "name": "San Juan (Pob.)",
     "code": "051733023",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 883,
+    "population2024": 798,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501733000",

@@ -4,7 +4,9 @@
     "name": "Polillo",
     "code": "045636000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 31908,
+    "population2024": 31737,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "isCapital": false

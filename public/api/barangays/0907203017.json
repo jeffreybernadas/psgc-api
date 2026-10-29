@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907203017",
-    "name": "Barangay Dos  (Pob.)",
+    "name": "Barangay Dos (Pob.)",
     "code": "097203017",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2755,
+    "population2024": 2569,
     "regionCode": "0900000000",
     "provinceCode": "0907200000",
     "cityMunicipalityCode": "0907203000",

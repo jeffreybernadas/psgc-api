@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102920019",
-    "name": "Lira  (Pob.)",
+    "name": "Lira (Pob.)",
     "code": "012920019",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 888,
+    "population2024": 898,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "cityMunicipalityCode": "0102920000",

@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "0301410000",
-    "name": "City of Malolos ",
+    "name": "City of Malolos",
     "code": "031410000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "1st",
     "population2020": 261189,
+    "population2024": 269809,
     "regionCode": "0300000000",
     "provinceCode": "0301400000",
     "isCapital": true

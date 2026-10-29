@@ -4,7 +4,9 @@
     "name": "Guipos",
     "code": "097343000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 21738,
+    "population2024": 22173,
     "regionCode": "0900000000",
     "provinceCode": "0907300000",
     "isCapital": false

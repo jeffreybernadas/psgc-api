@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0803702052",
-    "name": "Milagrosa  (Pob.)",
+    "name": "Milagrosa (Pob.)",
     "code": "083702052",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1096,
+    "population2024": 841,
     "regionCode": "0800000000",
     "provinceCode": "0803700000",
     "cityMunicipalityCode": "0803702000",

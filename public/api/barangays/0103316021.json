@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0103316021",
-    "name": "Ili Sur  (Pob.)",
+    "name": "Ili Sur (Pob.)",
     "code": "013316021",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2687,
+    "population2024": 2623,
     "regionCode": "0100000000",
     "provinceCode": "0103300000",
     "cityMunicipalityCode": "0103316000",

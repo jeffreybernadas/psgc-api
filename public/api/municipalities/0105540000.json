@@ -4,7 +4,9 @@
     "name": "Santo Tomas",
     "code": "015540000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 14878,
+    "population2024": 14894,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "isCapital": false

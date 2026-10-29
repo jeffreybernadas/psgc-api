@@ -4,7 +4,9 @@
     "name": "Akbar",
     "code": "150708000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 23098,
+    "population2024": 27911,
     "regionCode": "1900000000",
     "provinceCode": "1900700000",
     "isCapital": false

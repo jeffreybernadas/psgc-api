@@ -4,7 +4,9 @@
     "name": "San Emilio",
     "code": "012917000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 7206,
+    "population2024": 7513,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "isCapital": false

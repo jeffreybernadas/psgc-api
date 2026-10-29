@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0105527039",
-    "name": "General Luna  (Pob.)",
+    "name": "General Luna (Pob.)",
     "code": "015527039",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 227,
+    "population2024": 194,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "cityMunicipalityCode": "0105527000",

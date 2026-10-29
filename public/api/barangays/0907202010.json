@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907202010",
-    "name": "Biasong  (Pob.)",
+    "name": "Biasong (Pob.)",
     "code": "097202010",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 3128,
+    "population2024": 2397,
     "regionCode": "0900000000",
     "provinceCode": "0907200000",
     "cityMunicipalityCode": "0907202000",

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0300810003",
-    "name": "Balagtas  (Pob.)",
+    "name": "Balagtas (Pob.)",
     "code": "030810003",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 1995,
+    "population2024": 2024,
     "regionCode": "0300000000",
     "provinceCode": "0300800000",
     "cityMunicipalityCode": "0300810000",

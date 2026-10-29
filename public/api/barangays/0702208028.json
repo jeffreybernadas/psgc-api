@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0702208028",
-    "name": "Santa Cruz-Santo Niño  (Pob.)",
+    "name": "Santa Cruz-Santo Niño (Pob.)",
     "code": "072208028",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2035,
+    "population2024": 2010,
     "regionCode": "0700000000",
     "provinceCode": "0702200000",
     "cityMunicipalityCode": "0702208000",

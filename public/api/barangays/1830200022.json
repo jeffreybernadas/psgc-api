@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1830200022",
-    "name": "Barangay 26  (Pob.)",
+    "name": "Barangay 26 (Pob.)",
     "code": "064501022",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 1411,
+    "population2024": 1343,
     "regionCode": "1800000000",
     "provinceCode": "1830200000",
     "cityMunicipalityCode": "1830200000",

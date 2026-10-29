@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0603023048",
-    "name": "R. Armada  (Pob.)",
+    "name": "R. Armada (Pob.)",
     "code": "063023048",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 241,
+    "population2024": 160,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "cityMunicipalityCode": "0603023000",

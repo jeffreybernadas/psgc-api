@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0701210013",
-    "name": "Desamparados  (Pob.)",
+    "name": "Desamparados (Pob.)",
     "code": "071210013",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 816,
+    "population2024": 821,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "cityMunicipalityCode": "0701210000",

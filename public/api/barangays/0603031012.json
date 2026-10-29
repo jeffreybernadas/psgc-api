@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0603031012",
-    "name": "Mina East  (Pob.)",
+    "name": "Mina East (Pob.)",
     "code": "063031012",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1298,
+    "population2024": 1312,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "cityMunicipalityCode": "0603031000",

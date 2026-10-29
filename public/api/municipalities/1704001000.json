@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "1704001000",
-    "name": "Boac ",
+    "name": "Boac",
     "code": "174001000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 57283,
+    "population2024": 54365,
     "regionCode": "1700000000",
     "provinceCode": "1704000000",
     "isCapital": true

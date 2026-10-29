@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907322042",
-    "name": "Santa Lucia  (Pob.)",
+    "name": "Santa Lucia (Pob.)",
     "code": "097322042",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 5859,
+    "population2024": 5117,
     "regionCode": "0900000000",
     "provinceCode": "0907300000",
     "cityMunicipalityCode": "0907322000",

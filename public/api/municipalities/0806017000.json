@@ -4,7 +4,9 @@
     "name": "Santa Rita",
     "code": "086017000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 42384,
+    "population2024": 42397,
     "regionCode": "0800000000",
     "provinceCode": "0806000000",
     "isCapital": false

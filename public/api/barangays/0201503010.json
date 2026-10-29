@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0201503010",
-    "name": "Centro East  (Pob.)",
+    "name": "Centro East (Pob.)",
     "code": "021503010",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 1870,
+    "population2024": 1838,
     "regionCode": "0200000000",
     "provinceCode": "0201500000",
     "cityMunicipalityCode": "0201503000",

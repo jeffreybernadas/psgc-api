@@ -4,7 +4,9 @@
     "name": "San Esteban",
     "code": "012918000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 8381,
+    "population2024": 8621,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "isCapital": false

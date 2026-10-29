@@ -4,7 +4,9 @@
     "name": "Magpet",
     "code": "124706000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 53800,
+    "population2024": 55255,
     "regionCode": "1200000000",
     "provinceCode": "1204700000",
     "isCapital": false

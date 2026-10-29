@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705104014",
-    "name": "Maginhawa  (Pob.)",
+    "name": "Maginhawa (Pob.)",
     "code": "175104014",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 833,
+    "population2024": 773,
     "regionCode": "1700000000",
     "provinceCode": "1705100000",
     "cityMunicipalityCode": "1705104000",

@@ -4,7 +4,9 @@
     "name": "Bangui",
     "code": "012804000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 15019,
+    "population2024": 15227,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "isCapital": false

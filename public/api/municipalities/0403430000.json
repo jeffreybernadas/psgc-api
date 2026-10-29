@@ -4,7 +4,9 @@
     "name": "Victoria",
     "code": "043430000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 43408,
+    "population2024": 45230,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "isCapital": false

@@ -4,7 +4,9 @@
     "name": "Cuenca",
     "code": "041009000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 36235,
+    "population2024": 36453,
     "regionCode": "0400000000",
     "provinceCode": "0401000000",
     "isCapital": false

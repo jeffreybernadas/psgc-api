@@ -4,7 +4,9 @@
     "name": "San Jacinto",
     "code": "015534000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 44351,
+    "population2024": 44713,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "isCapital": false

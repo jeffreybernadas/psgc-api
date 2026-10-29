@@ -4,7 +4,9 @@
     "name": "Datu Paglas",
     "code": "153805000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 33682,
+    "population2024": 38446,
     "regionCode": "1900000000",
     "provinceCode": "1908800000",
     "isCapital": false

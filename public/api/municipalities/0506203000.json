@@ -4,7 +4,9 @@
     "name": "Bulan",
     "code": "056203000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 105190,
+    "population2024": 106919,
     "regionCode": "0500000000",
     "provinceCode": "0506200000",
     "isCapital": false

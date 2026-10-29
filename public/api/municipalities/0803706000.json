@@ -4,7 +4,9 @@
     "name": "Barugo",
     "code": "083706000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 34497,
+    "population2024": 35402,
     "regionCode": "0800000000",
     "provinceCode": "0803700000",
     "isCapital": false

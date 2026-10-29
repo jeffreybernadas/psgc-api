@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "0908305000",
-    "name": "Ipil ",
+    "name": "Ipil",
     "code": "098305000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 89401,
+    "population2024": 96363,
     "regionCode": "0900000000",
     "provinceCode": "0908300000",
     "isCapital": true

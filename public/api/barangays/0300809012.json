@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0300809012",
-    "name": "Palihan  (Pob.)",
+    "name": "Palihan (Pob.)",
     "code": "030809012",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2521,
+    "population2024": 2261,
     "regionCode": "0300000000",
     "provinceCode": "0300800000",
     "cityMunicipalityCode": "0300809000",

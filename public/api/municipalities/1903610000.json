@@ -4,7 +4,9 @@
     "name": "Kapai",
     "code": "153610000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 20581,
+    "population2024": 21630,
     "regionCode": "1900000000",
     "provinceCode": "1903600000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501709009",
-    "name": "San Mateo  (Pob.)",
+    "name": "San Mateo (Pob.)",
     "code": "051709009",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1596,
+    "population2024": 624,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501709000",

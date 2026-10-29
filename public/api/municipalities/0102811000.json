@@ -4,7 +4,10 @@
     "name": "Banna",
     "code": "012811000",
     "geographicLevel": "Mun",
+    "oldName": "Espiritu",
+    "incomeClassification": "1st",
     "population2020": 19297,
+    "population2024": 19363,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "isCapital": false

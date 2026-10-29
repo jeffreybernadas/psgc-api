@@ -4,7 +4,9 @@
     "name": "Buguey",
     "code": "021508000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 32148,
+    "population2024": 32351,
     "regionCode": "0200000000",
     "provinceCode": "0201500000",
     "isCapital": false

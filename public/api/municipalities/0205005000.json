@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "0205005000",
-    "name": "Bayombong ",
+    "name": "Bayombong",
     "code": "025005000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 67714,
+    "population2024": 72890,
     "regionCode": "0200000000",
     "provinceCode": "0205000000",
     "isCapital": true

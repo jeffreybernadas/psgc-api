@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1230800007",
-    "name": "Dadiangas East  (Pob.)",
+    "name": "Dadiangas East (Pob.)",
     "code": "126303007",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 3387,
+    "population2024": 3345,
     "regionCode": "1200000000",
     "provinceCode": "1230800000",
     "cityMunicipalityCode": "1230800000",

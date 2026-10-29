@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0307110004",
-    "name": "Farañal  (Pob.)",
+    "name": "Farañal (Pob.)",
     "code": "037110004",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1824,
+    "population2024": 1826,
     "regionCode": "0300000000",
     "provinceCode": "0307100000",
     "cityMunicipalityCode": "0307110000",

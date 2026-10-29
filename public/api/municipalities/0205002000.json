@@ -4,7 +4,9 @@
     "name": "Aritao",
     "code": "025002000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 42197,
+    "population2024": 45000,
     "regionCode": "0200000000",
     "provinceCode": "0205000000",
     "isCapital": false

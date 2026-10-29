@@ -4,7 +4,9 @@
     "name": "Gasan",
     "code": "174003000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 36197,
+    "population2024": 35315,
     "regionCode": "1700000000",
     "provinceCode": "1704000000",
     "isCapital": false

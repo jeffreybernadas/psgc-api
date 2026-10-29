@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1001308035",
-    "name": "West Kibawe  (Pob.)",
+    "name": "West Kibawe (Pob.)",
     "code": "101308035",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2665,
+    "population2024": 2940,
     "regionCode": "1000000000",
     "provinceCode": "1001300000",
     "cityMunicipalityCode": "1001308000",

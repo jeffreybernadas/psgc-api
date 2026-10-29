@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1004216012",
-    "name": "Centro Napu  (Pob.)",
+    "name": "Centro Napu (Pob.)",
     "code": "104216012",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 1741,
+    "population2024": 1743,
     "regionCode": "1000000000",
     "provinceCode": "1004200000",
     "cityMunicipalityCode": "1004216000",

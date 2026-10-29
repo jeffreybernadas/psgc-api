@@ -4,7 +4,9 @@
     "name": "Occidental Mindoro",
     "code": "175100000",
     "geographicLevel": "Prov",
+    "incomeClassification": "1st",
     "population2020": 525354,
+    "population2024": 511417,
     "regionCode": "1700000000"
   }
 ]

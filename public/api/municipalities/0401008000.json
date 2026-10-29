@@ -4,7 +4,9 @@
     "name": "Calatagan",
     "code": "041008000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 58719,
+    "population2024": 60420,
     "regionCode": "0400000000",
     "provinceCode": "0401000000",
     "isCapital": false

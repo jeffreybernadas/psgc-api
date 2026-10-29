@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1903615021",
-    "name": "China Town  (Pob.)",
+    "name": "China Town (Pob.)",
     "code": "153615021",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2271,
+    "population2024": 2587,
     "regionCode": "1900000000",
     "provinceCode": "1903600000",
     "cityMunicipalityCode": "1903615000",

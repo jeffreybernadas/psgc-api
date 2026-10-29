@@ -4,7 +4,9 @@
     "name": "Suyo",
     "code": "012932000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 10766,
+    "population2024": 11051,
     "regionCode": "0100000000",
     "provinceCode": "0102900000",
     "isCapital": false

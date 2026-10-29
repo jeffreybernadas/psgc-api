@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0403430004",
-    "name": "Nanhaya  (Pob.)",
+    "name": "Nanhaya (Pob.)",
     "code": "043430004",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 7275,
+    "population2024": 7737,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "cityMunicipalityCode": "0403430000",

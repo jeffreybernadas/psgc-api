@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0603030015",
-    "name": "Baybay Norte  (Pob.)",
+    "name": "Baybay Norte (Pob.)",
     "code": "063030015",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 3013,
+    "population2024": 3024,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "cityMunicipalityCode": "0603030000",

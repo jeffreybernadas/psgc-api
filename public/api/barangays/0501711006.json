@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501711006",
-    "name": "Binanuahan  (Pob.)",
+    "name": "Binanuahan (Pob.)",
     "code": "051711006",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1019,
+    "population2024": 1036,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501711000",

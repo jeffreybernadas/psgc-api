@@ -4,7 +4,9 @@
     "name": "Caba",
     "code": "013309000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 23119,
+    "population2024": 23432,
     "regionCode": "0100000000",
     "provinceCode": "0103300000",
     "isCapital": false

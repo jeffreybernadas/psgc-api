@@ -4,7 +4,9 @@
     "name": "Agutaya",
     "code": "175302000",
     "geographicLevel": "Mun",
+    "incomeClassification": "5th",
     "population2020": 12867,
+    "population2024": 13351,
     "regionCode": "1700000000",
     "provinceCode": "1705300000",
     "isCapital": false

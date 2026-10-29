@@ -4,7 +4,9 @@
     "name": "Natividad",
     "code": "015529000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 25771,
+    "population2024": 26721,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "isCapital": false

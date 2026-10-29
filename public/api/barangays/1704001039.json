@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1704001039",
-    "name": "Mercado  (Pob.)",
+    "name": "Mercado (Pob.)",
     "code": "174001039",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1359,
+    "population2024": 1040,
     "regionCode": "1700000000",
     "provinceCode": "1704000000",
     "cityMunicipalityCode": "1704001000",

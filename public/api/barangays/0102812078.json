@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102812078",
-    "name": "Bgy. No. 14, Santo Tomas  (Pob.)",
+    "name": "Bgy. No. 14, Santo Tomas (Pob.)",
     "code": "012812078",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 1041,
+    "population2024": 444,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "cityMunicipalityCode": "0102812000",

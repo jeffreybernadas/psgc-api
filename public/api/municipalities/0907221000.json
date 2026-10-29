@@ -4,7 +4,9 @@
     "name": "Tampilisan",
     "code": "097221000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 24680,
+    "population2024": 24653,
     "regionCode": "0900000000",
     "provinceCode": "0907200000",
     "isCapital": false

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705308001",
-    "name": "Bantayan  (Pob.)",
+    "name": "Bantayan (Pob.)",
     "code": "175308001",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 421,
+    "population2024": 409,
     "regionCode": "1700000000",
     "provinceCode": "1705300000",
     "cityMunicipalityCode": "1705308000",

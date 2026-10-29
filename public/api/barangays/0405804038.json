@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405804038",
-    "name": "Libid  (Pob.)",
+    "name": "Libid (Pob.)",
     "code": "045804038",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 8068,
+    "population2024": 8072,
     "regionCode": "0400000000",
     "provinceCode": "0405800000",
     "cityMunicipalityCode": "0405804000",

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501722022",
-    "name": "San Juan-San Lorenzo  (Pob.)",
+    "name": "San Juan-San Lorenzo (Pob.)",
     "code": "051722022",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1498,
+    "population2024": 1541,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501722000",

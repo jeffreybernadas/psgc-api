@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0402102022",
-    "name": "Barangay IX  (Pob.)",
+    "name": "Barangay IX (Pob.)",
     "code": "042102022",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 596,
+    "population2024": 619,
     "regionCode": "0400000000",
     "provinceCode": "0402100000",
     "cityMunicipalityCode": "0402102000",

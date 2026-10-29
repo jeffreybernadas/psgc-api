@@ -4,8 +4,11 @@
     "name": "City of General Santos",
     "code": "126303000",
     "geographicLevel": "City",
+    "oldName": "Dadiangas",
     "cityClass": "HUC",
+    "incomeClassification": "1st",
     "population2020": 697315,
+    "population2024": 722059,
     "regionCode": "1200000000",
     "provinceCode": "1230800000",
     "isCapital": false

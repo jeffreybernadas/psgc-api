@@ -4,7 +4,9 @@
     "name": "Balete",
     "code": "060402000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 30090,
+    "population2024": 30310,
     "regionCode": "0600000000",
     "provinceCode": "0600400000",
     "isCapital": false

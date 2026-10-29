@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501715003",
-    "name": "Bagumbayan Pequeño  (Pob.)",
+    "name": "Bagumbayan Pequeño (Pob.)",
     "code": "051715003",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 4344,
+    "population2024": 2994,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501715000",

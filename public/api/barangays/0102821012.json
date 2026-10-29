@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102821012",
-    "name": "San Leandro  (Pob.)",
+    "name": "San Leandro (Pob.)",
     "code": "012821012",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1268,
+    "population2024": 1272,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "cityMunicipalityCode": "0102821000",

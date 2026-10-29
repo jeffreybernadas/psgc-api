@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705205052",
-    "name": "San Vicente North  (Pob.)",
+    "name": "San Vicente North (Pob.)",
     "code": "175205052",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 570,
+    "population2024": 587,
     "regionCode": "1700000000",
     "provinceCode": "1705200000",
     "cityMunicipalityCode": "1705205000",

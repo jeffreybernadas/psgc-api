@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102812068",
-    "name": "Bgy. No. 5, San Pedro  (Pob.)",
+    "name": "Bgy. No. 5, San Pedro (Pob.)",
     "code": "012812068",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 1383,
+    "population2024": 1350,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "cityMunicipalityCode": "0102812000",

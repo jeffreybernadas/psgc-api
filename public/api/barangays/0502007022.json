@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0502007022",
-    "name": "Santa Ana  (Pob.)",
+    "name": "Santa Ana (Pob.)",
     "code": "052007022",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 423,
+    "population2024": 377,
     "regionCode": "0500000000",
     "provinceCode": "0502000000",
     "cityMunicipalityCode": "0502007000",

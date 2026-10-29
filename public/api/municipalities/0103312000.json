@@ -4,7 +4,9 @@
     "name": "Pugo",
     "code": "013312000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 19337,
+    "population2024": 19107,
     "regionCode": "0100000000",
     "provinceCode": "0103300000",
     "isCapital": false

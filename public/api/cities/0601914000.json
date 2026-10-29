@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "0601914000",
-    "name": "City of Roxas ",
+    "name": "City of Roxas",
     "code": "061914000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "2nd",
     "population2020": 179292,
+    "population2024": 185236,
     "regionCode": "0600000000",
     "provinceCode": "0601900000",
     "isCapital": true

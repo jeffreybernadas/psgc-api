@@ -4,7 +4,9 @@
     "name": "San Quintin",
     "code": "015537000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 33980,
+    "population2024": 34322,
     "regionCode": "0100000000",
     "provinceCode": "0105500000",
     "isCapital": false

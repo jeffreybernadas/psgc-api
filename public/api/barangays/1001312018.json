@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1001312018",
-    "name": "Indalaza",
+    "name": "Indalasa",
     "code": "101312018",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1979,
+    "population2024": 2096,
     "regionCode": "1000000000",
     "provinceCode": "1001300000",
     "cityMunicipalityCode": "1001312000",

@@ -4,7 +4,9 @@
     "name": "Lugait",
     "code": "104316000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd*",
     "population2020": 20559,
+    "population2024": 20946,
     "regionCode": "1000000000",
     "provinceCode": "1004300000",
     "isCapital": false

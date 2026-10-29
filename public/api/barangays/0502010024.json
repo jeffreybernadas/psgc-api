@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0502010024",
-    "name": "San Pedro  (Pob.)",
+    "name": "San Pedro (Pob.)",
     "code": "052010024",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 522,
+    "population2024": 465,
     "regionCode": "0500000000",
     "provinceCode": "0502000000",
     "cityMunicipalityCode": "0502010000",

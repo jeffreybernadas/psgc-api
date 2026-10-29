@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0305410017",
-    "name": "Sta. Cruz  (Pob.)",
+    "name": "Sta. Cruz (Pob.)",
     "code": "035410017",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 442,
+    "population2024": 982,
     "regionCode": "0300000000",
     "provinceCode": "0305400000",
     "cityMunicipalityCode": "0305410000",

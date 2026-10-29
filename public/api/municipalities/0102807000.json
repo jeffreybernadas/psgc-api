@@ -4,7 +4,9 @@
     "name": "Carasi",
     "code": "012807000",
     "geographicLevel": "Mun",
+    "incomeClassification": "5th",
     "population2020": 1607,
+    "population2024": 1775,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "isCapital": false

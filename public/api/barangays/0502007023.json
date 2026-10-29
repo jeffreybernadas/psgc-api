@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0502007023",
-    "name": "Santa Maria  (Pob.)",
+    "name": "Santa Maria (Pob.)",
     "code": "052007023",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 286,
+    "population2024": 222,
     "regionCode": "0500000000",
     "provinceCode": "0502000000",
     "cityMunicipalityCode": "0502007000",

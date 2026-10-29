@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0307102010",
-    "name": "Dolores  (Pob.)",
+    "name": "Dolores (Pob.)",
     "code": "037102010",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 1310,
+    "population2024": 1351,
     "regionCode": "0300000000",
     "provinceCode": "0307100000",
     "cityMunicipalityCode": "0307102000",

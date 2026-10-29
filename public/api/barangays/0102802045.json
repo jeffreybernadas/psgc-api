@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102802045",
-    "name": "Santa Filomena II  (Pob.)",
+    "name": "Santa Filomena II (Pob.)",
     "code": "012802045",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 344,
+    "population2024": 332,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "cityMunicipalityCode": "0102802000",

@@ -1,10 +1,12 @@
 [
   {
     "psgc10DigitCode": "0200901000",
-    "name": "Basco ",
+    "name": "Basco",
     "code": "020901000",
     "geographicLevel": "Mun",
+    "incomeClassification": "4th",
     "population2020": 9517,
+    "population2024": 9647,
     "regionCode": "0200000000",
     "provinceCode": "0200900000",
     "isCapital": true

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0304903013",
-    "name": "Barrera District  (Pob.)",
+    "name": "Barrera District (Pob.)",
     "code": "034903013",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 5290,
+    "population2024": 5217,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "cityMunicipalityCode": "0304903000",

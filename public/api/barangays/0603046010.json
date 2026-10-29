@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0603046010",
-    "name": "Zone I  (Pob.)",
+    "name": "Zone I (Pob.)",
     "code": "063046010",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 406,
+    "population2024": 391,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "cityMunicipalityCode": "0603046000",

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705315014",
-    "name": "Narra  (Pob.)",
+    "name": "Narra (Pob.)",
     "code": "175315014",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 12272,
+    "population2024": 12526,
     "regionCode": "1700000000",
     "provinceCode": "1705300000",
     "cityMunicipalityCode": "1705315000",

@@ -4,7 +4,9 @@
     "name": "General Luna",
     "code": "166710000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 22853,
+    "population2024": 25208,
     "regionCode": "1600000000",
     "provinceCode": "1606700000",
     "isCapital": false

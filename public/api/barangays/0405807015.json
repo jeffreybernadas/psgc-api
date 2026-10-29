@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405807015",
-    "name": "Special District  (Pob.)",
+    "name": "Special District (Pob.)",
     "code": "045807015",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 4513,
+    "population2024": 4527,
     "regionCode": "0400000000",
     "provinceCode": "0405800000",
     "cityMunicipalityCode": "0405807000",

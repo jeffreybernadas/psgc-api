@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705310008",
-    "name": "Lagaoriao  (Pob.)",
+    "name": "Lagaoriao (Pob.)",
     "code": "175310008",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 807,
+    "population2024": 866,
     "regionCode": "1700000000",
     "provinceCode": "1705300000",
     "cityMunicipalityCode": "1705310000",

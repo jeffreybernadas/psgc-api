@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0603023057",
-    "name": "San Julian  (Pob.)",
+    "name": "San Julian (Pob.)",
     "code": "063023057",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1428,
+    "population2024": 1439,
     "regionCode": "0600000000",
     "provinceCode": "0603000000",
     "cityMunicipalityCode": "0603023000",

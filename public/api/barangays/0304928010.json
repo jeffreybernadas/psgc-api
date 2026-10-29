@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0304928010",
-    "name": "Rizal  (Pob.)",
+    "name": "Rizal (Pob.)",
     "code": "034928010",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2083,
+    "population2024": 2120,
     "regionCode": "0300000000",
     "provinceCode": "0304900000",
     "cityMunicipalityCode": "0304928000",

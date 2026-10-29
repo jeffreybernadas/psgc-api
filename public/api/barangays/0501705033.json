@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501705033",
-    "name": "San Roque  (Pob.)",
+    "name": "San Roque (Pob.)",
     "code": "051705033",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 772,
+    "population2024": 729,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501705000",

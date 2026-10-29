@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1030500078",
-    "name": "Barangay 31  (Pob.)",
+    "name": "Barangay 31 (Pob.)",
     "code": "104305078",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 575,
+    "population2024": 496,
     "regionCode": "1000000000",
     "provinceCode": "1030500000",
     "cityMunicipalityCode": "1030500000",

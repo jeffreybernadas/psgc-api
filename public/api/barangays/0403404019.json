@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0403404019",
-    "name": "Barangay Tres  (Pob.)",
+    "name": "Barangay Tres (Pob.)",
     "code": "043404019",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 4274,
+    "population2024": 2216,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "cityMunicipalityCode": "0403404000",

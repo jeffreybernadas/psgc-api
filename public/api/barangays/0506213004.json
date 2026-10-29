@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0506213004",
-    "name": "Banuyo  (Pob.)",
+    "name": "Banuyo (Pob.)",
     "code": "056213004",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 3809,
+    "population2024": 3967,
     "regionCode": "0500000000",
     "provinceCode": "0506200000",
     "cityMunicipalityCode": "0506213000",

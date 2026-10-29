@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0307101011",
-    "name": "Paco  (Pob.)",
+    "name": "Paco (Pob.)",
     "code": "037101011",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1935,
+    "population2024": 1964,
     "regionCode": "0300000000",
     "provinceCode": "0307100000",
     "cityMunicipalityCode": "0307101000",

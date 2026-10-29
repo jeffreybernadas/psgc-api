@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1903605020",
-    "name": "Pagalamatan  (Pob.)",
+    "name": "Pagalamatan (Pob.)",
     "code": "153605020",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1789,
+    "population2024": 1861,
     "regionCode": "1900000000",
     "provinceCode": "1903600000",
     "cityMunicipalityCode": "1903605000",

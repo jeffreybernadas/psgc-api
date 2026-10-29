@@ -4,7 +4,9 @@
     "name": "Ibaan",
     "code": "041010000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 58507,
+    "population2024": 58673,
     "regionCode": "0400000000",
     "provinceCode": "0401000000",
     "isCapital": false

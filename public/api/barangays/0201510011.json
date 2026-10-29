@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0201510011",
-    "name": "Centro Norte  (Pob.)",
+    "name": "Centro Norte (Pob.)",
     "code": "021510011",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1110,
+    "population2024": 1091,
     "regionCode": "0200000000",
     "provinceCode": "0201500000",
     "cityMunicipalityCode": "0201510000",

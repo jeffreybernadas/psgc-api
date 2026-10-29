@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1606723004",
-    "name": "Navarro  (Pob.)",
+    "name": "Navarro (Pob.)",
     "code": "166723004",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 2822,
+    "population2024": 3657,
     "regionCode": "1600000000",
     "provinceCode": "1606700000",
     "cityMunicipalityCode": "1606723000",

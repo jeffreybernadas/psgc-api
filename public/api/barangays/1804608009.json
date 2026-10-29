@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1804608009",
-    "name": "Mabigo  (Pob.)",
+    "name": "Mabigo (Pob.)",
     "code": "074608009",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 12406,
+    "population2024": 13183,
     "regionCode": "1800000000",
     "provinceCode": "1804600000",
     "cityMunicipalityCode": "1804608000",

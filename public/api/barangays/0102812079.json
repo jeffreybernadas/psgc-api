@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0102812079",
-    "name": "Bgy. No. 29, Santo Tomas  (Pob.)",
+    "name": "Bgy. No. 29, Santo Tomas (Pob.)",
     "code": "012812079",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1458,
+    "population2024": 1511,
     "regionCode": "0100000000",
     "provinceCode": "0102800000",
     "cityMunicipalityCode": "0102812000",

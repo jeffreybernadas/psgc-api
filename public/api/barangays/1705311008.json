@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705311008",
-    "name": "Dumaran  (Pob.)",
+    "name": "Dumaran (Pob.)",
     "code": "175311008",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 2027,
+    "population2024": 2162,
     "regionCode": "1700000000",
     "provinceCode": "1705300000",
     "cityMunicipalityCode": "1705311000",

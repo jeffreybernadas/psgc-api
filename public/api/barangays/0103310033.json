@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0103310033",
-    "name": "Salcedo  (Pob.)",
+    "name": "Salcedo (Pob.)",
     "code": "013310033",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1148,
+    "population2024": 1106,
     "regionCode": "0100000000",
     "provinceCode": "0103300000",
     "cityMunicipalityCode": "0103310000",

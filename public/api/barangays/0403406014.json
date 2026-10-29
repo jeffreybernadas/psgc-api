@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0403406014",
-    "name": "Silangan  (Pob.)",
+    "name": "Silangan (Pob.)",
     "code": "043406014",
     "geographicLevel": "Brgy",
-    "urbanRural": "Rural",
+    "urbanRural": "Urban",
     "population2020": 1662,
+    "population2024": 1791,
     "regionCode": "0400000000",
     "provinceCode": "0403400000",
     "cityMunicipalityCode": "0403406000",

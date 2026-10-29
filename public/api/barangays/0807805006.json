@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0807805006",
-    "name": "Bool West  (Pob.)",
+    "name": "Bool West (Pob.)",
     "code": "087805006",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 791,
+    "population2024": 813,
     "regionCode": "0800000000",
     "provinceCode": "0807800000",
     "cityMunicipalityCode": "0807805000",

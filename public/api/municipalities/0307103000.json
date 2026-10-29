@@ -4,7 +4,9 @@
     "name": "Candelaria",
     "code": "037103000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 30263,
+    "population2024": 32182,
     "regionCode": "0300000000",
     "provinceCode": "0307100000",
     "isCapital": false

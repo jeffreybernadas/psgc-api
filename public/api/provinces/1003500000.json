@@ -4,7 +4,9 @@
     "name": "Lanao del Norte",
     "code": "103500000",
     "geographicLevel": "Prov",
+    "incomeClassification": "1st",
     "population2020": 722902,
+    "population2024": 761725,
     "regionCode": "1000000000"
   }
 ]

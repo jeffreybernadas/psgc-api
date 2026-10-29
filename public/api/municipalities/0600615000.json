@@ -4,7 +4,9 @@
     "name": "Sebaste",
     "code": "060615000",
     "geographicLevel": "Mun",
+    "incomeClassification": "3rd",
     "population2020": 18816,
+    "population2024": 19365,
     "regionCode": "0600000000",
     "provinceCode": "0600600000",
     "isCapital": false

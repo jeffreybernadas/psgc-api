@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0504120002",
-    "name": "Bolod  (Pob.)",
+    "name": "Bolod (Pob.)",
     "code": "054120002",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 3626,
+    "population2024": 3436,
     "regionCode": "0500000000",
     "provinceCode": "0504100000",
     "cityMunicipalityCode": "0504120000",

@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1704001061",
-    "name": "Isok I  (Pob.)",
+    "name": "Isok I (Pob.)",
     "code": "174001061",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1199,
+    "population2024": 919,
     "regionCode": "1700000000",
     "provinceCode": "1704000000",
     "cityMunicipalityCode": "1704001000",

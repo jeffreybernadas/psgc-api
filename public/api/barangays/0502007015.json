@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0502007015",
-    "name": "San Joaquin  (Pob.)",
+    "name": "San Joaquin (Pob.)",
     "code": "052007015",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 402,
+    "population2024": 359,
     "regionCode": "0500000000",
     "provinceCode": "0502000000",
     "cityMunicipalityCode": "0502007000",

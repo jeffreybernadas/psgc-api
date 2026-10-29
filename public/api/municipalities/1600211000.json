@@ -4,7 +4,9 @@
     "name": "Tubay",
     "code": "160211000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 25785,
+    "population2024": 26463,
     "regionCode": "1600000000",
     "provinceCode": "1600200000",
     "isCapital": false

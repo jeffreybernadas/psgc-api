@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0907328027",
-    "name": "New Village  (Pob.)",
+    "name": "New Village (Pob.)",
     "code": "097328027",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1982,
+    "population2024": 2124,
     "regionCode": "0900000000",
     "provinceCode": "0907300000",
     "cityMunicipalityCode": "0907328000",

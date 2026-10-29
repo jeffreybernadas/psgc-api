@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0501705029",
-    "name": "San Pascual  (Pob.)",
+    "name": "San Pascual (Pob.)",
     "code": "051705029",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1238,
+    "population2024": 1070,
     "regionCode": "0500000000",
     "provinceCode": "0501700000",
     "cityMunicipalityCode": "0501705000",

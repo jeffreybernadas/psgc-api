@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1705308005",
-    "name": "Lipot South  (Pob.)",
+    "name": "Lipot South (Pob.)",
     "code": "175308005",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 196,
+    "population2024": 190,
     "regionCode": "1700000000",
     "provinceCode": "1705300000",
     "cityMunicipalityCode": "1705308000",

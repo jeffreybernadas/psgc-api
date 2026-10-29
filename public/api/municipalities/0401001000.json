@@ -4,7 +4,9 @@
     "name": "Agoncillo",
     "code": "041001000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 39101,
+    "population2024": 40662,
     "regionCode": "0400000000",
     "provinceCode": "0401000000",
     "isCapital": false

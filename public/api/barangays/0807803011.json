@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0807803011",
-    "name": "Magbangon  (Pob.)",
+    "name": "Magbangon (Pob.)",
     "code": "087803011",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 1704,
+    "population2024": 1810,
     "regionCode": "0800000000",
     "provinceCode": "0807800000",
     "cityMunicipalityCode": "0807803000",

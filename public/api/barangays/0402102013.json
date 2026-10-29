@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0402102013",
-    "name": "Barangay XI  (Pob.)",
+    "name": "Barangay XI (Pob.)",
     "code": "042102013",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 417,
+    "population2024": 423,
     "regionCode": "0400000000",
     "provinceCode": "0402100000",
     "cityMunicipalityCode": "0402102000",

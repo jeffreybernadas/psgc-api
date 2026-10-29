@@ -4,7 +4,9 @@
     "name": "Subic",
     "code": "037114000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 111912,
+    "population2024": 116788,
     "regionCode": "0300000000",
     "provinceCode": "0307100000",
     "isCapital": false

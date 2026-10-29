@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1804528021",
-    "name": "Zone 16  (Pob.)",
+    "name": "Zone 16 (Pob.)",
     "code": "064528021",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 4961,
+    "population2024": 4327,
     "regionCode": "1800000000",
     "provinceCode": "1804500000",
     "cityMunicipalityCode": "1804528000",

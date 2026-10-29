@@ -4,7 +4,9 @@
     "name": "Mahatao",
     "code": "020904000",
     "geographicLevel": "Mun",
+    "incomeClassification": "5th",
     "population2020": 1703,
+    "population2024": 1745,
     "regionCode": "0200000000",
     "provinceCode": "0200900000",
     "isCapital": false

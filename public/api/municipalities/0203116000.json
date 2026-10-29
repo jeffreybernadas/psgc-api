@@ -4,7 +4,9 @@
     "name": "Luna",
     "code": "023116000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 20697,
+    "population2024": 21015,
     "regionCode": "0200000000",
     "provinceCode": "0203100000",
     "isCapital": false

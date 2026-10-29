@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "1400101029",
-    "name": "Zone 6 Pob. ",
+    "name": "Zone 6 Pob.",
     "code": "140101029",
     "geographicLevel": "Brgy",
+    "oldName": "Sinapangan",
     "urbanRural": "Urban",
     "population2020": 1853,
+    "population2024": 1739,
     "regionCode": "1400000000",
     "provinceCode": "1400100000",
     "cityMunicipalityCode": "1400101000",

@@ -4,7 +4,9 @@
     "name": "Tukuran",
     "code": "097330000",
     "geographicLevel": "Mun",
+    "incomeClassification": "2nd",
     "population2020": 42429,
+    "population2024": 42683,
     "regionCode": "0900000000",
     "provinceCode": "0907300000",
     "isCapital": false

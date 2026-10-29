@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0405619047",
-    "name": "Tabing Dagat  (Pob.)",
+    "name": "Tabing Dagat (Pob.)",
     "code": "045619047",
     "geographicLevel": "Brgy",
-    "urbanRural": "Urban",
+    "urbanRural": "Rural",
     "population2020": 2867,
+    "population2024": 2818,
     "regionCode": "0400000000",
     "provinceCode": "0405600000",
     "cityMunicipalityCode": "0405619000",

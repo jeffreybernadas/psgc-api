@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "1731500027",
-    "name": "Manggahan  (Pob.)",
+    "name": "Manggahan (Pob.)",
     "code": "175316027",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 569,
+    "population2024": 602,
     "regionCode": "1700000000",
     "provinceCode": "1731500000",
     "cityMunicipalityCode": "1731500000",

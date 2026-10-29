@@ -4,7 +4,9 @@
     "name": "Panglao",
     "code": "071233000",
     "geographicLevel": "Mun",
+    "incomeClassification": "1st",
     "population2020": 39839,
+    "population2024": 41760,
     "regionCode": "0700000000",
     "provinceCode": "0701200000",
     "isCapital": false

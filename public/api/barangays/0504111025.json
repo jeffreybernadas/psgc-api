@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0504111025",
-    "name": "Pating  (Pob.)",
+    "name": "Pating (Pob.)",
     "code": "054111025",
     "geographicLevel": "Brgy",
     "urbanRural": "Urban",
     "population2020": 3892,
+    "population2024": 3570,
     "regionCode": "0500000000",
     "provinceCode": "0504100000",
     "cityMunicipalityCode": "0504111000",

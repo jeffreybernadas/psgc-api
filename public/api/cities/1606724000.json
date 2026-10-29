@@ -1,11 +1,13 @@
 [
   {
     "psgc10DigitCode": "1606724000",
-    "name": "City of Surigao ",
+    "name": "City of Surigao",
     "code": "166724000",
     "geographicLevel": "City",
     "cityClass": "CC",
+    "incomeClassification": "2nd",
     "population2020": 171107,
+    "population2024": 177333,
     "regionCode": "1600000000",
     "provinceCode": "1606700000",
     "isCapital": true

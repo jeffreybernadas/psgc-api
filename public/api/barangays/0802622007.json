@@ -1,11 +1,12 @@
 [
   {
     "psgc10DigitCode": "0802622007",
-    "name": "Maglipay  (Pob.)",
+    "name": "Maglipay (Pob.)",
     "code": "082622007",
     "geographicLevel": "Brgy",
     "urbanRural": "Rural",
     "population2020": 944,
+    "population2024": 961,
     "regionCode": "0800000000",
     "provinceCode": "0802600000",
     "cityMunicipalityCode": "0802622000",
