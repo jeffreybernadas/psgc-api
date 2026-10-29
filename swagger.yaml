@@ -1064,6 +1064,9 @@ components:
         population2020:
           type: number
           description: The population count of the region in 2020.
+        population2024:
+          type: number
+          description: The population count of the region in 2024.
         regionName:
           type: string
           description: The complete name of the region.
@@ -1091,6 +1094,9 @@ components:
         population2020:
           type: number
           description: The population count of the province in 2020.
+        population2024:
+          type: number
+          description: The population count of the province in 2024.
         regionCode:
           type: string
           description: The 10-digit PSGC code of the region where the province belongs.
@@ -1121,6 +1127,9 @@ components:
         population2020:
           type: number
           description: The population count of the city in 2020.
+        population2024:
+          type: number
+          description: The population count of the city in 2024.
         regionCode:
           type: string
           description: The 10-digit PSGC code of the region where the city belongs.
@@ -1154,6 +1163,9 @@ components:
         population2020:
           type: number
           description: The population count of the municipality in 2020.
+        population2024:
+          type: number
+          description: The population count of the municipality in 2024.
         regionCode:
           type: string
           description: The 10-digit PSGC code of the region where the municipality belongs.
@@ -1190,6 +1202,9 @@ components:
         population2020:
           type: number
           description: The population count of the city/municipality in 2020.
+        population2024:
+          type: number
+          description: The population count of the city/municipality in 2024.
         regionCode:
           type: string
           description: The 10-digit PSGC code of the region where the city/municipality belongs.
@@ -1217,6 +1232,9 @@ components:
         population2020:
           type: number
           description: The population count of the sub-municipality in 2020.
+        population2024:
+          type: number
+          description: The population count of the sub-municipality in 2024.
         regionCode:
           type: string
           description: The 10-digit PSGC code of the region where the sub-municipality belongs.
@@ -1250,6 +1268,9 @@ components:
         population2020:
           type: number
           description: The population count of the barangay in 2020.
+        population2024:
+          type: number
+          description: The population count of the barangay in 2024.
         regionCode:
           type: string
           description: The 10-digit PSGC code of the region where the barangay belongs.

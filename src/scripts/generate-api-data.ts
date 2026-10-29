@@ -16,6 +16,7 @@ interface PSGCData {
   incomeClassification?: string;
   urbanRural?: string;
   population2020: number;
+  population2024: number;
   status?: string;
 }
 
@@ -109,10 +110,8 @@ function processBarangay(data: PSGCData): ProcessedData {
   const codes = extractCodes(data.psgc10DigitCode);
 
   // Check if this barangay belongs to a submunicipality
-  const hasSubMunicipality = rawData.some(
-    (item) =>
-      item.geographicLevel === 'SubMun' &&
-      item.psgc10DigitCode.slice(0, 7) === data.psgc10DigitCode.slice(0, 7),
+  const hasSubMunicipality = subMunicipalityPrefixes.has(
+    data.psgc10DigitCode.slice(0, 7),
   );
 
   // Base barangay data
@@ -154,12 +153,18 @@ function writeFile(relativePath: string, data: unknown): void {
 }
 
 let rawData: PSGCData[] = [];
+let subMunicipalityPrefixes = new Set<string>();
 
 export function generatePSGCData(): void {
   try {
     rawData = fs.readJsonSync(
       path.resolve(__dirname, '../../src/data/psgc-json/psgc.json'),
     ) as PSGCData[];
+    subMunicipalityPrefixes = new Set(
+      rawData
+        .filter((d) => d.geographicLevel === 'SubMun')
+        .map((d) => d.psgc10DigitCode.slice(0, 7)),
+    );
 
     // Process and write regions
     const regions = rawData
