@@ -1,7 +1,7 @@
 module.exports = {
   preset: 'ts-jest',
   testEnvironment: 'node',
-  roots: ['<rootDir>/src/__tests__'],
+  roots: ['<rootDir>/src'],
   modulePathIgnorePatterns: ['<rootDir>/src/__tests__/helpers/*'],
   transform: {
     '^.+\\.tsx?$': 'ts-jest',
@@ -17,5 +17,7 @@ module.exports = {
     '/__tests__/',
     '/src/scripts/',
     '/src/utils/logger.util.ts',
+    '/src/index.ts',
+    '/src/types/',
   ],
 };
